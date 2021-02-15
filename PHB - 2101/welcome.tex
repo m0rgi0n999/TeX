@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{geometry}
+\geometry{letterpaper, portrait, textwidth=540pt, textheight=665pt, top=72pt, outer=36pt, twoside, paperheight=783pt, paperwidth=590pt, headheight=36pt, headsep=24pt, footskip=18pt}
+\usepackage{lipsum}
+\usepackage[svgnames]{xcolor} % Enabling colors by their 'svgnames'
+\usepackage{fontspec}
+\usepackage{sectsty} % Enables custom section titles
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{atbegshi}
+\usepackage{changepage}
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+
+\graphicspath{{images/}}
+
+\AddToShipoutPictureBG{%
+	\checkoddpage
+	\ifoddpage
+	\put(0,0){\includegraphics{2101-left.jpg}}
+	\else
+	\put(0,0){\includegraphics{2101-right.jpg}}
+	\fi
+}
+
+\newcommand{\changefont}{%
+	\fontsize{18}{22}\selectfont
+}
+
+\chead{\textcolor{white}{\changefont{Welcome to the Second Edition AD\&D\textsuperscript{\textregistered}\ Game}}}
+
+\pagestyle{fancy}
+\setmainfont{Book Antiqua}
+\setsansfont{Palatino}
+\setlist{noitemsep}                         % Remove space between list items.
+\setlist[description]{font=\fontseries{ub}} % Make description list title item bolder.
+\setlength{\columnsep}{18pt}                 % Add space between columns.
+%\setlength{\textheight}{25cm}               % Make text fit tighter in page.
+\definecolor{dndblue}{HTML}{4169e1}         % Colorpicked from PHB 3.5e.
+
+\begin{document}
+	\begin{multicols}{3}
+		\lipsum[1-20]
+	\end{multicols}
+\end{document}
