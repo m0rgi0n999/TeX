@@ -1,0 +1,1194 @@
+<WRAP centeralign>
+<fs xx-large><ff:'QuentinEF Medium'>DUNGEONS & DRAGONSDUNGEONS & DRAGONS</ff>®</fs>\\
+<ff:'Souvenir Demi'><fs x-large>**Book I**</fs></ff>\\
+<ff:'NauertWd-Plain'><fs xx-large>MEN & MAGIC</fs></ff>\\
+<ff:'Souvenir Demi'>BY\\
+GARY GYGAX & DAVE ARNESON\\
+
+
+Dedicated to all the fantasy wargamers who have enthusiastically\\
+played and expanded upon the CHAINMAIL® Fantasy Rules, with\\
+thanks and gratitude. Here is something better! Special thanks to the\\
+Midwest Military Simulation Association, the Lake Geneva Tactical\\
+Studies Association, Rob Kuntz, and Tom Keogh (in memoriam).\\
+
+
+Illustrations By\\
+Keenan Powell, Greg Bell, C. Corey, D. Arneson,\\
+T. Keogh, and David Sutherland</ff>\\
+</WRAP>
+<WRAP justify>
+Index
+Foreword .................................................................................................... 3
+Introduction ............................................................................................... 4
+Scope......... ............................................................................................... 5
+Equipment ................................................................................................. 5
+Preparations for the Campaign ..................................................................... 5
+Characters ................................................................................................. 6
+Character Alignment, Including Monsters ................................................ 9
+Determination of Abilities ............................................................................ 10
+Languages ................................................................................................ 12
+Non-Player Characters ............................................................................... 12
+Basic Equipment and Costs ......................................................................... 13
+Encumbrance ............................................................................................. 15
+Weights and Equivalents ............................................................................. 15
+Levels and Number of Experience Points
+Necessary to Attain Them .................................................................... 16
+Statistics Regarding Classes ......................................................................... 17
+Alternative Combat System .......................................................................... 19
+Saving Throw Matrix .................................................................................. 20
+Spells Table — Magic-Users ........................................................................ 21
+Clerics ................................................................................ 22
+Explanation of Spells .................................................................................. 23
+Magical Research ...................................................................................... 34
+Books of Spells .......................................................................................... 343
+Foreword
+ONCE UPON A TIME, long, long ago there was a little group known as the
+Castle and Crusade Society. Their fantasy rules were published, and to this writer’s knowledge, brought about much of the current interest in fantasy wargaming.
+For a time the group grew and prospered, and Dave Arneson decided to begin
+a medieval fantasy campaign game for his active Twin Cities club. From the map
+of the “land” of the “Great Kingdom” and environs — the territory of the C & C
+Society — Dave located a nice bog wherein to nest the weird enclave of “Blackmoor,” a spot between the “Great Kingdom” and the fearsome “Egg of Coot.”
+From the CHAINMAIL® fantasy rules he drew ideas for a far more complex and
+exciting game, and thus began a campaign which still thrives as of this writing!
+In due course the news reached my ears, and the result is what you have in your
+hands at this moment. While the C & C Society is no longer, its spirit lives on, and
+we believe that all wargamers who are interested in the medieval period, not just
+fantasy buffs, will enjoy playing DUNGEONS & DRAGONS®. Its possibilities go
+far beyond any previous offerings anywhere!
+While it is possible to play a single game, unrelated to any other game events
+past or future, it is the campaign for which these rules are designed. It is relatively
+simple to set up a fantasy campaign, and better still, it will cost almost nothing. In
+fact you will not even need miniature figures, although their occasional employment
+is recommended for real spectacle when battles are fought. A quick glance at the
+Equipment section of this booklet will reveal just how little is required. The most extensive requirement is time. The campaign referee will have to have sufficient time to
+meet the demands of his players, he will have to devote a number of hours to laying
+out the maps of his “dungeons” and upper terrain before the affair begins. The third
+booklet of this set will be of great help in this respect, for a number of helpful suggestions regarding how to accomplish it all have been given in order to help you
+accomplish the task with a minimum of time and effort. There should be no want of
+players, for there is unquestionably a fascination in this fantasy game — evidenced
+even by those who could not by any stretch of the imagination be termed ardent
+wargamers. The longevity of existing campaigns (notably “Blackmoor” in the Twin
+Cities and “Greyhawk” in Lake Geneva) and the demand for these rules from people
+outside these campaigns point towards a fantastic future. Tactical Studies Rules believes that of all forms of wargaming, fantasy will soon become the major contender
+for first place. The section of this booklet entitled Scope will provide an idea of just
+how many possibilities are inherent in DUNGEONS & DRAGONS.
+These rules are strictly fantasy. Those wargamers who lack imagination, those
+who don’t care for Burroughs’ Martian adventures where John Carter is groping
+through black pits, who feel no thrill upon reading Howard’s Conan saga, who do
+not enjoy the de Camp & Pratt fantasies or Fritz Leiber’s Fafhrd and the Gray Mouser
+pitting their swords against evil sorceries will not be likely to find DUNGEONS &
+DRAGONS to their taste. But those whose imaginations know no bounds will find
+that these rules are the answer to their prayers. With this last bit of advice we invite
+you to read on and enjoy a “world” where the fantastic is fact and magic really
+works!
+E. Gary Gygax 1 November 1973
+Tactical Studies Rules Editor Lake Geneva, Wisconsin4
+INTRODUCTION:
+These rules are as complete as possible within the limitations imposed by the
+space of three booklets. That is, they cover the major aspects of fantasy campaigns
+but still remain flexible. As with any other set of miniatures rules they are guidelines
+to follow in designing your own fantastic-medieval campaign. They provide the
+framework around which you will build a game of simplicity or tremendous complexity — your time and imagination are about the only limiting factors, and the
+fact that you have purchased these rules tends to indicate that there is no lack of
+imagination — the fascination of the game will tend to make participants find more
+and more time. We advise, however, that a campaign be begun slowly, following
+the steps outlined herein, so as to avoid becoming too bogged down with unfamiliar
+details at first. That way your campaign will build naturally, at the pace best suited
+to the referee and players, smoothing the way for all concerned. New details can
+be added and old “laws” altered so as to provide continually new and different situations. In addition, the players themselves will interact in such a way as to make the
+campaign variable and unique, and this is quite desirable.
+If you are a player purchasing the DUNGEONS & DRAGONS rules in order to
+improve your situation in an existing campaign, you will find that there is a great
+advantage in knowing what is herein. If your referee has made changes in the
+rules and/or tables, simply note them in pencil (for who knows when some flux of
+the cosmos will make things shift once again!), and keep the rules nearby as you
+play. A quick check of some rule or table may bring hidden treasure or save your
+game “life.”
+Men & Magic (Book I) details what characters can be played, potentials,
+limitations, and various magical spells. Monsters & Treasure (Book II) describes
+the beasts and creatures which will be encountered, as well as the kind and amount
+of treasure they are likely to guard, including magical items. Finally, The Underworld & Wilderness Adventures (Book III) tells how to set up and actually play
+the campaign. It is presented last in order to allow the reader to gain the perspective
+necessary — the understanding of the two preceding booklets. Read through the
+entire work in the order presented before you attempt to play.5
+SCOPE:
+With the various equipage listed in the following section, DUNGEONS &
+DRAGONS will provide a basically complete, nearly endless campaign of all
+levels of fantastic-medieval wargame play. Actually, the scope need not be restricted to the medieval; it can stretch from the prehistoric to the imagined future,
+but such expansion is recommended only at such time as the possibilities in the
+medieval aspect have been thoroughly explored. The use of paper, pencil and
+map boards are standard. Miniature figures can be added if the players have
+them available and so desire, but miniatures are not required, only esthetically
+pleasing; similarly, unit counters can be employed — with or without figures —
+although by themselves the bits of cardboard lack the eye-appeal of the varied
+and brightly painted miniature figures.
+Age Level: 12 years and up.
+Number of Players: At least one referee and from four to fifty players can be
+handled in any single campaign, but the referee to player ratio should be about
+1:20 or thereabouts.
+RECOMMENDED EQUIPMENT:
+Dungeons & Dragons (you have it!)
+Dice — The following different kinds of dice:
+1 pair 4-sided dice 1 pair 20-sided dice
+1 pair 8-sided dice 1 pair 12-sided dice
+4 to 20 pairs 6-sided dice
+Chainmail miniature rules, latest edition
+1 3-Ring Notebook (referee and each player)
+Graph Paper (6 lines per inch is best)
+Sheet Protectors (heaviest possible)
+3-Ring Lined Paper
+Drafting Equipment and Colored Pencils
+Scratch Paper and Pencils
+Imagination
+1 Patient Referee
+Players
+PREPARATION FOR THE CAMPAIGN:
+The referee bears the entire burden here, but if care and thought are used, the
+reward will more than repay him. First, the referee must draw out a minimum of
+half a dozen maps of the levels of his “underworld,” people them with monsters of
+various horrid aspect, distribute treasures accordingly, and note the location of the
+latter two on keys, each corresponding to the appropriate level. This operation will
+be more fully described in the third book of these rules. When this task is completed
+the participants can then be allowed to make their first descent into the dungeons
+beneath the “huge ruined pile, a vast castle built by generations of mad wizards and
+insane geniuses.” Before they begin, players must decide what role they will play
+in the campaign, human or otherwise, fighter, cleric, or magic-user. Thereafter they6
+will work upwards — if they survive — as they gain “experience.” First, however, it
+is necessary to describe fully the roles possible.
+CHARACTERS:
+There are three (3) main classes of characters:
+Fighting-Men
+Magic-Users
+Clerics
+Fighting-Men includes the characters of elves and dwarves and even halflings.
+Magic-Users includes only men and elves. Clerics are limited to men only. All
+non-human players are restricted in some aspects and gifted in others. This will be
+dealt with in the paragraphs pertaining to each non-human type.
+Fighting-Men: All magical weaponry is usable by fighters, and this in itself is a
+big advantage. In addition, they gain the advantage of more “hit dice” (the score
+of which determines how many points of damage can be taken before a character
+is killed). They can use only a very limited number of magical items of the nonweaponry variety, however, and they can use no spells. Top-level fighters (Lords and
+above) who build castles are considered “Barons,” and as such they may invest in
+their holdings in order to increase their income (see the INVESTMENTS section of
+Book III). Base income for a Baron is a tax rate of 10 Gold Pieces/inhabitant of the
+barony/game year.
+Magic-Users: Top level magic-users are perhaps the most powerful characters in
+the game, but it is a long, hard road to the top, and to begin with they are weak, so
+survival is often the question, unless fighters protect the low-level magical types until
+they have worked up. The whole plethora of enchanted items lies at the magic-user’s
+beck and call, save the arms and armor of the fighters (see, however, Elves); MagicUsers may arm themselves with daggers only. Wizards and above may manufacture
+for their own use (or for sale) such items as potions, scrolls, and just about anything
+else magical. Costs are commensurate with the value of the item, as is the amount of
+game time required to enchant it.7
+Examples of costs are:
+Item Cost
+Scroll of Spells 100 Gold Pieces/Spell/Spell Level/Week
+(a 5th-level spell would require 500 GP and
+5 weeks)
+Potion of Healing 250 Gold Pieces + 1 week
+Potion of Giant Strength 1,000 Gold Pieces + 4 weeks
+Enchanting 20 Arrows 1,000 Gold Pieces + 4 weeks
+Enchanting Armor to +1 2,000 Gold Pieces + 2 months
+Wand of Cold 10,000 Gold Pieces + 6 months
+X-Ray Vision Ring 50,000 Gold Pieces + 1 year
+Research by magical types can be done at any level of experience, but the level of
+magic involved dictates the possibility of success, as well as the amount of money
+necessary to invest. Assume that a Magic-User can use a 4th-level spell (explained
+later), therefore he could develop a new spell provided it was equal to or less than
+4th level. All this will be explained fully in the section dealing with SPELLS.
+Clerics: Clerics gain some of the advantages from both of the other two classes
+(Fighting-Men and Magic-Users) in that they have the use of magic armor and
+all non-edged magic weapons (no arrows!), plus they have numbers of their own
+spells. In addition, they are able to use more of the magical items than are the
+Fighting-Men. When Clerics reach the top level (Patriarch) they may opt to build
+their own stronghold, and when doing so receive help from “above.” Thus, if
+they spend 100,000 Gold Pieces in castle construction, they may build a fortress
+of double that cost. Finally, “faithful” men will come to such a castle, being fanatically loyal, and they will serve at no cost. There will be from 10–60 heavy cavalry, 10–60 horsed crossbowmen (“Turcopole”-type), and 30–180 heavy foot.
+Note that Clerics of 7th level and greater are either “Law” or “Chaos,” and
+there is a sharp distinction between them. If a Patriarch receiving the above benefits
+changes sides, all the benefits will immediately be removed!
+Clerics with castles of their own will have control of a territory similar to the
+“Barony” of fighters, and they will receive “tithes” equal to 20 Gold Pieces/Inhabitant/year.
+Dwarves: Dwarves may opt only for the fighting class, and they may never progress beyond the 6th level (Myrmidon). Their advantages are: 1) they have a high
+level of magic resistance, and they thus add four levels when rolling saving throws
+(a 6th-level dwarf equals a 10th-level human); 2) they are the only characters able
+to fully employ the +3 Magic War Hammer (explained in Book II); 3) they note
+slanting passages, traps, shifting walls and new construction in underground settings; and 4) they are able to speak the languages of Gnomes, Kobolds and Goblins in addition to the usual tongues (see LANGUAGES in this book).8
+Elves: Elves can begin as either Fighting-Men or Magic-Users and freely switch
+class whenever they choose, from adventure to adventure, but not during the
+course of a single game. Thus, they gain the benefits of both classes and may
+use both weaponry and spells. They may use magic armor and still act as MagicUsers. However, they may not progress beyond 4th level Fighting-Man (Hero)
+nor 8th level Magic-User (Warlock). Elves are more able to note secret and hidden doors. They also gain the advantages noted in the CHAINMAIL rules when
+fighting certain fantastic creatures. Finally, Elves are able to speak the languages
+of Orcs, Hobgoblins, and Gnolls in addition to their own (Elvish) and the other
+usual tongues.
+Halflings: Should any player wish to be one, he will be limited to the FightingMen class as a halfling. Halflings cannot progress beyond the 4th level (Hero),
+but they will have magic-resistance equal to dwarves (add four levels for saving throws), and they will have deadly accuracy with missiles as detailed in
+CHAINMAIL.
+Other Character Types: There is no reason that players cannot be allowed to
+play as virtually anything, provided they begin relatively weak and work up to
+the top, i.e., a player wishing to be a Dragon would have to begin as, let us say,
+a “young” one and progress upwards in the usual manner, steps being predetermined by the campaign referee.9
+Character Alignment, Including Various Monsters and Creatures: Before the game begins it is not only necessary to select a role, but it is also necessary
+to determine what stance the character will take — Law, Neutrality, or Chaos.
+Character types are limited as follows by this alignment:
+Law Neutrality Chaos
+Men* Men* Men*
+Halflings Nixies
+Patriarchs Pixies Evil High Priests
+Treants Dryads Goblins/Kobolds
+Griffons Hobgoblins/Gnolls
+Giants
+Unicorns Animals Orcs
+Pegasi Elves* Ogres
+Hippogriffs Rocs* Trolls
+Elves* Dwarves/Gnomes* Wights
+Lycanthropes* Lycanthropes* Lycanthropes*
+Rocs* Orcs Ghouls
+Dwarves/Gnomes* Ogres
+Centaurs* Dragons Wraiths
+Wyverns Mummies
+Centaurs* Spectres
+Hydrae Vampires
+Purple Worms Medusae
+Sea Monsters Manticores
+Chimeras Gargoyles
+Minotaurs Gorgons
+Giants Minotaurs
+Dragons
+Chimeras
+* An asterisk indicates that the name appears in both the Law and Neutrality
+columns.
+An underline indicates that the name appears in both the Neutrality and
+Chaos columns.10
+Changing Character Class: While changing class (for other than elves) is not
+recommended, the following rule should be applied: In order for men to change
+class they must have a score of 16 or better in the prime requisite (see below) of
+the class they wish to change to, and this score must be unmodified. A Cleric with
+a “strength” of 15, for example, could not become a Fighting-Man. In any event
+Magic-Users cannot become Clerics and vice-versa.
+DETERMINATION OF ABILITIES:
+Prior to the character selection by players it is necessary for the referee to roll
+three six-sided dice in order to rate each as to various abilities, and thus aid them in
+selecting a role. Categories of ability are: Strength, Intelligence, Wisdom, Constitution, Dexterity, and Charisma. Each player notes his appropriate scores, obtains a
+similar roll of three dice to determine the number of Gold Pieces (Dice score × 10)
+he starts with, and then opts for a role. A sample of the record of a character appears like this:
+Name: Xylarthen Class: Magic-User
+Strength: 6 Intelligence: 11 Wisdom: 13
+Constitution: 12 Dexterity: 9 Charisma: 8
+Gold Pieces
+70
+Experience
+Nil
+This supposed player would have progressed faster as a Cleric, but because
+of a personal preference for magic opted for that class. With a strength of only
+6 there was no real chance for him to become a fighter. His constitutional score
+indicates good health and the ability to take punishment of most forms. A dexterity of 9 (low average) means that he will not be particularly fast nor accurate. He
+is below average in charisma, but not hopelessly so.
+Explanation of Abilities:
+The first three categories are the prime requisites for each of the three classes:
+Fighting-Men, Magic-Users, and Clerics. (See the Bonuses and Penalties to
+Advancement due to Abilities table which appears hereafter.)
+Strength is the prime requisite for fighters. Clerics can use strength on a 3 for 1
+basis in their prime requisite area (wisdom), for purposes of gaining experience
+only. Strength will also aid in opening traps and so on.
+Intelligence is the prime requisite for magical types. Both fighters and Clerics can
+use it in their prime requisite areas (strength and wisdom respectively) on a 2 for
+1 basis. Intelligence will also affect referees’ decisions as to whether or not certain
+action would be taken, and it allows additional languages to be spoken.
+Wisdom is the prime requisite for Clerics. It may be used on a 3 for 1 basis by
+fighters, and on a 2 for 1 basis by Magic-Users, in their respective prime requisite
+areas. Wisdom rating will act much as does that for intelligence.
+Constitution is a combination of health and endurance. It will influence such things
+as the number of hits which can be taken and how well the character can withstand
+being paralyzed, turned to stone, etc.11
+Dexterity applies to both manual speed and conjuration. It will indicate the
+character’s missile ability and speed with actions such as firing first, getting off a
+spell, etc.
+Charisma is a combination of appearance, personality, and so forth. Its primary
+function is to determine how many hirelings of unusual nature a character can attract. This is not to say that he cannot hire men-at-arms and employ mercenaries, but
+the charisma function will affect loyalty of even these men. Players will, in all probability, seek to hire Fighting-Men, Magic-Users, and/or Clerics in order to strengthen
+their roles in the campaign. A player-character can employ only as many as indicated by his charisma score:
+Charisma Score Maximum # Hirelings Loyalty Base
+3–4 1 –2
+5–6 2 –1
+7–9 3 - -
+10–12 4 - -
+13–15 5 +1
+16–17 6 +2
+18 12 +4
+In addition the charisma score is usable to decide such things as whether or not a
+witch capturing a player will turn him into a swine or keep him enchanted as a lover.
+Finally, charisma will aid a character in attracting various monsters to his service.
+Bonuses and Penalties to Advancement due to Abilities:
+(Low score is 3–8; Average is 9–12; High is 13–18)
+Prime requisite 15 or more: Add 10% to earned experience
+Prime requisite 13 or 14: Add 5% to earned experience
+Prime requisite of 9–12: Average, no bonus or penalty
+Prime requisite 8 or 7: Minus 10% from earned experience
+Prime requisite 6 or less: Minus 20% from earned experience
+Constitution 15 or more: Add +1 to each hit die
+Constitution 13 or 14: Will withstand adversity
+Constitution of 9–12: 60% to 90% chance of survival
+Constitution 8 or 7: 40% to 50% chance of survival
+Constitution 6 or less: Minus 1 from each hit die*
+Dexterity above 12: Fire any missile at +1
+Dexterity under 9: Fire any missile at –1
+* minimum score of 1 on any die
+Note: Average scores are 9–12. Units so indicated above may be used to increase
+prime requisite total insofar as this does not bring that category below average, i.e.
+below a score of 9.12
+LANGUAGES: The “common tongue” spoken throughout the “continent” is known
+by most humans. All other creatures and monsters which can speak have their own
+language, although some (20%) also know the common one. Law, Chaos and
+Neutrality also have common languages spoken by each respectively. One can attempt to communicate through the common tongue, language particular to a creature class, or one of the divisional languages (law, etc.). While not understanding
+the language, creatures who speak a divisional tongue will recognize a hostile
+one and attack. Characters with an Intelligence above 10 may learn additional
+languages, one language for every point above 10 intelligence factors. Thus, a
+man with an intelligence level of 15 could speak 7 languages, i.e. the common
+tongue, his divisional language, and 5 creature languages. Of course, MagicUsers’ spells and some magic items will enable the speaking and understanding
+of languages.
+NON-PLAYER CHARACTERS:
+In all probability the referee will find it beneficial to allow participants in the
+campaign to “hire into service” one or more characters. At times this may be nothing more than a band of mercenaries hired to participate in and share the profits
+from some adventure. However it is likely that players will be desirous of acquiring a
+regular entourage of various character types, monsters, and an army of some form.
+Non-player characters can be hired as follows:
+Only the lowest level of character types can be hired. The player wishing to
+hire a non-player character “advertises” by posting notices at inns and taverns,
+frequents public places seeking the desired hireling, or sends messengers to whatever place the desired character type would be found (elf-land, dwarf-land, etc.).
+This costs money and takes time, and the referee must determine expenditures.
+Once some response has been obtained, the player must make an offer to tempt
+the desired character type into his service. As a rule of thumb, a minimum offer of
+100 Gold Pieces would be required to tempt a human into service, dwarves are
+more interested in gold, Magic-Users and elves desire magical items, and Clerics
+want some assurance of having a place of worship in which to house themselves.
+Monsters can be lured into service if they are of the same basic alignment as
+the player-character, or they can be Charmed and thus ordered to serve. Note,
+however, that the term “monster” includes men found in the dungeons, so in this
+way some high-level characters can be brought into a character’s service, charisma
+allowing or through a Charm spell. Some reward must be offered to a monster in
+order to induce it into service (not just sparing its life, for example). The monster will
+react, with appropriate pluses or minuses, according to the offer, the referee rolling
+two six-sided dice and adjusting for charisma:
+Dice Score Reaction
+2 Attempts to attack
+3–5 Hostile reaction
+6–8 Uncertain
+9–11 Accepts offer
+12 Enthusiast, Loyalty +3
+An “Uncertain” reaction leaves the door open to additional reward offers, but
+scores under 6 do not.13
+Capture of Non-Player Monsters: Morale dice can cause a man or intelligent
+monster to attempt to surrender or become subdued. When this happens an offer of
+service can be made (assuming that communication is possible) as outlined above.
+Subdued monsters will obey for a time without need to check their reactions, and
+such monsters are salable (see Book II).
+Loyalty of Non-Player Characters (Including Monsters): Men, dwarves
+and elves will serve as retainers with relative loyalty so long as they receive their
+pay regularly, are treated fairly, are not continually exposed to extra-hazardous
+duty, and receive bonuses when they are taking part in some dangerous venture.
+Judgement of this matter is perforce subjective on the part of the campaign referee,
+but there is a simple guideline: When one or more of such characters are taken into
+service a loyalty check is made by rolling three-six-sided dice. Adjustments are made
+for charisma and initial payments for service, and the loyalty of the character(s)
+noted by the referee. (The player will not have any knowledge of what it is without
+some method of reading minds.)
+Loyalty Score Morale
+3 or less Will desert at first opportunity
+4–6 –2 on morale dice
+7–8 –1 on morale dice
+9–12 Average morale dice
+13–14 +1 on morale dice
+15–18 +2 on morale dice
+19 and above Need never check morale
+Non-player characters and men-at-arms will have to make morale checks (using the
+above reaction table or “Chainmail”) whenever a highly dangerous or unnerving situation arises. Poor morale will mean that those in question will not perform as expected.
+Periodic re-checks of loyalty should be made. Length of service, rewards, etc.
+will bring additional pluses. Poor treatment will bring minuses.
+Relatives: The referee may allow players to designate one relative of his character
+to inherit his possessions if for any reason the participant unexpectedly disappears,
+with or without “death” being positively established, for a period of one game
+month, let us say. At this time the relative would inherit the estate of the character,
+paying a 10% tax on all goods and monies. The relative must start at the lowest level
+of the class he opts for, but he will have the advantage of the inheritance.
+If the character returns, he takes possession of his estate once more (referee’s
+option as to willingness of the relative to give it up) but must pay an additional 10%
+tax in order to regain his own. Optionally the relative may be allowed to stay on as
+a non-player character in the service of the player-character. Loyalty of the relative
+in such a circumstance would be at a penalty of from 0 to -6, and he would possibly
+intrigue to regain control.
+Characters without a relative will lose all their possessions should they disappear
+and not return before whatever period is designated as establishing death.
+BASIC EQUIPMENT AND COSTS:
+It will be necessary for players to equip their characters with various basic items
+of equipment. Selection of items is strictly up to the players, and Gold Pieces are14
+taken away accordingly (players may sell to one another, of course, and then Gold
+Pieces would be transferred).
+Item Cost
+Dagger 3
+Hand Axe 3
+Mace 5
+Sword 10
+Battle Axe 7
+Morning Star 6
+Flail 8
+Spear 1
+Pole Arm 7
+Halberd 7
+Two-Handed Sword 15
+Lance 4
+Pike 5
+Short Bow 25
+Long Bow 40
+Composite Bow 50
+Light Crossbow 15
+Heavy Crossbow 25
+Quiver of 20 Arrows 10
+Case with 30 Quarrels 10
+20 Arrows/30 Quarrels 5
+Silver Tipped Arrow 5
+Mule 20
+Draft Horse 30
+Light Horse 40
+Warhorse, Medium 100
+Warhorse, Heavy 200
+Saddle 25
+Saddle Bags 10
+Cart 100
+Wagon 200
+Raft 40
+Small Boat 100
+Small Merchant Ship 5,000
+Large Merchant Ship 20,000
+Small Galley 10,000
+Large Galley 30,000
+Item Cost
+Leather Armor 15
+Chain-type Mail 30
+Plate Mail 50
+Helmet 10
+Shield 10
+Barding (Horse Armor) 150
+50’ of Rope 1
+10’ Pole 1
+12 Iron Spikes 1
+Small Sack 1
+Large Sack 2
+Leather Back Pack 5
+Water/Wine Skin 1
+6 Torches 1
+Lantern 10
+Flask of Oil 2
+3 Stakes & Mallet 3
+Steel Mirror 5
+Silver Mirror, Small 15
+Wooden Cross 2
+Silver Cross 25
+Holy Water/Vial 25
+Wolvesbane, bunch 10
+Belladonna, bunch 10
+Garlic, bud 5
+Wine, quart 1
+Iron Rations (for dungeon 15
+expeditions) 1 person/1 week
+Standard Rations for 1 person, 5
+1 week
+Other items’ cost may be
+calculated by comparing to
+similar items listed above.15
+(Weight which can be carried)
+Weight of a man - - 1,750
+Load in Gold Pieces Equal to Light Foot Movement (12”) - - 750
+Load in Gold Pieces Equal to Heavy Foot Movement (9”) - - 1,000
+Load in Gold Pieces Equal to Armed Foot Movement (6”) - - 1,500
+Leather Armor or Saddle - - 250
+Chain-Type Armor - - 500
+Plate Mail or Horse Armor - - 750
+Helmet - - 50
+Shield - - 150
+Pole Arms, Halberd, Pike, Two-Handed Sword (each) - - 150
+Morning Star, Flail, Battle Axe (each) - - 100
+Sword, Mace, Hand Axe, Bow & Arrows (each) - - 50
+Dagger - - 20
+Miscellaneous Equipment (rope, spikes, bags, etc.) - - 80
+Maximum Load/Person at half normal movement - - 3,000
+Example Employing Encumbrance: A character equips himself with the
+following:
+Plate Armor 750
+Helmet 50
+Shield 150
+Flail 100
+Bow, Quiver & 20 Arrows 50
+Dagger 20
+Misc. Equipment 80
+TOTAL 1,200
+The character would move at the speed of an Armored Footman (6”/turn).
+He could pick up an additional 300 Gold Pieces weight of treasure and incur no
+movement penalty. Weight over 1,500 would incur the penalty of half-speed noted
+above, although equipment could be discarded in order to avoid this penalty.
+WEIGHT AND EQUIVALENTS:
+1 Coin (Copper, Silver, or Gold) 1
+1 Small Sack Holds 50
+1 Large Sack or Back Pack Holds 300
+1 Scroll or Piece of Jewelry 20
+1 Potion or Wine Skin 30
+1 Flagon or Chalice 50
+1 Wand with Case 100
+1 Staff with Case 300
+1 Gem 116
+LEVELS AND NUMBER OF EXPERIENCE POINTS NECESSARY TO
+ATTAIN THEM:
+Fighting-Men Magic-Users Clerics
+Veteran 0 Medium 0 Acolyte 0
+Warrior 2,000 Seer 2,500 Adept 1,500
+Swordsman 4,000 Conjurer 5,000 Village Priest 3,000
+Hero* 8,000 Theurgist 10,000 Vicar 6,000
+Swashbuckler 16,000 Thaumaturgist 20,000 Curate 12,000
+Myrmidon** 32,000 Magician 35,000 Bishop 25,000
+Champion 64,000 Enchanter 50,000 Lama 50,000
+Superhero 120,000 Warlock* 75,000 Patriarch 100,000
+Lord 240,000 Sorcerer 100,000
+Necromancer 200,000
+Wizard 300,000
+*highest level for elf
+**highest level for dwarf17
+STATISTICS REGARDING CLASSES:
+Fighting-Men Dice for Accumulative Hits
+Fighting
+Capability
+Spells & Level
+1 2 3 4 5 6
+Veteran 1 + 1 Man + 1 NIL
+Warrior 2 2 Men + 1 NIL
+Swordsman 3 3 Men or Hero – 1 NIL
+Hero 4 Hero NIL
+Swashbuckler 5 + 1 Hero + 1 or 5 Men NIL
+Myrmidon 6 Hero + 1 or 6 Men NIL
+Champion 7 + 1 Superhero – 1 NIL
+Super Hero 8 + 2 Superhero NIL
+Lord 9 + 3 Superhero + 1 NIL
+Lord, 10th Level 10 + 1 Superhero + 1 NIL
+Magic-Users
+Medium 1 Man 1 – – – – –
+Seer 1 + 1 Man + 1 2 – – – – –
+Conjurer 2 2 Men 3 1 – – – –
+Theurgist 2 + 1 2 Men + 1 4 2 – – – –
+Thaumaturgist 3 3 Men 4 2 1 – – –
+Magician 3 + 1 3 Men + 1 4 2 2 – – –
+Enchanter 4 Hero – 1 4 3 2 1 – –
+Warlock 5 Hero 4 3 3 2 – –
+Sorcerer 6 + 1 Hero + 1 4 3 3 2 1 –
+Necromancer 7 Wizard 4 4 3 3 2 –
+Wizard 8 + 1 Wizard 4 4 4 3 3 –
+Wizard, 12th Level 8 + 2 Wizard 4 4 4 4 4 1
+Wizard, 13th Level 8 + 3 Wizard 5 5 5 4 4 2
+Wizard, 14th Level 8 + 4 Wizard + 1 5 5 5 4 4 3
+Wizard, 15th Level 9 + 1 Wizard + 1 5 5 5 4 4 4
+Wizard, 16th Level 9 + 2 Wizard + 2 5 5 5 5 5 518
+Clerics
+Acolyte 1 Man – – – – – –
+Adept 2 Man + 1 1 – – – – –
+Village Priest 3 2 Men 2 – – – – –
+Vicar 4 3 Men 2 1 – – – –
+Curate 4 + 1 3 Men + 1 2 2 – – – –
+Bishop 5 Hero – 1 2 2 1 1 – –
+Lama 6 Hero 2 2 2 1 1 –
+Patriarch 7 Hero + 1 2 2 2 2 2 –
+Patriarch, 9th Level 7 + 1 Superhero – 1 3 3 3 2 2 –
+Patriarch, 10th Level 7 + 2 Superhero – 1 3 3 3 3 3 –
+Experience Points: Experience points are awarded to players by the referee
+with appropriate bonuses or penalties for prime requisite scores. As characters
+meet monsters in mortal combat and defeat them, and when they obtain various
+forms of treasure (money, gems, jewelry, magical items, etc.), they gain “experience.” This adds to their experience point total, gradually moving them upwards
+through the levels. Gains in experience points will be relative; thus an 8th-level
+Magic-User operating on the 5th dungeon level would be awarded 5/8 experience. Let us assume he gains 7,000 Gold Pieces by defeating a troll (which is a
+7th-level monster, as it has over 6 hit dice). Had the monster been only a 5th-level
+one, experience would be awarded on a 5/8 basis as already stated, but as the
+monster guarding the treasure was a 7th-level one, experience would be awarded
+on a 7/8 basis thus; 7,000 GP + 700 for killing the troll = 7,700 divided by 8
+= 962.5 × 7 = 6,037.5. Experience points are never awarded above a 1 for 1
+basis, so even if a character defeats a higher-level monster he will not receive
+experience points above the total of treasure combined with the monster’s kill
+value. It is also recommended that no more experience points be awarded for any
+single adventure than will suffice to move the character upwards one level. Thus
+a “veteran” (1st level) gains what would ordinarily be 5,000 experience points;
+however, as this would move him upwards two levels, the referee should award
+only sufficient points to bring him to “warrior” (2nd level), say 3,999 if the character began with 0 experience points.
+Levels: There is no theoretical limit to how high a character may progress, i.e.
+20th-level Lord, 20th-level Wizard, etc. Distinct names have only been included for
+the base levels, but this does not influence progression.
+Dice for Accumulative Hits (Hit Dice): This indicates the number of dice which
+are rolled in order to determine how many hit points a character can take. Pluses are
+merely the number of pips to add to the total of all dice rolled not to each die. Thus
+a Superhero gets 8 dice + 2; they are rolled and score 1, 2, 2, 3, 3, 4, 5, 6/totals
+26 + 2 = 28, 28 being the number of points of damage the character could sustain
+before death. Whether sustaining accumulative hits will otherwise affect a character
+is left to the discretion of the referee.
+Fighting Capability: This is a key to use in conjunction with the CHAINMAIL fantasy rule, as modified in various places herein. An alternative system will be given
+later for those who prefer a different method.19
+Spells & Levels: The number above each column is the spell level (complexity, a
+somewhat subjective determination on the part of your authors). The number in each
+column opposite each applicable character indicates the number of spells of each
+level that can be used (remembered during any single adventure) by that character.
+Spells are listed and explained later. A spell used once may not be reused in the
+same day.
+Levels Above those Listed: Progressions of Dice for Accumulative Hits, Fighting Capability, and Spells & Levels may not be evident. An 11th-level Lord would
+get 10 + 3 dice and fight as he did at the 10th level; but at 12th level, he could
+get 11 + 1 dice and fight at Superhero + 2. At 13th level dice would be 11 + 3
+with Fighting Capability at Superhero + 2. A 17th-level Wizard would get 9 +
+3 dice and fight as at 16th level, just as an 18th-level Wizard would get dice of
+10 + 1 with no change in Fighting Capabilities — the change coming at the 19th
+level, fighting then being done at Wizard + 3. An 11th-level Patriarch would get
+dice of 7 + 3 with Fighting Capability unchanged; at 12th level dice would be
+8 + 1 with no change in fighting; and at 13th level the Patriarch would get 8 +
+2 and fight as a Superhero — the next change in Fighting Capability coming at
+the 17th level.
+Spell progression for Magic-Users is: 17th-level Wizard — 6, 6, 6, 5, 5, 5; 18thlevel Wizard — sizes across the board; and so on. Spell progression for Clerics is:
+11th-level Patriarch — 4, 4, 4, 3, 3; 12th-level Patriarch — fours across the board;
+13th-level Patriarch — 5, 5, 5, 4, 4; and so on.
+ALTERNATIVE COMBAT SYSTEM:
+This system is based upon the defensive and offensive capabilities of the combatants; such things as speed, ferocity, and weaponry of the monster attacking are
+subsumed in the matrixes. There are two charts, one for men versus men or monsters
+and one for monsters (including kobolds, goblins, orcs, etc.) versus men.
+ATTACK MATRIX 1.: MEN ATTACKING
+TARGET:
+Armor
+Class Description
+20-Sided Die Score to Hit by Level*
+Level 1–3 4–6 7–9 10–12 13–15 16&+
+2 Plate Armor & Shield 17 15 12 10 8 5
+3 Plate Armor 16 14 11 9 7 4
+4 Chain Mail & Shield 15 13 10 8 6 3
+5 Chain Mail 14 12 9 7 5 2
+6 Leather & Shield 13 11 8 6 4 1
+7 Leather Armor 12 10 7 5 3 1
+8 Shield Only 11 9 6 4 2 1
+9 No Armor or Shield 10 8 5 3 1 1
+*Fighting-Men: Magic-Users advance in steps based
+on five levels/group (1–5, 6–10, etc.), and Clerics in steps
+based on four levels/group (1–4, 5–8, etc.). Normal men
+equal 1st-level fighters.
+All attacks which score hits do 1–6 points damage unless otherwise noted.20
+ATTACK MATRIX II.: MONSTERS ATTACKING
+TARGET:
+Armor
+Class Description
+20-Sided Die Score to Hit by Monster’s Dice #
+Dice Up
+to 1 1 + 1 2–3 3–4 4–6 6–8 9–10 11&+
+2 All as in Table 17 16 15 13 12 11 9 7
+3 1. above... 16 15 14 12 11 10 8 6
+4 15 14 13 11 10 9 7 5
+5 14 13 12 10 9 8 6 4
+6 13 12 11 9 8 7 5 3
+7 12 11 10 8 7 6 4 2
+8 11 10 9 7 6 5 3 1
+9 10 9 8 6 5 4 2 0
+All base scores to hit will be modified by magic armor and weaponry. Missile
+hits will be scored by using the above tables at long range and decreasing Armor
+Class by 1 at medium and 2 at short range.
+SAVING THROW MATRIX:
+Class &
+Level
+Death Ray
+or Poison
+All Wands —
+Including
+Polymorph or
+Paralyzation Stone
+Dragon
+Breath
+Staves
+&
+Spells
+Fighting-Men 1–3 12 13 14 15 16
+Magic-User 1–5 13 14 13 16 15
+Cleric 1–4 11 12 14 16 15
+Fighter 4–6 10 11 12 13 14
+Magic User 6–10 11 12 11 14 12
+Cleric 5–8 9 10 12 14 12
+Fighter 7–9 8 9 10 10 12
+Magic-User 11–15 8 9 8 11 8
+Cleric 9–12 6 7 9 11 9
+Fighter 10–12 6 7 8 8 10
+Magic-User 16+ 5 6 5 8 3
+Cleric 13+ 3 5 7 8 7
+Fighter 13+ 4 5 5 5 8
+Failure to make the total indicated above results in the weapon having full effect,
+i.e. you are turned to stone, take full damage from dragon’s breath, etc. Scoring the
+total indicated above (or scoring higher) means the weapon has no effect (death ray,
+polymorph, paralyzation, stone, or spell) or one-half effect (poison scoring one-half
+of the total possible hit damage and dragon’s breath scoring one-half of its full damage). Wands of cold, fire balls, lightning, etc. and staves are treated as indicated,
+but saving throws being made result in one-half damage.21
+SPELLS TABLE
+Magic-Users:
+1st Level 2nd Level 3rd Level
+1. Detect Magic Detect Invisible Fly
+2. Hold Portal Levitate Hold Person
+3. Read Magic Phantasmal Forces Dispel Magic
+4. Read Languages Locate Object Clairvoyance
+5. Protection/Evil Invisibility Clairaudience
+6. Light Wizard Lock Fire Ball
+7. Charm Person Detect Evil Lightning Bolt
+8. Sleep ESP Protection/Evil, 10’ r.
+9. Continual Light Invisibility, 10’ r.
+10. Knock Infravision
+11. Slow Spell
+12. Haste Spell
+13. Protection/Normal Missiles
+14. Water Breathing
+4th Level 5th Level 6th Level
+1. Polymorph Self Teleport Stone to Flesh
+2. Polymorph Others Hold Monster Reincarnation
+3. Remove Curse Conjure Elemental Invisible Stalker
+4. Wall of Fire Telekinesis Lower Water
+5. Wall of Ice Transmute Rock–Mud Part Water
+6. Confusion Wall of Stone Projected Image
+7. Charm Monster Wall of Iron Anti-Magic Shell
+8. Growth/Plant Animate Dead Death Spell
+9. Dimension Door Magic Jar Geas
+10. Wizard Eye Contact Higher Plane Disintegrate
+11. Massmorph Passwall Move Earth
+12. Hallucinatory Terrain Cloudkill Control Weather
+13. Feeblemind
+14. Growth of Animals22
+SPELLS TABLE
+Clerics:
+1st Level 2nd Level 3rd Level
+1. Cure Light Wounds Find Traps Remove Curse
+2. Purify Food & Water Hold Person Cure Disease
+3. Detect Magic Bless Locate Object
+4. Detect Evil Speak with Animals Continual Light
+5. Protection/Evil
+6. Light
+4th Level 5th Level
+1. Neutralize Poison Dispel Evil
+2. Cure Serious Wounds Raise Dead
+3. Protection/Evil, 10’r. Commune
+4. Turn Sticks to Snakes Quest
+5. Speak with Plants Insect Plague
+6. Create Water Create Food
+Clerics versus Undead Monsters:
+Monster
+Type Acolyte Adept
+Village
+Priest Vicar Curate Bishop Lama Patriarch
+Skeleton 7 T T D D D D D
+Zombie 9 7 T T D D D D
+Ghoul 11 9 7 T T D D D
+Wight N 11 9 7 T T D D
+Wraith N N 11 9 7 T T D
+Mummy N N N 11 9 7 T T
+Spectre N N N N 11 9 7 T
+Vampire N N N N N 11 9 7
+Numbers are the score to match or exceed in order to turn away, rolled with two
+six-sided dice.
+T = Monster turned away, up to two dice in number.
+D = Dispelled/dissolved, up to two dice in number.
+N = No Effect.
+A full explanation of each spell follows. Note that underlined Clerical spells are
+reversed by evil Clerics. Also, note the Clerics versus Undead Monsters table, indicating the strong effect of the various clerical levels upon the undead; however, evil
+Clerics do not have this effect, the entire effect being lost.23
+EXPLANATION OF SPELLS:
+Magic-Users:
+1st Level:
+Detect Magic: A spell to determine if there has been some enchantment laid on
+a person, place or thing. It has a limited range and short duration. It is useful, for
+example, to discover if some item is magical, a door has been “held” or “wizard
+locked,” etc.
+Hold Portal: A spell to hold a door, gate or the like. It is similar to a locking spell
+(see below) but it is not permanent. Roll two dice to determine the duration of the
+spell in turns. Dispel Magic (see below) will immediately negate it, a strong antimagical creature will shatter it and a Knock (see below) will open it.
+Read Magic: The means by which the incantations on an item or scroll are read.
+Without such a spell or similar device magic is unintelligible to even a Magic-User.
+The spell is of short duration (one or two readings being the usual limit).
+Read Languages: The means by which directions and the like are read, particularly on treasure maps. It is otherwise like the Read Magic spell above.
+Protection from Evil: This spell hedges the conjurer round with a magic circle to
+keep out attacks from enchanted monsters. It also serves as an “armor” from various
+evil attacks, adding a +1 to all saving throws and taking a –1 from hit dice of evil
+opponents. (Note that this spell is not cumulative in effect with magic armor and
+rings, although it will continue to keep out enchanted monsters.) Duration: 6 turns.
+Light: A spell to cast light in a circle 3” in diameter, not equal to full daylight. It lasts
+for a number of turns equal to 6 + the number of levels of the user; thus, a 7th-level
+Magic-User would cast the spell for 13 turns.
+Charm Person: This spell applies to all two-legged, generally mammalian figures
+near to or less than man-size, excluding all monsters in the “Undead” class but
+including Sprites, Pixies, Nixies, Kobolds, Goblins, Orcs, Hobgoblins and Gnolls.
+If the spell is successful it will cause the charmed entity to come completely under
+the influence of the Magic-User until such time as the “charm” is dispelled (Dispel
+Magic). Range: 12”.
+Sleep: A Sleep spell affects from 2–16 1st-level types (hit dice of up to 1 + 1), from
+2–12 2nd-level types (hit dice of up to 2 + 1), from 1–6 3rd-level types, and but
+1 4th-level type (up to 4 + 1 hit dice). The spell always affects up to the number of
+creatures determined by the dice. If more than the number rolled could be affected,
+determine which “sleep” by random selection. Range: 24”.
+2nd Level:
+Detect Invisible (Objects): A spell to find secreted treasure hidden by an Invisibility spell (see below). It will also locate invisible creatures. Durations: 6 turns.
+Range: 1” × the level of the Magic-User casting it, i.e. a “Wizard” would have a
+range of 11”, more if he was above the base value.
+Levitate: This spell lifts the caster, all motion being in the vertical plane; however,
+the user could, for example, levitate to the ceiling, and move horizontally by use of
+his hands. Duration: 6 turns + the level of the user. Range (of levitation): 2”/level of
+Magic-User, with upwards motion at 6”/turn.24
+Phantasmal Forces: The creation of vivid illusions of nearly anything the user
+envisions (a projected mental image so to speak). As long as the caster concentrates
+on the spell, the illusion will continue unless touched by some living creature, so
+there is no limit on duration, per se. Damage caused to viewers of a Phantasmal
+Force will be real if the illusion is believed to be real. Range: 24”.
+Locate Object: In order for this spell to be effective it must be cast with certain
+knowledge of what is to be located. Thus, the exact nature, dimensions, coloring, etc. of some magical item would have to be known in order for the spell to
+work. Well known objects such as a flight of stairs leading upwards can be detected with this spell however. The spell gives the user the direction of the object
+desired but not the distance. The desired object must be within range. Range:
+6” + 1“/level of the Magic-User employing the spell, i.e. a “Necromancer” has
+a 16” range.
+Invisibility: A spell which lasts until it is broken by the user or by some outside
+force (remember that as in CHAINMAIL, a character cannot remain invisible and
+attack). It affects only the person or thing upon whom or which it is cast. Range: 24”
+Wizard Lock: Similar to a Hold Portal, this spell lasts indefinitely. It can be opened
+by a Knock without breaking the spell. A Wizard Lock can be passed through without a spell of any kind by a Magic-User three levels above the one who placed the
+spell.
+Detect Evil: A spell to detect evil thought or intent in any creature or evilly enchanted object. Note that poison, for example, is neither good nor evil. Duration:
+2 turns. Range: 6”.
+ESP: A spell which allows the user to detect the thoughts (if any) of whatever lurks
+behind doors or in the darkness. It can penetrate solid rock up to about 2’ in thickness, but a thin coating of lead will prevent its penetration. Duration: 12 turns.
+Range: 6”25
+Continual Light: This spell creates a light wherever the caster desires. It sheds a
+circle of illumination 24” in diameter, but does not equal full daylight. It continues to
+shed light until dispelled. Range: 12”.
+Knock: A spell which opens secret doors, held portals, doors locked by magic,
+barred or otherwise secured gates, etc. Range: 6”.
+3rd Level:
+Fly: By means of this spell the user is able to fly at a speed of up to 12”/turn. The
+spell lasts for the number of turns equal to the level of the Magic-User plus the number of pips on a six-sided die which is secretly determined by the referee.
+Hold Person: A spell similar to a Charm Person, but which is of both limited duration and greater effect. It will affect from 1–4 persons. If it is cast at only a single
+person it has the effect of reducing the target’s saving throw against magic by –2.
+Duration: 6 turns + level of the caster. Range: 12”.
+Dispel Magic: Unless countered, this spell will be effective in dispelling enchantments of most kinds (referee’s option), except those on magical items and the like.
+This is modified by the following formula. The success of a Dispel Magic spell is
+a ratio of the dispeller over the original spell caster, so if a 5th-level Magic-User
+attempts to dispel the spell of a 10th-level Magic-User there is a 50% chance of success. Duration: 1 turn. Range: 12”.
+Clairvoyance: Same as ESP spell except the spell user can visualize rather than
+merely pick up thoughts.
+Clairaudience: Same as Clairvoyance except it allows hearing rather than visualization. This is one of the few spells which can be cast through a Crystal Ball (see
+Book II).
+Fire Ball: A missile which springs from the finger of the Magic-User. It explodes
+with a burst radius of 2” (slightly larger than specified in CHAINMAIL). In a confined
+space the Fire Ball will generally conform to the shape of the space (elongate or
+whatever). The damage caused by the missile will be in proportion to the level of its
+user. A 6th-level Magic-User throws a 6-die missile, a 7th a 7-die missile, and so on.
+(Note that Fire Balls from Scrolls (see Book II) and Wand are 6-die missiles and those
+from Staves are 8-die missiles. Duration: 1 turn. Range: 24”
+Lightning Bolt: Utterance of this spell generates a lightning bolt 6” long and up
+to 3/4” wide. If the space is not long enough to allow its full extension, the missile
+will double back to attain 6”, possibly striking its creator. It is otherwise similar to
+a Fire Ball, but as stated in CHAINMAIL the head of the missile may never extend
+beyond the 24” range.
+Protection from Evil, 10’ Radius: A Protection from Evil spell which extends
+to include a circle around the Magic-User and also lasts for 12 rather than 6 turns.
+Invisibility, 10’ Radius: An Invisibility spell with an extended projection but
+otherwise no different from the former spell. Infravision: This spell allows the
+recipient to see infrared light waves, thus enabling him to see in total darkness.
+Duration: 1 day. Range of infravision: 40–60’.
+Infravision: This spell allows the recipient to see infrared light waves, thus enabling
+him to see in total darkness. Duration: 1 day. Range of infravision: 40–60’.26
+Slow Spell: A broad-area spell which affects up to 24 creatures in a maximum
+area of 6” × 12”. Duration: 3 turns. Range: 24”.
+Haste Spell: This is exactly the opposite of a Slow Spell in effect, but otherwise like
+it. Note that it will counter its opposite and vice-versa.
+Protection from Normal Missiles: The recipient of this charm becomes impervious to normal missiles. This implies only those missiles projected by normal (not
+above normal) men and/or weapons. Duration: 12 turns. Range: 3”.
+Water Breathing: A spell whereby it is possible to breathe underwater without
+harm or difficulty. Duration: 12 turns. Range 3”.
+4th Level:
+Polymorph Self: A spell allowing the user to take the shape of anything he desires, but he will not thereby acquire the combat abilities of the thing he has polymorphed himself to resemble. That is, while the user may turn himself into a dragon
+of some type, he will not gain the ability to fight and breathe, but he will be able to
+fly. Duration: 6 turns + the level of the Magic-User employing it.
+Polymorph Others: Unlike the spell to Polymorph Self, this spell lasts until it is
+dispelled. The spell gives all characteristics of the form of the creature, so a creature
+polymorphed into a dragon acquires all of the dragon’s ability — not necessarily
+mentality, however. Likewise, a troll polymorphed into a snail would have innate
+resistance to being stepped on and crushed by a normal man. Range: 6”.
+Remove Curse: A spell to remove any one curse or evil sending. Note that using
+this spell on a “cursed sword,” for example, would make the weapon an ordinary
+sword, not some form of enchanted blade. Range: Adjacent to the object.
+Wall of Fire: The spell will create a wall of fire which lasts until the Magic-User
+no longer concentrates to maintain it. The fire wall is opaque. It prevents creatures
+with under four hit dice from entering/passing through. Undead will take two dice of
+damage (2–12) and other creatures one die (1–6) when breaking through the fire.
+The shape of the wall can be either a plane of up to 6” width and 2” in height, or it
+can be cast in a circle of 3” diameter and 2” in height. Range: 6”.
+Wall of Ice: A spell to create a wall of ice six inches thick, in dimensions like that
+of a Wall of Fire. It negates the effects of creatures employing fire and/or fire spells.
+It may be broken through by creatures with four or more hit dice, with damage
+equal to one die (1–6) for non-fire employing creatures and double that for fire-users.
+Range: 12”
+Confusion: This spell will immediately affect creatures with two or fewer hit-dice.
+For creatures above two hit dice the following formula is used to determine when
+the spell takes effect: score of a twelve-sided die roll less the level of the MagicUser casting the spell = delay in effect, i.e. a positive difference means a turn
+delay, while a zero or negative difference means immediate effect. Creatures with
+four or more hit dice will have saving throws against magic, and on those turns
+they make their saving throws they are not confused; but this check must be made
+each turn the spell lasts, and failure means they are confused. The spell will affect
+as many creatures as indicated by the score rolled on two six-sided dice with the
+addition of +1 for each level above the 8th that the Magic-User casting the spell
+has attained. Confused creatures will attack the Magic-User’s party (dice score
+2–5), stand around doing nothing (6–8), or attack each other (9–12). Roll each
+turn. Duration: 12 turns. Range: 12”.27
+Charm Monster: The counterpart of a Charm Person spell which is employable
+against all creatures. If animals or creatures with three or fewer hit dice are involved
+determine how many are affected by the spell by rolling three six-sided dice. It is
+otherwise identical to the Charm Person spell.
+Growth of Plants: This spell causes normal brush or woods to become thickly
+overgrown and entangled with creepers, vines, thorns, briars and so on, so as to
+make the area virtually impassable. It will affect an area of up to 30 square inches,
+the dimensions decided by the caster of the spell. Duration: until the spell is negated
+by a Dispel Magic. Range: 12”.
+Dimension Door: A limited Teleport spell which allows the object to be instantaneously transported up to 36” in any direction (including up or down). There is
+no chance of misjudging when using a Dimension Door, so the user always arrives
+exactly where he calls, i.e. 12” upwards, 32” east, etc. Range: 1”.
+Wizard Eye: A spell which allows the user to send a visual sensor up to 24” away
+in order to observe the scene without himself moving. The “eye” is invisible. It moves
+12”/turn. Duration: 6 turns.
+Massmorph: This spell is used to conceal up to 100 men (or creatures of near
+man size) as a woods or orchards. The concealed figures may be moved through
+without being detected as anything other than trees, and it will not affect the spell. It
+will be negated by a command for the caster or by means of a Dispel Magic spell.
+Range: 24”.
+Hallucinatory Terrain: By means of this spell, terrain features can either be hidden or created — an illusion which affects a large area. Thus a swamp, hill, ridge,
+woods, or the like can be concealed or made to appear. The spell is broken when
+the magicked area is contacted by an opponent. Range: 24”.28
+5th Level:
+Teleport: Instantaneous transportation from place to place, regardless of the distance involved, provided the user knows where he is going (the topography of the
+arrival area). Without certain knowledge of the destination teleportation is 75% uncertain, so a score of less than 75% of the percentile dice results in death. If the user
+is aware of the general topography of his destination, but has not carefully studied
+it, there is an uncertainty factor of 10% low and 10% high. A low score (1–10%)
+means death if solid material is contacted. A high score (91–100%) indicates a
+fall of from 10 to 100 feet, also possibly resulting in death. If a careful study of the
+destination has been previously made, then the Magic-User has only a 1% chance
+of teleporting low and a 4% chance of coming in high (10–40 feet).
+Hold Monster: Same as Hold Person but applicable to Monsters.
+Conjure Elemental: A spell to conjure an Air, Water, Fire or Earth Elemental.
+Only one of each type can be conjured by a Magic-User during any one day. The
+Elemental will remain until dispelled, but the Magic-User must concentrate on control or the elemental will turn upon its conjurer and attack him (see CHAINMAIL).
+Conjured elementals are the strongest, with 16 hit dice as is explained in Book II,
+MONSTERS & TREASURE. Range: 24”.
+Telekinesis: By means of this spell, objects may be moved by mental force. Weight
+limits are calculated by multiplying the level of the Magic-User by 200 Gold Pieces
+weight. Thus, a “Necromancer” is able to move a weight equal to 2,000 Gold
+Pieces. Duration: 6 turns. Range 12”.
+Transmute Rock to Mud: The spell takes effect in one turn, turning earth, sand,
+and, of course, rock to mud. The area affected is up to 30 square inches. Creatures
+moving into the mud will become mired, possibly sinking if heavy enough or losing
+90% of movement otherwise, unless able to fly or levitate. The spell can only be
+countered by reversing the incantation (requiring a Transmute Rock to Mud spell) or
+by normal process of evaporation (3–18 days as determined by rolling three sixsided dice). Range: 12”.
+Wall of Stone: The creation of a stone wall two feet thick with a maximum length
+and height equalling 10 square inches. The wall will last until dispelled, broken
+down or battered through as a usual stone wall. Range: 6”.
+Wall of Iron: Like a Wall of Stone, but the thickness of the wall is three inches and
+its maximum area 5 square inches. Duration: 12 turns. Range: 6”.
+Animate Dead: The creation of animated skeletons or zombies. It in no way
+brings a creature back to life. For the number of dead animated simply roll one die
+for every level above the 8th the Magic-User is, thus a “Sorcerer” gets one die or
+from 1–6 animated dead. Note that the skeletons or dead bodies must be available
+in order to animate them. The spell lasts until dispelled or the animated dead are
+done away with.
+Magic Jar: By means of this device the Magic-User houses his life force in some
+inanimate object (even a rock) and attempts to possess the body of any other creature within 12” of his Magic Jar. The container for his life force must be within 3” of
+his body at the time the spell is pronounced. Possession of another body takes place
+when the creature in question fails to make its saving throw against magic. If the possessed body is destroyed, the spirit of the Magic-User returns to the Magic Jar, and
+from thence it may attempt another possession or return to the Magic-User’s body.29
+The spirit of the Magic-User can return to the Magic Jar at any time he so desires.
+Note that if the body of the Magic-User is destroyed the life force must remain in a
+possessed body or the Magic Jar. If the Magic Jar is destroyed, the Magic-User is
+totally annihilated.
+Contact Higher Plane: This spell allows the magical-type to seek advice and
+gain knowledge from creatures inhabiting higher planes of existence (the referee).
+Of course, the higher the plane contacted, the greater the number of questions that
+can be asked, the greater the chance that the information will be known, and the
+higher the probability that the question will be answered truthfully. Use the table
+below to determine these factors, as well as the probability of the Magic-User going
+insane. Only questions which can be answered “yes” or “no” are permitted.
+Plane # of Questions Chance of Knowing Veracity Insanity
+3rd 3 25% 30% nil
+4th 4 30% 40% 10%
+5th 5 35% 50% 20%
+6th 6 40% 60% 30%
+7th 7 50% 70% 40%
+8th 8 60% 75% 50%
+9th 9 70% 80% 60%
+10th 10 80% 85% 70%
+11th 11 90% 90% 80%
+12th 12 95% 100% 90%30
+If a Magic-User goes insane, he will remain so for a number of weeks equal to the
+number of the plane he was attempting to contact, the strain making him totally incapacitated until the time has elapsed. For each level above the 11th, Magic Users
+should have a 5% better chance of retaining their sanity. The spell is usable only
+once every game week (referee’s option).
+Passwall: A spell which opens a hole in a solid rock wall, man-sized and up to 10’
+in length. Duration: 3 turns. Range: 3”.
+Cloudkill: This spell creates a moving, poisonous cloud of vapor which is deadly
+to all creatures with less than five hit dice. Movement: 6”/turn according to wind
+direction, or directly away from the spell caster if there is no wind. Dimensions: 3”
+diameter. Duration: 6 turns, but the cloud is dispelled by unusually strong winds or
+trees. Note that the cloud is heavier than air, so it will sink to the lowest possible level.
+Feeblemind: A spell usable only against Magic-Users, it causes the recipient to
+become feeble-minded until the spell is countered with a Dispel Magic. Because of
+its specialized nature the Feeblemind spell has a 20% better chance of success, i.e.
+lowers the Magic-User’s saving throw against magic by 4, so that if normally a 12
+or better were required to save against magic, a 16 would be required against a
+Feeblemind. Range: 24”.
+Growth of Animals: A spell which will cause from 1–6 normal-sized animals
+(not merely mammals) to grow to giant-size with proportionate attack capabilities.
+Duration: 12 turns. Range 12”.
+6th Level:
+Stone to Flesh: This spell turns stone to flesh, and it is reversible, so as to turn flesh
+to stone. It is particularly useful in reviving characters who have been “stoned” by
+some monster. It is permanent unless a reversed spell is used. Range: 12”.
+Reincarnation: A spell to bring a dead character back to life in some other form.
+The form in which the character is Reincarnated is dependent upon his former alignment (Law, Neutrality or Chaos). Use a random determination on the Character
+Alignment table, and whatever the result is, the reincarnated character is that creature and must play as it. If he comes back as a man, determine which class, and roll
+a six-sided die to determine which level in that class, and similarly check level for
+reincarnation as an elf or dwarf.
+Invisible Stalker: The conjuration of an extra-dimensional monster which can be
+controlled with merely a word from the Magic-User who conjured him. The Invisible
+Stalker will continue on its mission until it is accomplished, regardless of time or
+distance. They cannot be dispelled once conjured, except through attack. Details of
+the Invisible Stalker itself will be found in the next book.
+Lower Water: Utterance of this spell causes the water level in a river or similar
+body of liquid to drop 50% of its depth for ten turns. Range: 24”.
+Part Water: A spell which will part water up to 10’ deep for a maximum of six
+turns. Range: 12”.
+Projected Image: By means of this spell the Magic-User projects an image of himself up to 24” away, and all spells and the like used thereafter appear to originate
+from the Projected Image. Duration: 6 turns. Range: 24”.31
+Anti-Magic Shell: A field which surrounds the Magic-User and makes him totally
+impervious to all spells. It also prevents any spells from being sent through the shell
+by the Magic-User who conjured it. Duration: 12 turns.
+Death Spell: An incantation which kills from 2–16 creatures with fewer than seven
+hit dice. The creatures must be within an area of 6” × 6” to come under the spell.
+Range: 24”.
+Geas: A spell which forces the recipient to perform some task (as desired by the
+Magic-User casting the Geas). Any attempt to deviate from the performance of
+the task will result in weakness, and ignoring the Geas entirely brings death. The
+referee must carefully adjudicate the casting and subsequent performance of the
+geased individual when this spell is used. Duration: Until the task is completed.
+Range: 3”.
+Disintegrate: This spell will cause material of any kind — other than that of a
+magical nature — to Disintegrate. It will blast a tree, dragon (if it fails to make its
+saving throw against magic), wall section, or whatever. Range: 6”
+Move Earth: When above ground the Magic-User may utilize this spell to move
+prominences such as hills or ridges. The spell takes one turn to go into effect. The
+terrain affected will move at the rate of 6” per turn. Duration: 6 turns. Range 24”.
+Control Weather: The Magic-User can perform any one of the following weather
+control operations with this spell: Rain, Stop Rain, Cold Wave, Heat Wave, Tornado, Stop Tornado, Deep Clouds, Clear Sky.
+Clerics:
+1st Level:
+Cure Light Wounds: During the course of one full turn this spell will remove hits
+from a wounded character (including elves, dwarves, etc.). A die is rolled, one pip
+added, and the resultant total subtracted from the hit points the character has taken.
+Thus from 2–7 hit points of damage can be removed.
+Purify Food & Water: This spell will make spoiled or poisoned food and water
+usable. The quantity subject to a single spell is approximately that which would
+serve a dozen people.
+Detect Magic: This spell is the same as that for Magic-Users.
+Detect Evil: This spell is the same as that for Magic-Users except that it has a duration of 6 turns and a range of 12”.
+Protection from Evil: This spell is the same as that for Magic-Users except that it
+lasts for 12 turns.
+Light: This spell is the same as that for Magic-Users, except that it has a basic duration of 12 turns.
+2nd Level:
+Find Traps: By means of this spell the Cleric will locate any mechanical or magical
+traps within a radius of 3”. The spell lasts 2 turns.32
+Hold Person: This spell is the same as that for Magic-Users except that its duration
+is 9 turns and its range 18”.
+Bless: During any turn the prospective recipients of a Bless spell are not in combat
+the Cleric may give them this benison. A blessing raises morale by +1 and also adds
++1 to attack dice. The spell lasts six turns.
+Speak with Animals: This spell allows the Cleric to speak with any form of animal life, understanding what they say in reply. There is a possibility that the animal(s)
+spoken with will perform services for the Cleric, and they will never attack the party
+the Cleric is with. (The manner of handling the probabilities of action by animals is
+discussed in the next book). Duration: 6 turns. Range: 3”.
+3rd Level:
+Remove Curse: This spell is the same as that for Magic-Users.
+Cure Disease: A spell which cures any form of disease. The spell is the only
+method to rid a character of a disease from a curse, for example.
+Locate Object: This spell is the same as that for Magic-Users, except that the base
+range is 9”.
+Continual Light: This spell is the same as that for Magic-Users, except that the light
+shed is equal to full daylight.33
+4th Level:
+Neutralize Poison: A spell to counter the harmful effects of poison. Note that
+it will not aid a character killed by poison, however. It will affect only one object.
+Duration: 1 turn.
+Cure Serious Wounds: This spell is like a Light Wound spell, but the effects are
+double, so two dice are rolled and one pip is added to each die. Therefore, from 4
+to 14 hit points will be removed by this spell.
+Protection from Evil, 10’ radius: This spell is the same as that for Magic-Users.
+Turn Sticks to Snakes: Anytime there are sticks nearby a Cleric can turn them
+into snakes, with a 50% chance that they will be poisonous. From 2–16 snakes can
+be conjured (roll two eight-sided dice). He can command these conjured snakes to
+perform as he orders. Duration: 6 turns. Range 12”.
+Speak with Plants: This spell allows the Cleric to speak with all forms of plant
+life, understanding what they say in reply. Plants so spoken to will obey commands of the Cleric, such as part to allow a passage and so on. This spell does
+not give the Cleric the power to command trees as Treants do. Duration: 6 turns.
+Range: 3”.
+Create Water: By means of this spell, the Cleric can create a supply of drinkable
+water sufficient for a party of a dozen men and horses for one day. The quantity
+doubles for every level above the 8th the Cleric has attained.
+5th Level:
+Dispel Evil: Similar to a Dispel Magic spell, this allows a Cleric to dispel any evil
+sending or spell within a 3” radius. It functions immediately. Duration: 1 turn.
+Raise Dead: The Cleric simply points his finger, utters the incantation, and the
+dead person is raised. This spell works with men, elves, and dwarves only. For each
+level the Cleric has progressed beyond the 8th, the time limit for resurrection extends
+another four days. Thus, an 8th-level Cleric can raise a body dead up to four days,
+a 9th-level Cleric can raise a body dead up to eight days, and so on. Naturally, if
+the character’s Constitution was weak, the spell will not bring him back to life. In
+any event raised characters must spend two game weeks’ time recuperating from
+the ordeal.
+Commune: A spell which puts the Cleric in touch with the powers “above” and
+asks for help in the form of answers to three questions. Communing is allowed but
+once each week maximum (referee’s option as to making less frequent). Veracity and
+knowledge should be near total. Once per year a special communing should be allowed wherein the Cleric can ask double the number of questions.
+Quest: This is similar to the Geas, except that the character sent upon a Quest by
+the Cleric is not killed by failure to carry out the service. However, the Cleric may
+curse him with whatever he desires for failure, and the referee should decide if such
+a curse will take effect if the character ignores the Quest, basing the effectiveness
+of the curse on the phrasing of it and the alignment and actions of the character so
+cursed.
+Insect Plague: By means of this spell, the Cleric calls to him a vast cloud of insects and sends them where he will, within the spell range. They will obscure vision
+and drive creatures with less than three hit dice off in rout. The dimensions of the34
+Insect Plague are 36 square inches. Duration: 1 game day. Range: 48”. (Note:
+This spell is effective only above ground.)
+Create Food: A spell with which the Cleric creates sustenance sufficient for a party
+of a dozen for one game day. The quantity doubles for every level above the 8th
+the Cleric has attained.
+Note: There are Anti-Clerics (listed below) who have similar powers to Clerics. Those
+Clerical spells underlined on the table for Cleric Spells have a reverse effect, all others functioning as noted. The chief exception is the Raise Dead spell which becomes:
+The Finger of Death: Instead of raising the dead, this spell creates a “death
+ray” which will kill any creature unless a saving throw is made (where applicable). Range: 12”. (A Cleric-type may use this spell in a life-or-death situation,
+but misuse will immediately turn him into an Anti-Cleric.)
+Anti-Clerics: Evil Acolyte, Evil Adept, Shaman, Evil Priest, Evil Curate, Evil Bishop,
+Evil Lama, Evil High Priest.
+MAGICAL RESEARCH:
+Both Magic-Users and Clerics may attempt to expand on the spells listed (as applicable by class). This is a matter of time and investment. The level of the magic required to operate the spell (determination by referee) dictates the initial investment.
+Investment for 1st level is 2,000 Gold Pieces, 2nd level is 4,000 Gold Pieces, 3rd
+level is 8,000 Gold Pieces, 4th level is 16,000 Gold Pieces, 5th level is 32,000
+Gold Pieces, and 6th level is 64,000 Gold Pieces. The time required is one week
+per spell level. For every amount equal to the basic investment spent there is a 20%
+chance of success, cumulative. An investment of 10,000 Gold Pieces in order to
+develop a new 1st-level spell, for example, has a 100% chance of success after one
+game week.
+The level of the spell researched must be consistent with the level of the MagicUser or Cleric involved, i.e. the character must be able to use spells equal to or
+above the level of the one he desires to create.
+Once a new spell is created the researcher may include it in the list appropriate
+to its level. He may inform others of it, thus enabling them to utilize it, or he may
+keep it to himself.
+BOOKS OF SPELLS:
+Characters who employ spells are assumed to acquire books containing the spells
+they can use, one book for each level. If a duplicate set of such books is desired,
+the cost will be the same as the initial investment for research as listed above, i.e.
+2,000, 4,000, 8,000, etc. Loss of these books will require replacement at the above
+expense.TM & ©2013 Wizards of the Coast LLC.
+
+</WRAP>

@@ -1,0 +1,53 @@
+\documentclass[letterpaper,twoside]{book}
+\usepackage{geometry}
+\geometry{letterpaper, portrait, textwidth=504pt, textheight=650pt, top=72pt, outer=18pt, twoside, paperheight=770pt, paperwidth=576pt, headheight=36pt, headsep=24pt, footskip=18pt}
+\usepackage{lipsum}
+\usepackage[svgnames]{xcolor} % Enabling colors by their 'svgnames'
+\usepackage{fontspec}
+\usepackage{sectsty} % Enables custom section titles
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{atbegshi}
+\usepackage{changepage}
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{indentfirst}
+\usepackage{subfiles}
+\usepackage{tabularx}
+
+\graphicspath{{images/}{../images/}}
+
+%\AddToShipoutPictureBG{%
+%  \checkoddpage
+%  \ifoddpage
+%  \put(0,0){\includegraphics{2101-left.jpg}}
+%  \else
+%  \put(0,0){\includegraphics{2101-right.jpg}}
+%  \fi
+%}
+
+
+\newcommand{\changefont}{%
+  \fontsize{18}{22}\selectfont
+}
+\setromanfont{Zapf Calligraphic 801 SWA}
+\pagestyle{fancy}
+\setmainfont{Zapf Calligraphic 801 SWA}
+\setsansfont{Friz Quadrata}
+\setlist{noitemsep}                         % Remove space between list items.
+\setlist[description]{font=\fontseries{ub}} % Make description list title item bolder.
+\setlength{\columnsep}{18pt}                 % Add space between columns.
+\setlength{\textheight}{23cm}               % Make text fit tighter in page.
+\setlength{\columnwidth}{245pt}
+\definecolor{dndblue}{HTML}{4169e1}         % Colorpicked from PHB 3.5e.
+\setlength{\parindent}{8pt}
+
+\begin{document}
+    \subfile{chapter/use}
+    
+
+
+
+\end{document}

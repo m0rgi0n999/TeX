@@ -1,0 +1,8 @@
+PWD /home/erwin.rijvers/src/TeX/ADND/MC1 - 2102/chapter
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/erwin.rijvers/src/TeX/ADND/MC1 - 2102/chapter/use.tex
+OUTPUT /home/erwin.rijvers/src/TeX/ADND/MC1 - 2102/chapter/use.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
