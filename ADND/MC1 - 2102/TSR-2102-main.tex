@@ -1,6 +1,7 @@
+%!TeX program = xelatex
 \documentclass[letterpaper,twoside]{book}
 \usepackage{geometry}
-\geometry{letterpaper, portrait, textwidth=504pt, textheight=650pt, top=72pt, outer=18pt, twoside, paperheight=770pt, paperwidth=576pt, headheight=36pt, headsep=24pt, footskip=18pt}
+\geometry{letterpaper, portrait, textwidth=504pt, textheight=650pt, top=72pt, outer=18pt, twoside, paperheight=770.4pt, paperwidth=576pt, headheight=36pt, headsep=24pt, footskip=18pt}
 \usepackage{lipsum}
 \usepackage[svgnames]{xcolor} % Enabling colors by their 'svgnames'
 \usepackage{fontspec}
@@ -14,8 +15,11 @@
 \usepackage{multicol}
 \usepackage{tcolorbox}
 \usepackage{indentfirst}
+\usepackage{float}
+\usepackage{framed}
+\usepackage{tabulary}
+\usepackage{setspace}
 \usepackage{subfiles}
-\usepackage{tabularx}
 
 \graphicspath{{images/}{../images/}}
 
@@ -34,6 +38,7 @@
 }
 \setromanfont{Zapf Calligraphic 801 SWA}
 \pagestyle{fancy}
+\fancyfoot{}
 \setmainfont{Zapf Calligraphic 801 SWA}
 \setsansfont{Friz Quadrata}
 \setlist{noitemsep}                         % Remove space between list items.
@@ -45,9 +50,9 @@
 \setlength{\parindent}{8pt}
 
 \begin{document}
-    \subfile{chapter/use}
-    
-
+	\subfile{chapter/use}
+	\subfile{chapter/alpha-index}
+	\subfile{chapter/tables}
 
 
 \end{document}
