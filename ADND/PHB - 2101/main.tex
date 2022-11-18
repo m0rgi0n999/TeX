@@ -1,3 +1,4 @@
+%!TEX program=xelatex
 \documentclass[twoside]{book}
 \usepackage{geometry}
 \geometry{letterpaper, portrait, textwidth=540pt, textheight=665pt, top=72pt, outer=36pt, twoside, paperheight=783pt, paperwidth=590pt, headheight=36pt, headsep=24pt, footskip=18pt}
@@ -14,6 +15,7 @@
 \usepackage{multicol}
 \usepackage{tcolorbox}
 \usepackage{indentfirst}
+\usepackage{framed}
 \usepackage{subfiles}
 
 \graphicspath{{images/}{../images/}}
@@ -27,6 +29,18 @@
 	\fi
 }
 
+\newcommand{\highlight}[1]{%
+ \par\noindent
+ \colorbox{dndblue!30}{%
+ \parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
+ #1
+ }%
+}}
+
+\newcommand{\negpar}[1][-1em]{%
+  \ifvmode\else\par\fi
+  {\parindent=#1\leavevmode}\ignorespaces
+}
 
 \newcommand{\changefont}{%
 	\fontsize{18}{22}\selectfont
@@ -44,6 +58,7 @@
 \begin{document}
 		\subfile{chapter/welcome}
 		\subfile{chapter/real}
+		\subfile{chapter/glossary}
 
 
 
