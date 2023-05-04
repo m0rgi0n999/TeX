@@ -1,0 +1,81 @@
+= Chapter 5: Proficiencies (Optional) =
+A character in the AD&D® game, like anyone else, has a variety of skills and talents. He is good at some things (because they are used in his profession or hobby) and poor at those he has studied casually or not at all. These skills and talents are called proficiencies in the AD&D game.
+
+Proficiencies aren’t exactly like the skills people pick up in school or in the “real” world. They tend to be unrealistically broad or narrow, depending on the subject. The fishing proficiency, for example, assumes the character knows everything about both rod-and-reel fishing and net fishing. In reality, these are two vastly different skills.
+
+At the other end of the spectrum, weapon proficiencies tend to be very precise, highlighting the subtle differences between weapons. A long bow and a short bow differ in size, weight, pull, arrow length, and balance. Each demands different practices to get optimum utility.
+
+When using proficiencies, remember that these rules are not intended to recreate reality. It might have been more realistic to list different proficiencies for each aspect of medieval botany—horticulture, herbalism, mycology, etc.—but in the context of a game, these are much better grouped under a single proficiency. Individually, each proficiency would be of such limited usefulness that all of them would become worthless. Other proficiencies, particularly weapons, go to the other extreme.
+
+== Weapon Proficiencies ==
+Sooner or later a player will complain that the weapon proficiencies are too restrictive. But the real complaint may be that the rules don’t allow a character to do everything the player wants.
+
+For example, say a player character is proficient with a long sword, As our example begins, he’s about to overwhelmed by a horde of kobolds, but he has the sense to retreat. Unfortunately, he trips over his feet and falls face-first to the floor! His faithful, trusted long sword skitters from his grip and the little monsters are upon him. Still full of fight, the character wrests a short sword from the nearest beastie and begins to fight.
+
+At this point, the DM tells the player to apply the nonproficiency penalty. The player howls in outrage. “It’s a sword,” he moans. “My character can use a long sword, I can’t believe you won’t let him use a short sword! It’s the same thing, just smaller!" Before giving in to the player’s protests, consider the differences in what seem to be similar weapons:
+
+The character’s customary weapon, the long sword, is a slashing weapon. It is 3 to 4 feet long, heavy, and balanced toward the blade to increase momentum in a slash. A short sword is a piercing weapon. It is 12 to 18 inches long, light (for a sword), and balanced with most of the weight toward the handle for quick reaction.
+
+So, in our example, the character leaps into the fight using the short sword instinctively—the way he would use a long sword. He tries to slash, but the weapon is too short and light for slashing. He tries to block and parry and finds the weapon absorbs much less impact than his massive long sword. He tends to attack the air, because he is used to the longer reach and sweep of the long sword. He throws himself off balance by swinging the light weapon too hard. All these minor errors make him less effective with the short sword, even though it seems similar to his long sword. The nonproficiency penalty begins to make sense.
+
+Furthermore, weapon proficiencies are just some of the many factors that must be balanced for a successful adventure. If a variety of factors combine to give a character excessive combat bonuses, the DM should create situations in which that character’s favorite weapon is not the best choice.
+
+For example, a character who is proficient with all types of swords, but no other weapons, is at a big disadvantage when confronted by skeletons. His sword is less effective than a mace. Eventually, the player will have to broaden his character’s weapon proficiencies if he wants to thrive in the AD&D game world.
+
+== Min/Maxing ==
+Sometimes players resort to “min/maxing” when selecting weapon proticiencies. Min/maxing occurs when a player calculates all the odds and numerical advantages and disadvantages of a particular weapon. The player’s decision isn’t based on his imagination, the campaign, role-playing, or character development. It is based on game mechanics—what will give the player the biggest modifier and cause the most damage in any situation.
+
+A certain amount of min/maxing is unavoidable, and even good (it shows that the player is interested in the game), but an excessive min/maxer is missing the point of the game. Reducing a character to a list of combat modifiers and dice rolls is not role-playing.
+
+Fortunately, this type of player is easy to deal with: Just create a situation in which his carefully chosen weapon, the one intended to give him an edge over everyone else, is either useless or puts him at a disadvantage. He will suddenly discover the drawback of min/maxing. It is impossible to create a combination of factors that is superior in every situation, because situations can vary so much.
+
+Finally, a character’s lack of proficiency can be used to create dramatic tension, a vital part of the game. In the encounter with kobolds described earlier, the player howled in surprise because the situation suddenly got a lot more dangerous than he expected it to. The penalty for nonproficiency increases the risk to the player character, and that increases the scene’s tension.
+
+When a nonproficiency penalty is used to create tension, be sure the odds aren’t stacked against the character too much. Dramatic tension exists only while the player thinks his character has a chance to escape, even if it’s only a slim chance. If a player decides the situation is hopeless, he will give up. His reaction will switch from excitement to despair.
+
+== NPC Proficlencies ==
+As a convenience for the DM, non-player characters are assumed to be proficient with the weapons they carry. However, this need not always be the case. If you want to make an NPC easier to defeat or less dangerous, rule that he is not proficient with his weapon. This is most likely the case with simple innkeepers or townsmen impressed into the militia. The innkeeper may be adept with a club (occasionally useful in his trade), but the niceties of swordplay are not within the normal realm of his business, By adding to or subtracting from the abilities of an NPC, the game can be balanced and enriched.
+
+== Nonweapon Proficiencies ==
+Nonweapon proficiencies are optional, but, if chosen, can be very useful. Their use is highly recommended. If you are uncertain whether to use these proficiencies, the following points should make the decision easier:
+
+'''Nonweapon proficiencies help determine the success of character actions’'' beyond what is defined by the basic abilities of the character races and classes. They provide a useful gauge when a character tries to build a boat or behave properly at court. ThisProficiencies (Adding New Proficiencies) frees the DM to think about more important parts of the story instead of little, perhaps even insignificant, details.
+
+Not everyone agrees with this! Some DMs prefer to handle by themselves al) the situations covered by proficiencies. This requires a quick wit and good memory. In return, the DM is freed from the restraints of rules. He can create the scene he wants without worrying whether it breaks the rules. But tread softly here—this is not an easy way to judge a game! Try this only if you are experienced at DMing or are a spontaneous and entertaining storyteller.
+
+'''Nonweapon proficiencies give a player character more depth.''' Used cleverly, they tell the player more about the personality and background of his character and give him more tools to work with, Applied judiciously and thoughtfully, nonweapon proficiencies vastly imcrease a character’s role-playing potential.
+
+Beware. however, because nonweapon proficiencies can have exactly the opposite effect —they can become a crutch for players who are unwilling to role-play, an excuse not to develop a character’s personality or history. Some players decide that proficiencies define everything the character knows; they make no effort to develop anything else.
+
+Avoid this by encouraging players to dig deeper and explore the possibilities in their characters. Ask a player to explain why his character has specific proficiencies. What did that character do before becoming an adventurer? Questions like this stimulate players to delve into their characters’ personalities and backgrounds. Make a note of the player’s reasons and then you can use them during play.
+
+'''Nonweapon proficiencies can be used to define the campaign and create atmosphere.''' The proficiency lists can be tailored to match specific regions or historical periods, or to define the differences between nationalities.
+
+If the characters’ home base is a fishing village, the lists can be altered to allow all characters to learn swimming, sailing, fishing, and navigation at the same cost (in proficiency slots). These are common skills among seafaring people.
+
+At the same time, dwarves, who come to this town from the nearby mountains, must devote extra slots to learn these proficiencies. A youth spent in dry, solid tunnels hasn’t prepared them for a life at sea. Instead, they can learn mining, gemcutting, and other stonework skills cheaply.
+
+The proficiency lists in the ''Player’s Handbook'' are only a beginning. Your campaign will develop a much more interesting flavor if separate lists are tailored to different regions.
+
+This still leaves the problem of min/maxing. Players are encouraged to make intelligent and sensible choices for their characters, but not at the expense of role-playing. If tailored lists are in use, encourage players to list the proficiencies they want without getting to see the lists of proficiencies. Then collect the lists and figure out which proficiences the characters can get (some may be unavailable and others too expensive). Players will still request the proficiencies they think are most advantageous, but at least the selections are drawn partially from the players’ imaginations instead of a list of numbers.
+
+Finally, proticiencies are only as useful as the DM makes them. Once a decision is made to use proficiencies in the campaign, the DM must strive to create situations where they are useful. Always remember to design encounters, traps, and scenes where proficiencies have a practical application to the problem at hand. Otherwise, players are going to write off proficiencies as a waste of time and miss out on a wonderful chance to expand their characters.
+
+Ultimately, proficiencies add much richness, detail, and role-playing to a campaign at only a small cost in increased complexity. The DM has to remember a few more rules and the players have to make a few more choices when creating their characters. But in return, the game is bigger, better, and more fun.
+
+== Adding New Proficiencies ==
+The proficiency lists in the ''Player’s Handbook'' are extensive, but not comprehensive. The proficiencies given are the ones that characters will most commonly want or need, and those that have significant, specialized effects worthy of explanation. DMs and players will certainly think of proficiencies they’d like to add.
+
+Wherever the idea for a new proficiency comes from, the DM is the person who decides whether to include it in the game and what its effects are. This is not a decision for the players, although they can offer suggestions and advice, Only after a new proficiency is approved by the DM can it be used in play.
+
+One important factor to remember is that no proficiency should be beyond the science and technology of the age. There’s no proficiency on the list that allows a character to build a gasoline engine, and with good reason. A gasoline engine is far beyond the pseudo-medieval society presented in the AD&D® game.
+
+At the same time, this is a fantasy game filled with magical effects and strange powers. With magic, it is not impossible to have outlandish and amazing proficiencies if players and DM want them. They may have a serious effect on the game, however, and must be carefully considered.
+
+The majority of new proficiencies are going to be those related to trades, Most of these have a very minor game effect, if any at all. They give the character specialized knowledge, but it is up to the player to make some use of it.
+
+A character with the skills of a glazier (glass-maker) does not gain a great advantage, although, if necessary, he could support himself by making small glass vials and other items for local mages and adventurers. Still, there might come a day when knowledge of glass and glass-making becomes vital to the success of an adventure. A clever player is always looking fora way to turn knowledge to his advantage.
+
+When a player proposes a new proficiency, have him prepare a description of what the proficiency entails and allows. Then consider what the character could gain from it. This is not to say that the player is trying to pull a fast one (some will, but give them the benefit of the doubt). Instead, it is useful to imagine ways the proficiency could be abused. If something horrible or gamebusting comes to mind, fix it. Never allow a proficiency into the game if it seems too powerful.
+
+Make whatever changes are necessary in the description and then offer it to the player. If he still likes it (after all the secret powers are stripped out), introduce it into the game and have fun. Sometimes the only thing that can be kept is the name of the proficiency. Don’t be distressed by this, Most players will be satisfied with DM changes, content simply to contribute something to the game.

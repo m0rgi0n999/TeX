@@ -1,0 +1,362 @@
+= Chapter 8: Experience =
+This chapter contains instructions for determining specific experience awards. It also gives guidelines about awarding experience in general. However, it does not provide absolute mathematical formulas for calculating experience in every situation.
+
+Awarding experience points (XP) is one of the DM’s most difficult jobs. The job is difficult because there are only a few rules (and a lot of guidelines) for the DM to rely on. The DM must learn nearly everything he knows about experience points from running game sessions, There is no magical formula or die roll to determine if he is doing the right or wrong thing. Only time, instinct, and player reactions will tell.
+
+== The Importance of Experience ==
+It is often said that the AD&D® game is not a “winners-andlosers” game. This is true. The AD&D game is not a game in which one player wins at the expense of the others. But at the same time there is winning and losing, after a fashion, based on how well the group plays and how well it achieves the goals that have been set for it.
+
+This does not mean that individuals in the group compete against each other (winning and losing) or that different groups of players compete against each other (as in football), If anything, an AD&D game player competes against himself, He tries to improve his role-playing and to develop his character every time he plays.
+
+Experience points are a measure of this improvement, and the number of points given a player for a game session is a signal of how well the DM thinks the player did in the game—a reward for good role-playing. As with any other reward system, there are potential problems.
+
+== Too Little or Too Much? ==
+If the DM consistently gives too little experience to players, they become frustrated. Frustrated players don’t have fun and, usually, quit the game. Even if they don’t quit, players can develop an “It-doesn’t-matter-what-l-do-so-whybother” attitude. They stop trying to do their best, figuring they will only get a measly amount of experience whether they play their best or just coast along.
+
+On the other hand, players can be given too many experience points too quickly. Players in this situation develop an “Itdoesn’t-matter-what-|-do-because-|’mgoing-to-win” attitude. They quit trying to be inventive and clever, and just get by.
+
+Consequently, the DM must take care not to give characters too little experience or too much. The best approach is to vary the awards given from game to game, based on the actions of the characters. Players should be rewarded according to how hard they try and how well they accomplish various goals.
+
+Every game session should have a goal (or goals). Some goals are constant, applicable to any AD&D® game. Others are dependent on the individual campaign, storyline, character levels, and specific adventure. All goals should be clear, understandable ones that players can see or decipher from clues they get during play.
+
+== Constant Goals ==
+Three goals are constant: fun, character survival, and improvement. Each of these should be possible in a single game session.
+
+=== Fun ===
+Everyone gathered around an AD&D game table is playing a game, Games are entertainment, and entertainment is supposed to be fun. If the players don’t have a good time playing in AD&D game sessions, it shows in their play.
+
+Therefore, one of the goals of the AD&D game is to have fun. Much of the pressure to provide this elusive quality rests on the DM’s shoulders, but the players can also contribute. When they do, players should be rewarded with experience points since they are making the game @ good experience for all. The DM who doles out awards for adding, to the fun will find more players making the effort to contribute.
+
+To give out experience points for fun the DM should consider the following:
+
+# Did the player actively get involved in the game? A player who does nothing but tell one funny joke during the course of the game isn’t really participating. The DM should be careful, however, not to penalize players who are naturally shy. Involvement should be measured against a player’s personality.
+# Did the player make the game fun for others or make fun at their expense? The second is not really deserving of any reward.
+# Was the player disrupting or interfering with the flow of the game? This is seldom enjoyable and tends to get on everyone’s nerves quickly.
+# Was the player argumentative or a “rules lawyer?” (These are players who can quote every rule in the game and try to use even the most obscure rules to their advantage, often to the detriment of the spirit of the game.) This is definitely not fun for the DM, but the DM should allow a reasonable amount of disagreement with his decisions. Players will want (and should be allowed) to argue their views from time to time. However, rules arguments properly belong outside the actual game session. The DM should make a ruling for the moment and then hear appeals to his decision after the adventure, This way the game is not interrupted.
+
+=== Character Survival ===
+Although having a character live from game session to game session is a reward in itself, a player should also receive experience points when his character survives, Since there are many ways to bring a dead character back into the game, the threat of death, while present, loses some of its sting. Players should be encouraged to try and keep their characters alive, instead of relying on resurrections and wishes. To this end, a small reward for making it through a game session is useful. It is a direct way of telling a player that he played well.
+
+The amount given for survival should be balanced against what happened during the adventure. Player characters who survived because they did nothing dangerous or who have so many powers and hit points that they’re nearly invulnerable do not deserve nearly as many experience points as the character who survived sure death through the use of his wits. Likewise, characters who survived by sheer luck deserve less than those who survived because of sound strategy and tactics.
+
+=== Improvement ===
+Experience points are one measure of a character’s improvement, and they translate directly into game mechanics. However, players should also improve by trying to play more intelligently at each session. As the players learn more about the game, the campaign, and role-playing, this should be reflected in their experience points. When a player thinks up a really good idea—solves a difficult puzzle, has his character talk the group out of a tight situation, or just finds a novel way around a problem—that’s worth experience points. Players should be encouraged to use their brains and get involved.
+
+== Variable Goals ==
+In addition to the constant goals listed above, every game session is going to have some variable goals. Most of these come from the plot of the adventure. Some may come from the players’ desires. Both types can be used to spur players on to more effective role-playing.
+
+=== Story Goals ===
+Story goals are objectives the DM sets up for an adventure. Rescue the prince, drive away a band of marauding orcs, cleanse the haunted castle, find the assassin of the late queen, recover the lost Gee-Whiz wand to save the world— these are all story goals.
+
+When the DM sets up a story, he decides how many experience points he thinks the player characters should get for accomplishing the big goal. This must be based on just how difficult the whole adventure will be. If the characters successfully accomplish this goal (which is by no means guaranteed), they will earn this bonus experience.
+
+Sometimes the DM may not have a clear idea of what the goal of a particular adventure is. In such a case the players can sometimes provide the goal, or at least a clue. Listen to what they think they are supposed to do or what they want to do. These can then become the goal of the adventure. Again, assign experience points based on difficulty if they accomplish this.
+
+== Experience Point Awards ==
+There are two categories of experience point awards: group and individual. Group awards are divided equally among all members of the adventuring party, regardless of each individual’s contribution. The idea here is that simply being part of a group that accomplishes something teaches the player character something useful.
+
+From a strictly game mechanics point of view, this ensures that all player characters will have the opportunity to advance in experience points at roughly the same rate. Individual awards are optional, given to each player based on the actions of his character and his character’s class.
+
+=== Group Awards ===
+All characters earn experience for victory over their foes, There are two important things to bear in mind here: First, this award applies only to foes or enemies of the player characters—the monster or NPC must present a real threat. Characters never receive experience for the defeat of non-hostile creatures (rabbits, cattle, deer, friendly unicorns) or NPCs (innkeepers, beggars, peasants). Second, no experience is earned for situations in which the PCs have an overwhelming advantage over their foes.
+
+A 7th-level player character who needs one more experience point to advance in level can’t just gather his friends together and hunt down a single orc. That orc wouldn’t stand a chance, so the player char- acter was never at any particular risk. If the same character had gone off on his own, thus risking ambush at the hands of a band of orcs, the DM could rule that the character had earned the experience.
+
+The DM must decide what constitutes a significant risk to the player characters. Often it is sufficient if the characters think they are in danger, even when they are not. Their own paranoia increases the risk (and enhances the learning experience). Thus, if the party runs into a band of five kobolds and becomes convinced that there are 50 more around the next corner, the imagined risk becomes real for them. In such a case, an experience point reward might be appropriate.
+
+The characters must be victorious over the creature, which is not necessarily synonymous with killing it. Victory can take many forms: Slaying the enemy is obviously victory; accepting surrender is victory: routing the enemy is victory; pressuring the enemy to leave a particular neck of the woods because things are getting too hot isa kind of victory. The creature needn’t even leave for the characters to score a victory. If the player characters ingeniously persuade the dragon to leave the village alone, this is as much (if not more) a victory as going in and chopping the beast into dragonburgers!
+
+Here’s an example of experience point awards: Delsenora and Rath, along with their henchmen, have been hired to drive the orcs out of Wainwode Copse. After some scouting, they spring several ambushes on orc raiding parties. By the third shattering defeat, the orcs of Wainwode decide they’ve had enough. Striking their village, they cross the range of hills that marks the boundary of the land and head off for easier pickings elsewhere.
+
+Although Delsenora and Rath have caused the orc village of 234 to leave, they only get the experience for overcoming the 35 they bested in ambushes. Although they did succeed in driving off the others, they did not face them and were thus not exposed to personal risk. Even if they had raided the orc village, the DM should only give them experience for those orcs they directly faced. If, in the village, they routed the guards, pursued them, and caused them to run again, they would only receive experience for the guards once during the course of the battle. Once beaten, the guards posed no significant threat to the party. However, Rath and Delsenora have accomplished their mission of driving out the orcs, making them eligible for the XP award for completing a story goal.
+
+To determine the number of experience points to give for overcoming enemies, use Table 31. Find the Hit Dice of the creature on the table. Add the additional Hit Dice for special powers from Table 32 and find the adjusted Hit Dice. Add this number directly to the current Hit Dice value, so that a 1+1 Hit Die creature with +2 Hit Dice of special abilities becomes a 3+1 Hit Dice creature for calculation purposes.
+
+This formula produces an experience point value. Multiply this value by the number of creatures of that type defeated and add together all total values. The result is the total XP the group earns. It should be divided among all of the group’s surviving players (including resurrected characters, if the DM wishes).
+
+{| class="wikitable"
+	|+Table 31: CREATURE EXPERIENCE POINT VALUES
+	! Hit Dice or Level
+	! XP Value
+	|-
+	| Less than 1-1
+	| 7
+	|-
+	| 1-1 to 1
+	| 15
+	|-
+	| 1+1 to 2
+	| 35
+	|-
+	| 2+1 to 3
+	| 65
+	|-
+	| 3+1 to 4
+	| 120
+	|-
+	| 4+1 to 5
+	| 175
+	|-
+	| 5+1 to 6
+	| 270
+	|-
+	| 6+1 to 7
+	| 420
+	|-
+	| 7+1 to 8
+	| 650
+	|-
+	| 8+1 to 9
+	| 975
+	|-
+	| 9+1 to 10+
+	| 1,400
+	|-
+	| 11 to 12+
+	| 2,000
+	|-
+	| 13+
+	| 2,000 + 1,000 per additional Hit Die
+|}
+{| class="wikitable"
+	|+Table 32: HIT DICE VALUE MODIFIERS
+	! Ability
+	! Hit Die Modifier
+	|-
+	| mie Class 0 or lower
+	| +1
+	|-
+	| Blood drain
+	| +1
+	|-
+	| Breath weapon
+	| +2
+	|-
+	| Causes disease
+	| +1
+	|-
+	| Energy drain
+	| +3
+	|-
+	| Flies
+	| +1
+	|-
+	| Four or more attacks per round
+	| +1
+	|-
+	| Greater than normal hit points
+	| +1
+	|-
+	| High Intelligence
+	| +1
+	|-
+	| Hit only by magical/silver weapons
+	| +1
+	|-
+	| Immunity to any spell
+	| +1
+	|-
+	| Immunity to any weapon (including ½ damage)
+	| +1
+	|-
+	| Invisible at will
+	| +1
+	|-
+	| Level 2 or lower spells
+	| +1
+	|-
+	| Level 3 or greater spells (not cumulative with previous award)
+	| +2
+	|-
+	| Magic resistance
+	| +2
+	|-
+	| Missile weapons
+	|
+	|-+1
+	| Multiple attacks causing 30+ points of damage
+	| +2
+	|-
+	| Paralysis
+	| +2
+	|-
+	| Petrification
+	| +3
+	|-
+	| Poison
+	| +2
+	|-
+	| Possesses magical items usable against party
+	| +1
+	|-
+	| Regeneration
+	| +1
+	|-
+	| Single attack causing 20+ points of damage
+	| +2
+	|-
+	| Special defense form*
+	| +1
+	|-
+	| Special magical attack form*
+	| +2
+	|-
+	| Special non-magical attack form*
+	| +1
+	|-
+	| Swallows whole
+	| +2
+	|-
+	| Weakness or fear
+	| +2
+|}
+&#42; This applies only if the ability is not already listed.
+
+For example, the player characters manage to defeat three orcs, a rust monster, and a green slime, Each orc is worth 15 XP. since they are one Hit Die each and have no special abilities, The rust monster is worth 420 XP. It has five Hit Dice but gains a bonus of +2 for a special magical attack form (rusting equipment). The green slime is worth 175 XP. since its base two Hit Dice are increased by 3 for a special non-magical attack form and immunity to most spells and weapons. The player characters divvy up a total of 640 XP.
+
+Not all powers and abilities are listed on Table 32. When dealing with a power not on the list, either use the Special entries or compare the new power to one already defined.
+
+The other group award is that earned for the completion of an adventure, This award is determined by the DM, based on the adventure’s difficulty. There is no formula to determine the size of this award, since too many variables can come into play. However, the following guidelines may help:
+
+The story award should not be greater than the experience points that can be earned defeating the monsters encountered during the adventure. Thus, if the DM knows there are roughly 1,200 experience points worth of monsters, the story award should not exceed this amount.
+
+The story award should give a character no more than */:oth the experience points he needs to advance a level. This way the character will have to undertake several adventures before he can advance to the next level.
+
+Within these guidelines you have a great deal of leeway. One of the most important uses of story awards is to maintain what you feel is the proper rate of advancement for player characters. By monitoring not just their levels, but also their experience point totals, you can increase or decrease the rate of character advancement through judicious use of story awards.
+
+Finally, you can award points on the basis of survival. The amount awarded is entirely up to you. However, such awards should be kept small and reserved for truly momentous occasions. Survival is its own reward. Since story and survival awards go hand in hand, you may be able to factor the survival bonus into the amount you give for completing the adventure.
+
+Once you have calculated all the experience points due to your group of player characters (and you should do this, not your players), divide the total by the number of surviving and (at the DM’s option) resurrected player characters. This is the amount each surviving character gets.
+
+Although characters who died during the course of an adventure normally earn no experience (one of the penalties of dying), you can allow a character to earn some experience for actions taken before he died, particularly if the character died nobly, through no fault of his own, or at the very end of the adventure. In such a case, it is simpler to give the character a flat award than to try to figure separate experience totals for those actions the character was involved in and those he was not.
+
+As an option, the DM can award XP for the cash value of non-magical treasures. One XP can be givenper gold piece, or equivalent, found. However, overuse of this option can increase the tendency to give out too much treasure in the campaign.
+
+=== Individual Experience Awards (Optional Rule) ===
+Individual experience point awards are given got things a player does in play or things he has his character do: Intelligent play is worth experience; good role-playing is worth experience points; actions that fit the group’s style are worth experience.
+
+Although some of these awards are tied to abilities, giving out these experience points is purely a discretionary act. It is up to the DM to decide if a player character has earned the award and, within a given range, to determine the amount of the award. These awards are normally given at the end of each session, but this isn’t a hard-and-fast rule—the DM can award individual experience points any time he feels it is appropriate.
+
+Individual experience point awards are divided into two categories. First are awards all player characters can earn, regardless of class. After these are the awards characters can earn according to their character group and class, This information is given on Tables 33 and 34.
+
+{| class="wikitable"
+	|+Table 33: COMMON INDIVIDUAL AWARDS
+	| Player has a clever idea
+	| 50-100
+	|-
+	| Player has an idea that saves party
+	| 100-500
+	|-
+	|Player role-plays his character well*
+	| 100-200
+	|-
+	| Player encourages others to participate
+	| 100-200
+	|-
+	| Defeating a creature in single combat
+	| XP value/creature
+|}
+&#42; This award can be greater if the er character sacrifices some game advantage to role-play his character. A noble fighter who refuses a substantial reward because it would not be in character qualifies.
+
+{| cvlass="wikitable"
+	|+Table 34: INDIVIDUAL CLASS AWARDS
+	! Action
+	! Award
+	|-
+	| '''Warrior:'''
+	|
+	|-
+	| Per Hit Die of creature defeated
+	| 10 XP/level
+	|-
+	| '''Priest:'''
+	|
+	|-
+	| Per successful use of granted power
+	| 100 XP
+	|-
+	| Spells cast to further ethos
+	| 100 XP/spell level*
+	|-
+	| Making potion or scroll
+	| XP value
+	|-
+	| Making permanent magical item
+	| XP value
+	|-
+	| '''Wizard:'''
+	|
+	|-
+	| Spells cast to overcome foes or problems
+	| 50 XP/spell level
+	|-
+	| Spells successfully researched
+	| 500 XP/spell level
+	|-
+	| Making potion or scroll
+	| XP value
+	|-
+	| Making permanent magical item
+	| XP value
+	|-
+	| '''Rogue:'''
+	|
+	|-
+	| Per successful use of a special  ability
+	| 100 XP
+	|-
+	| Per gold piece value of treasure obtained
+	| 2 XP
+	|-
+	| Per Hit Die of creatures defeated (bard only)
+	| 5 XP
+|}
+&#42; The priest character gains experience for those spells which, when cast, support the beliefs and attitudes of his mythos. Thus, a priest of a woodland deity would not gain experience for using an entangle spell to trap a group of orcs who were attacking his party, since this has little to do with the woodlands. If the priest were to use the same spell to trap the same orcs just as they were attempting to set fire to the forest, the character would gain the bonus.
+
+When awarding individual experience points, be sure the use warrants the award. Make it clear to players that awards will only be given for the significant use of an ability or spell. “Significant use” is defined by a combination of several different factors:
+
+First, there must be an obvious reason to use the ability. A thief who simply climbs every wall he sees, hoping to gain the experience award, does not meet this standard.
+
+Second, there must be significant danger. No character should get experience for using his powers on a helpless victim—a fighter does not gain experience for clubbing a shackled orc. A mage does not gain experience for casting a house-cleaning cantrip. A thief does gain experience for opening the lock on a merchant’s counting house, since it might be trapped or magical alarms might be triggered.
+
+Third, experience points should not be awarded when a player is being abusive to others in the group or attempting to use his abilities at the expense of others, Player characters should cooperate in order to succeed.
+
+== When to Award Experience Points ==
+As a general guideline, experience points should be given at the end of every gaming session, while the DM still remembers what everyone did. If the awarding of experience points is delayed for several sessions, until the end of a given adventure, there is a chance the DM will overlook or forget what the characters did in previous gaming sessions.
+
+Despite this risk, it isn’t always practical to award experience immediately. If the player characters are still in the heart of the dungeon when the gaming session ends, wait to award points until they return to the surface. The DM can rule that characters receive experience only when they have the opportunity to rest and tell others of their exploits. This means that characters collect experience when they return to their homes, stop at an inn, or the like. Since experience is, in part, increased confidence and comprehension of their own abilities and events, the retelling of the tale boosts the ego of the characters, and this translates into experience.
+
+Sometimes, even this rule is not applicable, however. For example, the player characters may be on a long journey through the desert and not see a settlement or friendly soul for weeks on end, In such cases, experience can be awarded after the characters have had time to reflect upon and analyze their accomplishments. This may be as short as overnight (for small experience awards) or as long as several days.
+
+As before, when dealing with this situation, it is easiest (0 award the points at the end of the gaming session. If, for whatever reason, the DM decides not to award experience points at the end of a gaming session, he should be sure to calculate and record the number of experience points each character should receive for the session and not rely on his memory.
+
+== Effects of Experience ==
+The prowess of player characters is measured in levels. Levels are earned through the accumulation of experience points. A separate table for each character group (shown in Chapter 3 of the Player’s Handbook) tells how many experience points characters of that group need to attain each level.
+
+When a character earns enough experience to attain the next level for his character class, he immediately gains several benefits (unless the optional rules for training are used), The character gains an additional die of hit points (or a set number of hit points at higher levels). These are added to both his current total and his maximum number of hit points. The character may or may not improve in other abilities, including combat and saving throws, dependent upon his character class.
+
+There may be times when the DM feels that the characters should not advance in level, particularly when they are in the middle of an adventure. If so, the DM should withhold any experience points they have earned until he feels the time is appropriate. This method will help to control the advancement of the player characters.
+
+=== Training (Optional Rule) ===
+Some DMs do not like the idea that a character can instantly advance in level simply by acquiring enough experience points. To their minds all improvement is associated with schooling, practice, and study. Others argue that characters are constantly doing  these things to increase their ability so formal schooling is not required. Either case may true, and to some the former seems more realistic. Therefore, the DM may choose to require characters to train before they increase in level.
+
+To train, a character must have three things. First he must have a tutor or instructor. This tutor must be of the same class and higher level than the one the character is training for. Thus, a 7th-level fighter training for 8th-level must be taught by a 9th-level (or higher) fighter. The tutor must also know the appropriate things. Fighters specialized in a given weapon must find a tutor also specialized in that weapon. Mages seeking to study a particular spell must find a tutor who knows that spell. A thief seeking to improve his lockpicking must find a higher-level tutor more accomplished in lockpicking.
+
+Since not all characters are suited to instructing others, any player character who attempts to train another must make both a Wisdom check and a Charisma check. If the Wisdom check is passed, the player character possesses the patience and insight to nurture the student. If the Charisma check is passed, the character also has the wit, firmness, and authority needed to impress the lessons on the student. If either check is failed, that character is close, but just not a teacher. If both checks are failed, the character has absolutly no aptitude for teaching. Alternatively, the DM can dispense with the die rolls and rule for each player character, based on his knowledge of the character’s personality. It is assumed that all NPC tutors have successfully passed these checks.
+
+Second, the character must pay the tutor. There is no set ammount for this. The tutor will charge what he thinks he can get away with, based on their greed or reputation. The exact cost must be worked out between player character and tutor, but an average of 100 gp per level per week is not uncommon.
+
+Finally, the player character must spend time in training. The amount of time required depends on the instructor and the student. First take the instructor’s Wisdom and subtract this from 19. This is the minimum number of weeks the player character must spend in training; it takes his instructor this long to go through all the lessons and drills. At the end of this time, the player character makes an Intelligence or Wisdom check, whichever is higher.
+
+If the check is successful, the lessons have been learned and the character must spend another week in training. At the end of this tiime, another check is made, with a +1 applied to the character’s Intelligence  or Wisdom score. The results are the same as above, with each additional week spent in training giving another +1 to the character’s ability score. (This +1 is for the purpose of determninig the success or failure og rhe check only. It is not permanent or recorded.)
+
+One obvious result of the training system is the development of different academies that specialize in training different chaaaracter classes. Because of their importance in the adventuring community, these academies can become quite powerful in the lives of the player characters. Imagine the disastrous effect should one of the player characters be blacklisted by his appropriateacademy! Although the DM should not abuse such power, the player characters should treat such institutions with care and respect.
+
+== Rate of Advancement ==
+The AD&D® game is intentionally very flexible concerning how slowly or quickly characters earn experience —in general, this is left to the discretion of the DM. Some players prefer a game of slow advancement, allowing them time to develop and explore imaginary personalities. Other players like a much faster pace and a definite feeling of progress. Each DM and his players will likely settle into a pace that best suits their group, without even realizing it.
+
+There is only one hard and fast rule concerning advancement. Player characters should never advance more than one level per time experience is awarded. If a gaming session ends and a character has earned enough experience points to advance two levels, the excess points are lost. The DM should give the character enough experience to place him somewhere between halfway and one point below the next highest level; the exact choice is up to the DM, A character should never be allowed to skip a level entirely.
+
+An average pace in an AD&D game campaign is considered to be three to six adventures per level, with more time per level as the characters reach higher levels. However, it is possible to advance as quickly as one level per adventure or as slowly as ten or more adventures per level. The DM should listen to his players.
+
+If the players are enjoying themselves and aren’t complaining about “not getting anywhere,” then things are fine. If, on the other hand, they grouse about how they never get any better or they’re quickly reaching the highest levels in the game, the pace of advancement probably needs to be adjusted. This, like much that deals with awarding experience, may not come to a DM immediately, Let experience be your guide.

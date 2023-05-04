@@ -1,0 +1,116 @@
+= Chapter 13: Vision and Light =
+The ability of your player characters to see something and their ability to be seen are important to the play of the AD&D® game. Characters unable to see monsters have a nasty tendency to be surprised. Characters stomping through the woods waving torches tend to give away their position, making it hard to surprise others. For these and other reasons, you should always be conscious of visibility and light sources when running an adventure.
+
+== Effects of Light Sources ==
+The types of lighting and their radii are given in the ''Player’s
+Handbook''. However, these represent only the most basic effects of a light source. There are other effects of carrying a light that do not lend themselves to easy quantification or simple tables.
+
+=== Being Seen ===
+If player characters are using light to find their way, then not only can they see, but they can also be seen. Hiding one’s light is impossible in this case. Characters using a light to find their way can even be watched by creatures beyond the range of their own light. Since the light source illuminates the area around the player characters, it makes them visible to people or creatures out to the watchers’ normal visibility ranges. The radius of the light source isn’t the issue in this situation.
+
+For example, on a clear plain, a raiding party of orcs could easily see the light of a fire and the silhouettes cast by the characters, even at 1,500 yards, Indeed, since the brightness of the fire is so different from the surrounding darkness, the light would be noticeable at even greater ranges, though details wouldn’t be. Unless characters using a light source take special measures (posting a guard in the darkness, for example), they cannot surprise creatures who can see the light of their fire, torch, or lantern.
+
+=== Creatures and Light Sources ===
+Light sources, particularly fires, tend either to attract or chase away creatures. Wild animals tend to avoid lights and fires, especially if hunters frequent the area. On the other hand, animals that hunt player characters (or horse meat)
+will be attracted to a fire. They have learned that fires signal a source of food.
+
+Intelligent creatures always approach a light source with caution. Friendly NPCs
+don’t know if they are approaching the camp of a friend or foe. Hostile NPCs will likewise get as close as they can without revealing themselves, in order to learn the strength and numbers of the enemy. Only a few NPCs—those wishing to avoid all
+danger—flee at the sight of a fire, generally heading away the from it in the opposite direction.
+
+== Light Tricks and Traps ==
+Sometimes a fire or light source can be used by intelligent creatures as a diversion or trap. One trick is to build a fire and then set up camp away from it. The fire attracts whatever is likely to show up in the area, allowing the characters the chance to ambush the unwary. This is a favorite tactic of many evil and warlike races such as orcs, bugbears, goblins, and bandits. It is also a trick used by adventurers to lure monsters away from their real camp, although this is somewhat dangerous.
+
+Since fires are often used to determine the size and possible strength of an enemy, dullwitted creatures and nervous player characters can be frightened away by building a large number of campfires in an area. The enemy, counting these fires, decides there is a huge force camping here for the night and becomes frightened enough to leave. In reality, each fire might have but a single man or ore tending it.
+
+Although the radius of a light source is the limit a character can effectively see using that source, it is not the absolute limit. The light doesn’t just end there as if it had hit a brick wall. Beyond the radius of the light, there will still be flickering shadows, reflected eyes, and perhaps glints of metal. Now. some of these may be nothing more than the overactive imaginations of the player characters; others may be real threats! The DM can use this unknown factor as a tool to build suspense in his game.
+
+== Infravision ==
+There are two definitions of infravision that can be used in the AD&D game. The first is simple but lacks detail. It is, however, a perfectly adequate definition for those who don’t want to bother with the complexities of intravision. The second, optional, definition, adds another level of detail to the game. It allows the DM to create special situations in which the function of infravision becomes important, but requires the DM to keep track of more rules and more details.
+
+=== Standard Infravision ===
+The easiest definition of infravision is that it allows characters to see in the dark. Nothing more is said about how this works—it simply works. Characters do not see into the infrared spectrum or “see” heat or anything else. They just see in the dark as clearly as they do in normal light. However, since it is a somewhat magical power, the range is not that of normal vision—infravision ability extends only 60 feet, Beyond this only normal vision is allowed.
+
+=== Optional Infravision ===
+Thin definition is much more scientific and accurate to what we know of physical properties of the real world. To its advantage, this definition makes infra vision very different from normal sight, with its own strengths and weaknesses. To its disadvantage, it introduces a certain amount of scientific accuracy (with all its complications) into a fantasy realm.
+
+According to this definition, infra-vision is the ability to sense or “see heat. The best comparison is to thermal imaging equipment used by the armed forces of many different nations today. This special sense is limited to a 60-foot range. Within this range, characters can see the degrees of heat radiated by an object as a glowing blob translated into colors like a therm a gram.
+
+If this definition is used, there are several things that must be considered. First, large heat sources will temporarily blind characters with infravision just as looking at a bright light blinds those with normal vision. Thus, those attempting to use infravision must make the effort to avoid looking directly at fires or torches, either their own or the enemy’s. (The light from magical items does not radiate significant heat.) Second, the DM must be ready to state how hot various things arc. A literal interpretation of the rule means that characters won’t be able to tell the floor from the walls in most dungeons. All of it is the same temperature, after all.
+
+The DM must also be ready to decide if dungeon doors are a different temperature (or radiate heat differently) from stone walls. Does a different color or kind of stone radiate heat differently from those around it? Does the ink of a page radiate differently enough from the paper to be noticed7 Probably not. Can a character tell an ore from a hobgoblin or a human? Most creatures have similar ’thermal outlines’—somewhat fuzzy blobs. They do not radiate at different temperatures and even if they did, infravision is seldom so acute as to register differences of just a few degrees.
+
+Be sure you understand the effects this optional definition of infravision can have—there are dangers in bringing sci* entific accuracy to a fantasy game. By creating a specific definition of how this power works, the DM is inviting his players to apply logic to the definition. The problem is, this is a fantasy game and logic isn’t always sensible or even desiredl So, be aware that the optional definition may result in very strange situ ations, all because logic and science are applied to something that isn’t logical or scientific.
+
+== Other Forms of Sight ==
+If the optional definition of infravision is used, the DM has set a precedent for using scientific laws to explain the ability. Some people, arguing that there are visual organs that can apparently see into the infrared spectrum (using infravision), will also argue for other forms of sight able to see into other ranges of the spectrum. These can be included, if the DM desires. However, before adding these to his game, the DM had best have a firm grasp of the rules and, maybe, of physics.
+
+For example, just what would a character or creature with ultravision (the ability to see into the ultraviolet spectrum) see? Our eyes see objects because of visible light that is ''reflected'' off the objects (except for a few objects, such as the sun, light bulbs, fires, etc., that emit enough visible light for us to see them). Infravision utilizes heat (infrared) energy ''emitted'' by objects, since almost everything emits infrared energy. The problem with infravision is that many objects, such as normal weapons and rocks, without internal heat sources, are at or very near the are nearly indistinguishable from those surroundings when using infravision. Ultravision (and vision utilizing x-rays, gamma rays, or radio waves) is useless since only stars and a few other celestial objects emit significant amounts of energy in these regions of the electromagnetic . All would appear uniformly black with these forms of vision, except for a few objects in the sky.
+
+== Darkness ==
+Sooner or later characters wind up blundering around in the dark. Normally they try to avoid this, but clever DMs and foolish players generally manage to bring it about. Perhaps the kobolds captured the player characters and stripped them of all their gear; perhaps the characters forgot to bring enough torches. Whatever the reason, those without infravision suffer both physical and psychological effects in the dark.
+
+For the purposes of this discussion, “darkness” means any time the characters suffer from limited visibility. Thus, the rules given here apply equally well when the characters are affected by a darkness spell, blundering about in pea-soup fog, out on a moonless night, or even blindfolded.
+
+Since one can’t see anything in the dark, the safe movement rate of blinded characters is immediately slowed by */s the normal amount. Faster movement requires a Dexterity check (see Chapter 14: Time and Movement). Characters also suffer a —4
+penalty to attack rolls and saving throws. Their Armor Class is four worse than normal (to a limit of 10). Sight-related damage bonuses (backstabbing, etc.) are negated, However, darkness is not always absolute, and those DMs who wish to make distinctions between various levels of darkness can use Table 72.
+
+The blindfighting proficiency can lessen the effects of fighting in darkness as explained in the proficiency description in temperature of their surroundings and thus the ''Player’s Handbook''.
+
+{| class="wikitable"
+	|+Table 72: OPTIONAL DEGREES OF DARKNESS
+	! Condition
+	! Attack Roll
+	! Damage Bonus
+	! Saving Throw
+	! AC Penalty
+	|-
+	| Moonlight (Moderate fog)
+	| -1
+	| Normal
+	| -1*
+	| -0
+	|-
+	| Starlight (No moon or dense fog)
+	| -3
+	| ½ Normal
+	| -3*
+	| -2
+	|-
+	| Total darkness (Spell, unlit dungeon or cave)
+	| -4
+	| Negated
+	| -4
+	| -4
+|}
+&#42; The saving throw modifier applies only to saving throws involving dodging and evasion in these cases.
+
+== Invisibility ==
+Invisibility is a highly useful tool for both player characters and DMs. Handled well, it can create surprises and encounters. However, invisibility requires careful judgment on the part of the DM, lest situations occur that could unbalance a scenario or campaign.
+
+First, an invisible creature is invisible to everyone, including itself. This is normally not a great difficulty; most creatures are aware of their own bodies and don’t need to see their feet to walk, etc. However, when attempting detailed actions (e.g., picking a lock or threadinga needle), invisible characters have serious problems, suffering a —3
+(or —15%) penalty to their chance of success. This does not apply to spellcasting.
+
+Second, invisible characters are invisible to friend and foe. Unless care is exercised, it is easy for a visible person to blunder into an invisible companion. Imagine a fighter swinging his sword just as he realizes he
+doesn’t know were good old invisible Merin is standing! The problem is even worse with a group of invisible characters—
+characters crash and tumble (invisibly) into one another, all because nobody can see anybody. It would be like having a roomful of people play pin-the-tail-on-the-donkey all at once!
+
+=== Detecting Invisible Creatures ===
+Invisible creatures and things are not detectable by normal sight or by infravision. They do not create any significant distortion or haze pattern that can be noted. However, invisible creatures aren’t completely undetectable. First, things still cling to them. Flour thrown into the air is useful for this purpose, although it can be easily covered, washed off, or brushed away. Second, they do not leave invisible footprints. Again, flour on the floor is a good way to spot the movement of invisible creatures.
+
+The effects of specific environments are more subtle. Fog and smoke do not reveal invisible creatures. Smoke and fog are filled with swirls and eddies, preventing the creature from being detected. Invisible creatures completely submerged in liquids are also concealed; there is no hollow space or “air
+bubble” to reveal the creature’s presence. At the surface, an invisible swimmer may be noticed by the observant as an unusual distortion of the waves.
+
+Invisible creatures are not automatically silent. An invisible fighter in plate mail still clanks and rattles as he moves, a dead giveaway to most creatures. They still have scent, so creatures with keen noses can smell them. Indeed, blind, or nearly blind, creatures are unaffected by invisibility.
+
+A ''detect magic'' shows only the presence of something magical without pinpointing it exactly, Thus, it cannot be used as a substitute for a ''detect invisible'' spell, Furthermore, while an actual light source may be invisible, the light emanating from it is not. This can reveal the location of an invisible character.
+
+When the DM thinks there is minor but sufficient cause for a creature to detect an invisible character, a saving throw vs. spell should be made (secretly if the DM is checking for a player character). A minor cause might be a strange odor, small noise, an object that disappeared when it shouldn’t
+have, or a strange reaction from another person (who has been pushed, kicked, poked, etc., by the invisible character). Such a saving throw should be allowed for each new event. A wolf would get a save when it detected a strange scent, then shortly after when it heard a stick break, and finally a last chance when the character drew his sword from his scabbard. Furthermore, the acuity of the creature’s senses and its general intelligence can increase or decrease the frequency of checks, at the DM’s discretion.
+
+If the suspicious creature or character rolls a successful saving throw, he detects some small sign of the invisible foe’s presence. He knows its general location, but not its exact position. He can attack it witha —4
+penalty on his chance to hit. If the check tails, the creature or character is unaware of the invisible opponent until it does something else that might reveal its presence.
+
+Of course, a revealing action (which could range from an attack to tripping over a pile of pots) immediately negates the need for a saving throw. In such cases, the character has a pretty good idea that something is not right and can take actions to deal with the situation.
+
+Finally, even if an invisible character is suspected, this does not mean the character will be instantly attacked. The result, especially for less intelligent creatures, may only be increased caution. Having scented the intruder, the wolf bristles and growls, protecting its cubs. The rattlesnake will give its warning rattle. Even the orcs may only circle about warily, alert for an ambush.

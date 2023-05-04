@@ -1,0 +1,2672 @@
+= Chapter 9: Combat =
+The AD&D® game is an adventure game designed to give players a feeling of excitement and danger. Characters brave the unknown perils of moldering dungeons and thorn-covered wilderness, facing off against hideous monsters and evil villains. Thus, it is important for all players to know the basic rules for handling combat.
+
+To create the proper sense of danger and excitement, the rules for combat must be thorough, but they must also be playable and exciting enough to create a vivid picture in the minds of the players. Combat in the AD&D game has to allow many different actions and outcomes—as many as the imagination can produce. Knowing that anything could happen next (because the rules allow it) creates excitement for everyone.
+
+== Creating Vivid Combat Scenes ==
+Since this isn’t a combat game, the rules are not ultra-detailed, defining the exact effect of every blow, the subtle differences between obscure weapons, the location of every piece of armor on the body, or the horrifying results of an actual sword fight. Too many rules slow down play (taking away from the real adventure) and restrict imagination. How much fun is it when a character, ready to try an amazing and heroic deed, is told, “You can’t do that because it’s against the rules.”
+
+Players should be allowed to try whatever they want—especially if what theywant to try will add to the spirit of adventure and excitement. Just remember that there is a difference between trying and succeeding.
+
+To have the most fun playing the AD&D game, don’t rely only on the rules. Like so much in a good role-playing adventure, combat is a drama, a staged play. The DM is both the playwright and the director, creating a theatrical combat. If a character wants to try wrestling a storm giant to the ground, let him; a character who tries leaping from a second floor window onto the back of a passing orc is adding to everyone’s fun.
+
+The trick to making combat vivid is to be less concerned with the rules than with what is happening at each instant of play. If combat is only “I hit. | miss. | hit again,” then something is missing. Combats should be more like, “One orc ducks under the table jabbing at your legs with his sword. The other tries to make a flying tackle, but misses and sprawls to the floor in the middle of the party!” This takes description, timing, strategy, humor, and (perhaps most important of all) knowing when to use the rules and when to bend them.
+
+=== More Than Just Hack-and-Slash ===
+As important as fighting is to the AD&D game, it isn’t the beall and end-all of play. It’s just one way for characters to deal with situations. If characters could do nothing but fight, the game would quickly get boring —every encounter would be the same. Because there is more to the game than fighting, we’ll cover much more than simple hack-and-slash combat in this chapter.
+
+In addition to explaining the basic mechanics of hitting and missing, there are rules here for turning undead, special ways to attack and defend, poison, heroic feats, and more.
+
+== Definitions ==
+Many game terms are used throughout the combat rules, To understand the rules, players must understand these terms, so brief explanations appear below. Further details are provided throughout this chapter.
+
+'''Armor Class (AC)''' is the protective rating of a type of armor. In some circumstances, AC is modified by the amount of protection gained or lost because of the character’s situation. For instance, crouching behind a boulder improves a character’s Armor Class, while being attacked from behind worsens his AC.
+
+Abilities and situations can also affect a character’s Armor Class. High Dexterity gives a bonus to Armor Class, for example. But even a character with a Dexterity bonus can have this bonus negated if he is attacked from the rear.
+
+Armor provides protection by reducing the chance that a character is attacked successfully (and suffers damage). Armor does not absorb damage, it prevents it. A fighter in full plate mail may be a slow-moving target, but penetrating his armor to cause any damage is no small task.
+
+Armor Class is measured on a scale from 10, the worst (no armor), to —10, the best (very powerful magical armors). ''The lower the number, the more effective the armor.'' Shields can also improve the AC of a character (see page 75 in the ''Player’s Handbook'')
+
+'''Damage (D)''' is what happens to a character when an opponent attacks him successfully. Damage can also occur as a result of poison, fire, falling, acid, and anything even remotely dangerous in the real world. Damage from most attacks is measured in hit points. Each time a character is hit, he suffers points of damage. It could be as little as 1 point to as many as 80 or more. These points are subtracted from the character’s current hit point total. When this reaches 0, the character is dead.
+
+'''Initiative’'' determines the order in which things happen in a combat round. Like so many things in the world, initiative is determined by a combination of ability, situation, and chance.
+
+At the start of each round of a battle, an initiative roll is made by both sides. This roll can be modified by the abilities of the combatants and by the situation. The person or side with the lower modified die roll acts first.
+
+'''Melee’'' is any situation in which characters are battling each other hand-to-hand, whether with fists, teeth, claws, swords, axes, pikes, or something else. Strength and Dexterity are valuable assets in melee.
+
+'''Missile combat’''  is defined as any time a weapon is shot, thrown, hurled, kicked, or otherwise propelled. Missile and melee combat have the same basic rules, but there are special situations and modifiers that apply only to missile combat.
+
+'''Saving throws’'' are measures of a character’s resistance to special types of attacks—poisons, magic, and attacks that affect the whole body or mind of the character, The ability to make successful saving throws improves as the character increases in level.
+
+'''Surprise’'' can happen any time characters unexpectedly meet another group (monsters, evil knights, peasants, etc.). Surprise is simply what happens when one side—a person or party—is taken unawares, unable to react until they gather their wits. Their opponents, if unsurprised, are allowed a bonus round of action while the surprised characters recover. It’s entirely possible for both sides in a given situation to be surprised!
+
+Attacking with surprise gives bonuses to the attack roll (see Table 35). A surprised character also has a decreased chance of rolling a successful saving throw, if one is needed.
+
+Surprise is determined by a die roll and is normally checked at the beginning of an encounter. Surprise is very unpredictable, so there are very few modifiers to the roll.
+
+'''THAC0’'' is an acronym for “To Hit Armor Class 0.” This is the number a character, NPC, or monster needs to attack an Armor Class 0 target successfully. THAC0 depends on a character’s group and level or a monster’s Hit Dice (see Tables 37-39 on page 53). The THAC0 number can be used to calculate the number needed to hit any Armor Class. THAC is refigured each time a character increases in level. Using THAC0 speeds the play of combat greatly.
+
+== The Attack Roll ==
+At the heart of the combat system is the attack roll. This is the die roll that determines whether an attack succeeds or fails. The number a player needs in order to make a successful attack roll is also called the “to-hit” number. Attack rolls are used for attacks with swords, bows, rocks, and other weapons, as well as blows from fists, tackling, and other hand-to-hand attacks. Attack rolls are also used to resolve a variety of actions that require accuracy (e.g., throwing a rock at a small target or tossing a sword to a party member in the middle of a fight).
+
+=== Figuring the To-Hit Number ===
+The first step in making an attack roll is to find the number needed to hit the target. Subtract the Armor Class of the target from the attacker’s THAC0, (Remember that if the Armor Class is a negative number, you add it to the attacker’s THAC0,) The character has to roll the resulting number, or higher, on 1d20 to hit the target.
+
+''Here’s a simple example: Rath has reached 7th level as a fighter. His THAC0 is 14 (found on Table 38), meaning he needs to roll a 14 or better to hit a character or creature of Armor Class 0. In combat, Rath, attacking an orc wearing chainmail armor (AC 6), needs to roll an 8 (14-6 = 8) to hit the orc. An 8 or higher on 1d20 will hit the orc. If Rath hits, he rolls the appropriate dice (see Table 44 in the ''Player’s Handbook'') to determine how much damage he inflicts.''
+
+=== Modifiers to the Attack Roll ===
+The example above is quite simple—in a typical AD&D® game combat situation, THAC0 is modified by weapon bonuses, Strength bonuses, and the like. Figure Strength and weapon modifiers, subtract the total from the base THAC0, and record this modified THAC0 for each weapon on the character sheet. Subtract the target’s Armor Class from this modified THAC0 when determining the number needed to attack successfully.
+
+''Here’s the same example, with some common modifiers thrown in: Rath is still a 7thlevel fighter, He has a Strength of 18/80 (which gives him a +2 bonus to his attack roll). He fights with a long sword +1. His THAC0 is 14, modified to 12 by his Strength and to 11 by his weapon. If attacking the orc from the earlier example, Rath would have to roll a 5 or higher on 1d20 in order to hit (11-6=5). Again, Table 44 in the ''Player’s Handbook'' would tell him how much damage he inflicts with his weapon (this information should also be written on his character sheet).''
+
+In combat, many factors can modify the number a character needs for a successful hit. These variables are reflected in modiay to the to-hit number or to the attack roll.
+
+'''Strength Modifiers:''' A character’s Strength can modify the die roll, altering both the chance to hit and the damage caused. This modifier is always applied to melees and attacks with hurled missile weapons (a spear or an axe).
+
+A positive Strength modifier can be applied to bows if the character has a special bow made for him, designed to take advantage of his high Strength. Characters with Strength penalties always suffer them when using a bow weapon. They simply are not able to draw back the bowstring far enough. Characters never have Strength modifiers when using crossbows—the power of the shot is imparted by a machine, not the player character.
+
+'''Magical Items:''' The magical properties of a weapon can also modify combat. Items that impart a bonus to the attack roll or Armor Class are identified by a plus sign. For example, a sword +1 improves a character’s chance to hit by one. A suit of chain mail +1 improves the Armor Class of the character by one (which means you subtract one from the character’s AC, changing an AC of 5toan AC of 4, for example). Cursed items have a negative modifier (a penalty), resulting in a subtraction from the attack roll or an addition to Armor Class.
+
+There is no limit to the number of modifiers that can be applied to a single die roll. Nor is there a limit to the positive or negative number (the total of all modifiers) that can be applied to a die roll.
+
+Table 35 lists some standard combat modifiers. Positive numbers are bonuses for the attacker; negative numbers are penalties.
+
+{| class="wikitable"
+	|+Table 35: COMBAT MODIFIERS
+	! Situation
+	! Attack Roll Modifier
+	|-
+	| Attacker on higher ground
+	| +1
+	|-
+	| Defender invisible
+	| -4
+	|-
+	| Defender off-balance
+	| +2
+	|-
+	| Defender sleeping or held
+	| Automatic*
+	|-
+	| Detender stunned or prone
+	| +4
+	|-
+	| Defender surprised
+	| +1
+	|-
+	| Missile fire, long range
+	| -5
+	|-
+	| Missile fire, medium range
+	| -2
+	|-
+	| Rear attack
+	| +2
+|}
+
+&#42; If the defender is attacked during the course of a normal melee, the attack automatically hits and causes normal damage. If no other fighting is going on (i.e., al) others have been slain or driven off), the defender can be slain automatically.
+
+The DM may also throw in situational modifiers, (e.g., a bonus if the target is struck from behind, or a penalty if the target is crouching behind a boulder). If the final, modified die roll on 1d20 is equal to or greater than the number needed to hit the target, the attack succeeds. If the roll is lower than that needed, the attack fails.
+
+== Weapon Type vs. Armor Modifiers (Optional Rule) ==
+Not all weapons perform the same. If they did, there would be no need for the wide variety of weapons that exists. Only one form of each weapon-type, the most useful one, would be used throughout the world. This is obviously not the case.
+
+Aside from the differences in size, weight, length, and shape, certain types of weapons are more useful against some types of armor than others. Indeed, the different armors and weapons of the world are the results od an ancient arms race. Every new weapon led to the development of a new type of armor designed to counter it. This led to new weapons which led to new armor, and so on.
+
+=== The Various Types of Weapons ===
+In the AD&D® game, weapons fall into several categories, based on how they are used. The three basic categories are slashing, piercing, and bludgeoning.
+
+'''Slashing Weapons’'' include swords, axes, and knives. Damage is caused by the combination of weight, muscle, and a good sharp edge.
+
+'''Piercing weapons’'' (some swords, spears, pikes, arrows, javelins, etc.) rely on the penetrating power of a single sharp point and muchs less on the weight of the weapon.
+
+'''Bludgeoning weapons’'' (maces, hammers, and flails) depend almost entirely on the impact caused by weight and muscle.
+
+A few weapons, particularly some of the more exotic polearms, fall into more than one of these categories. A halberd can be used as a pole-axe (a slashing weapon) or as a short pike (a piercing weapon). The versatility of these weapons provide the user with a combat advantage, in that the mode most favorable to the attacker can be used, depending upon the situation.
+
+'''Natural weapons’'' can also be classified according to their attack type. Claws are slashing weapons; a bite pierces; a tail-attack bludgeons. The DM must decide which is most appropriate to the creature and method of attack.
+
+'''Armor types,''' in turn, have different qualities. Field plate is more effective, overal, than other armors by virtue of the amount and thic of the metal, but still has specific weaknesses againstcertain classes of weapons.
+
+Table 36 lists the weapon vs. armor modifiers applied to the attacker’s THAC0, if this optional system is used. To use this table, the actual armor type of the target must be known, not the target’s Armor Class. The bonuses of magical armor do not change the type of armor, only the final Armor Class.
+
+This system is used only  when attacking creatures in armor. The modifiers are not used when attacking creatures with a natural Armor Class.
+
+{| class="wikitable"
+	|+Table 36: WEAPON TYPE VS. ARMOR MODIFIERS
+	! Armor Type
+	! Slash
+	! Pierce
+	! Bludg.
+	|-
+	| Banded mail
+	| +2
+	| 0
+	| +1
+	|-
+	| Brigandine
+	| +1
+	| +1
+	| 0
+	|-
+	| Chain mail*
+	| +2
+	| 0
+	| -2
+	|-
+	| Field plate
+	| +3
+	| +1
+	| 0
+	|-
+	| Full plate
+	| +4
+	| +3
+	| 0
+	|-
+	| Leather armor**
+	| 0
+	| -2
+	| 0
+	|-
+	| Plate mail
+	| +3
+	| 0
+	| 0
+	|-
+	| Ring mail
+	| +1
+	| +1
+	| 0
+	|-
+	| Scale mail
+	| 0
+	| +1
+	| 0
+	|-
+	| Splint mail
+	| 0
+	| +1
+	| +2
+	|-
+	| Studded leather
+	| +2
+	| +1
+	| 0
+|}
+&#42; Includes bronse plate mail <br/>
+&#42;&#42; Includes padded armor and hides
+
+=== Impossible To-Hit Numbers ===
+Sometimes the attacker’s to-hit number seems impossible to roll. An attack may be so difficult it requires a roll greater than 20 (on a 20-sided die!), or so ridiculously easy it can be made ona roll less than 1. In both cases, an attack roll is still required!
+
+The reason is simple: With positive die roll modifiers (for magic, Strength, situation, or whatever), a number greater than 20 can be rolled. Likewise, die roll penalties can push the attack roll below 0.
+
+No matter what number a character needs to hit, a roll of 20 is ''always'' considered a hit and a roll of 1 is ''always'' a miss, unless the DM rules otherwise. Under most circumstances, a natural 20 hits and a natura) 1 misses, regardless of any modifiers applied to the die roll.
+
+Thus, even if a character’s chance to hit a monster is 23 and the character has a -3 penalty applied to the die roll, he might be able to score a hit—but only if the die roll is a 20 before any modifiers are applied. Likewise, a character able to hit a monster on a 3 or better, waving a ''sword +4'', could still miss if a 1 is rolled on the die.
+
+There are no sure things, good or bad, in the unpredictable chaos of combat situations.
+
+== Calculating THAC0 ==
+To make an attack roll, the character’s THAC0 must be known, This depends on the group and level, if the attacker is a player character or NPC, or the Hit Dice if the attacker is a monster or an animal. All ist-level characters have THACOs of 20, regardless of class.
+
+For a character of level 1 through level 20, consult Table 38. This table lists the THAC0 number of each group through 20th level, so players don’t have to perform any calculations.
+
+For a character higher than 20th level, find the Improvement Rate for the character’s group in Table 37. There you’ll find the number of levels a character must advance to reduce his THAC0 by 1 (or more) points. Calculate the character’s THAC0 according to his level. A priest, for example, improves by two for every three levels he advances—a 5th level cleric would have a THAC0 of 18. A rogue (a thief or bard) improves one point every two levels—a 17th-level rogue would have a THAC0 of 12. Table 38 lists the THAC0 number of each group at each level.
+
+Creatures do not have character classes and levels, so they calculate THACOs differently, basing it on the Hit Dice of the creature, Table 39 lists the THAC0 number for monsters having various numbers of Hit Dice. When a creature has three or more points added to its Hit Dice, count another die when consulting the table.
+
+{| class="wikitable"
+	|+Table 37: THAC0 ADVANCEMENT
+	! Group
+	! Improvement Rate Points/Level
+	|-
+	| Priest
+	| 2/3
+	|-
+	| Rogue
+	| 1/2
+	|-
+	| Warrior
+	| 1/1
+	|-
+	| Wizard
+	| 1/3
+|}
+
+{| class="wikitable"
+	|+Table 38: CALCULATED THAC0S
+	! 
+	! colspan="20" | Level
+	|-
+	! Group
+	! 1
+	! 2
+	! 3
+	! 4
+	! 5
+	! 6
+	! 7
+	! 8
+	! 9
+	! 10
+	! 11
+	! 12
+	! 13
+	! 14
+	! 15
+	! 16
+	! 17
+	! 18
+	! 19
+	! 20
+	|-
+	| Priest
+	| 20
+	| 20
+	| 20
+	| 18
+	| 18
+	| 18
+	| 16
+	| 16
+	| 16
+	| 14
+	| 14
+	| 14
+	| 12
+	| 12
+	| 12
+	| 10
+	| 10
+	| 10
+	| 8
+	| 8
+	|-
+	| Rogue
+	| 20
+	| 20
+	| 19
+	| 19
+	| 18
+	| 18
+	| 17
+	| 17
+	| 16
+	| 16
+	| 15
+	| 15
+	| 14
+	| 14
+	| 13
+	| 13
+	| 12
+	| 12
+	| 11
+	| 11
+	|-
+	| Warrior
+	| 20
+	| 19
+	| 18
+	| 17
+	| 16
+	| 15
+	| 14
+	| 13
+	| 12
+	| 11
+	| 10
+	| 9
+	| 8
+	| 7
+	| 6
+	| 5
+	| 4
+	| 3
+	| 2
+	| 1
+	|-
+	| Wizard
+	| 20
+	| 20
+	| 20
+	| 19
+	| 19
+	| 19
+	| 18
+	| 18
+	| 18
+	| 17
+	| 17
+	| 17
+	| 16
+	| 16
+	| 16
+	| 15
+	| 15
+	| 15
+	| 14
+	| 14
+|}
+
+{| class="wikitable"
+	|+Table 39: CREATURE THAC0S
+	! colspan="18"| Hit Dice
+	|-
+	! ½ or less
+	! 1-1
+	! 1+
+	! 2+
+	! 3+
+	! 4+
+	! 5+
+	! 6+
+	! 7+
+	! 8+
+	! 9+
+	! 10+
+	! 11+
+	! 12+
+	! 13+
+	! 14+
+	! 15+
+	! 16+
+	|-
+	| 20
+	| 20
+	| 19
+	| 19
+	| 17
+	| 17
+	| 15
+	| 15
+	| 13
+	| 13
+	| 11
+	| 11
+	| 9
+	| 9
+	| 7
+	| 7
+	| 5
+	| 5
+|}
+
+== Combat and Encounters ==
+Encounters are the heart of the AD&D® game. Since encounters with monsters and NPCs often lead to combat, an understanding of what happens during battles is vital for everyone, There are several factors the DM will consider in any combat, most of which arise from the circumstances of the encounter. Is anyone surprised? How far apart are the opponents? How many of them are there? Answers to these questions are found in Chapter 11: Encounters. These are questions common to all encounters, whether combat occurs or not.
+
+== The Combat Round ==
+If an encounter escalates into a combat situation, the time scale of the game automatically goes to rounds (also called melee rounds or combat rounds). Rounds are used to measure the actions of characters in combat (or other intensive actions in which time is important).
+
+A round is approximately one minute long. Ten combat rounds equal a turn (or, put another way, a turn equals 10 minutes of game time). This is particularly important to remember for spells that last for turns, rather than rounds.
+
+But these are just approximations—precise time measurements are impossible to make in combat. An action that might be ridiculously easy under normal circumstances could become an undertaking of truly heroic scale when attempted in the middle of a furious, chaotic battle.
+
+Imagine the simple act of imbibing a healing potion. First, a character decides to drink the potion before retiring for the night. All he has to do is get it out of his backpack, uncork it, and drink the contents. No problem.
+
+Now imagine the same thing in the middle of a fight. The potion is safely stowed in the character’s backpack. First, he takes stock of the situation to see if anyone else can get the potion out for him, but, not surprisingly, everyone is rather busy. So, sword in one hand, he shrugs one strap of the pack off his shoulder. Then, just as two orcs leap toward him, the other strap threatens to slip down, entangling his sword arm. Already the loose strap keeps him from fully using his shield.
+
+Holding the shield as best as possible in front of him, he scrambles backward to avoid the monsters’ first wild swings, He gets pushed back a few more feet when a companion shoulders past to block their advance, His companion bought him a little time, so he kneels, lays down his sword, and slips the backpack all the way off. Hearing a wild cry, he instinctively swings his shield up just in time to ward off a glancing blow.
+
+Rummaging through the pack, he finally finds the potion, pulls it out, and, huddling behind his shield, works the cork free. Just then there is a flash of flame all around him—a fireball! He grits his teeth against the heat, shock, and pain and tries to remember not to crush or spill the potion vial. Biting back the pain of the flames, he is relieved to see the potion is stil) intact.
+
+Quickly, he gulps it down, reclaims his sword, kicks his backpack out of the way, and runs back up to the front line. In game terms, the character withdrew, was missed by one attacker, made a successful saving throw vs. spell (from the fireball), dranka potion, and was ready for combat the next round.
+
+=== What You Can Do In One Round ===
+Whatever the precise length of a combat round, a character can accomplish only one basic action in that round, be it making an attack, casting a spell, drinking a potion, or tending to a fallen comrade. The basic action, however, may involve several lesser actions.
+
+When making an attack, a character is likely to close with his opponent, circle for an opening, feint here, jab there, block a thrust, leap back, and perhaps finally make a telling blow. A spellcaster may fumble for his components, dodge an attacker, mentally review the steps of the spell, intone the spell, and then move to safety when it is all done. It has already been shown what drinking a potion might entail. All of these things might happen in a bit less than a minute or a bit more, but the standard is one minute and one action to the round.
+
+Some examples of the actions a character can accomplish include the following:
+
+* Make an attack (make attack rolls up to the maximum number allowed the character class at a given level)
+* Cast one spell (if the casting time is one round or less)
+* Drink a potion
+* Light a torch
+* Use a magical item
+* Move to the limit of his movement rate
+* Attempt to open a stuck or secret door
+* Bind a character’s wounds
+* Search a body
+* Hammer in a spike
+* Recover a dropped weapon
+
+There are also actions that take a negligible amount of time, things the character does without affecting his ability to perform a more important task. Examples of these include the following:
+
+* Shout warnings, brief instructions, or demands for surrender, but not conversations where a reply is expected.
+* Change weapons by dropping one and drawing another.
+* Drop excess equipment, such as backpacks, lanterns, or torches.
+
+== The Combat Sequence ==
+In real life, combat is one of the closest things to pure anarchy. Each side is attempting to harm the other, essentially causing disorder and chaos. Thus combats are filled with unknowns—unplanned events, failed attacks, lack of communication, and general confusion and uncertainty. However, to play a battle in the game, it is necessary to impose some order on the actions that occur, Within a combat round, there is a set series of steps that must be followed. These steps are:
+
+# The DM decides what actions the monsters or NPCs will take, including casting spells (if any).
+# The players indicate what their characters will do, including casting spells (if any).
+# Initiative is determined.
+# Attacks are made in order of initiative.
+
+These steps are followed until the combat ends—either one side is defeated, surrenders, or runs away.
+
+'''NPC/Monster Determination:''' In the first step, the DM secretly decides in general terms what each opponent will do—attack, flee, or cast a spell, He does not announce his decisions to the players. If a spell is to be cast, the DM picks the spell before the players announce their characters’ actions.
+
+'''Player Determination:''' Next, the players give a general indication of what their characters are planning to do, This does not have to be perfectly precise and can be changed somewhat, if the DM decides that circumstances warrant,
+
+If the characters are battling goblins, a player can say, “My fighter will attack” without having to announce which goblin he will strike. If the characters are battling a mixed group of goblins and ogres, the player has to state whether his character is attacking goblins or ogres.
+
+Spells to be cast must also be announced at this time and cannot be changed once the initiative die is rolled. In any situation where the abilities of a character could make a difference, a clear description must be given.
+
+Before moving on, the DM will make sure he has a clear idea of not only what the player characters are doing, but also what actions any hirelings and henchmen are taking. Once he has a clear view of everything that’s likely to happen, the DM can overrule any announced action that violates the rules (or in the case of an NPC, is out of character),
+
+He is not required to overrule an impossible action, but he can let a character attempt it anyway, knowing full well the character cannot succeed. It is not the DM’s position to advise players on the best strategies, most intelligent actions, or optimum maneuvers for their characters.
+
+'''Initiative:''' In the third step, dice are rolled to determine initiative, according to the rules for initiative (next page).
+
+'''Resolution:''' In the last step, PCs, NPCs, and monsters make their attacks, spells occur, and any other actions are resolved according to the order of initiative.
+
+The above sequence is not immutable. Indeed, some monsters violate the standard sequence, and some situations demand the application of common sense. In these cases the DM’s word is final.
+
+''Here’s an example of the combat sequence in action: Rath is leading a party through the corridors of a dungeon. Right behind him are Rupert and Delsenora. Rounding a bend, they see a group of orcs and trolls about 20 feet away. No one is surprised by the encounter.''
+
+''The DM has notes telling him that the orcs are hesitant. He secretly decides that they will fall back and let the trolls fight. The trolls, able to regenerate, are naturally overconfident and step forward to the front rank (cursing the orcs at the same time) and prepare to attack, Turning to the players, the DM asks, “What are you going to do?”'' ''Harry (playing Rath, a dwarf who hates orcs): “Orcs? —CHARGE!”''<br/>
+''Anne (playing Delsenora the Mage): “Uh—what!? Wait—don’t do that...1 was going to...now I can’t use a fireball.”''<br/>
+''DM: “Rath is charging forward, Quick—what are you doing?"''<br/>
+''Jon (playing Rupert, the half-elf, to Anne): “Cast a spell! (To DM) Can ! fire my bow over him?”''<br/>
+''DM: “Sure, he’s short.”''<br/>
+''Jon: "OK, I’ll shoot at orcs.”''<br/>
+''DM: “Anne, tell me what Delsenora’s doing or she’ll lose the round trying to make up her mind!”''<br/>
+''Anne: Got it!—Acid arrow spell at the lead troll.”''<br/>
+''DM: “Fine. Harry, Rath is in front. Roll for initiative.”''<br/>
+
+== Initiative ==
+The initiative roll determines who acts first in any given combat round. Initiative is not set, but changes from round to round (combat being an uncertain thing, at best). A character never knows for certain if he will get to act before another.
+
+Initiative is normally determined with a single roll for each side in a conflict. This tells whether all the members of the group get to act before or after those of the other side(s).
+
+There are also two optional methods that can be used to determine initiative. Each of these optional methods breaks the group action down into more individual initiatives. However, the general method of determining initiative remains the same in all cases.
+
+=== Standard Initiative Procedure ===
+To determine the initiative order for a round of combat, roll 1d10 for each side in the battle. Normally, this means the DM rolls for the monsters (or NPCs), while one of the players rolls for the PC party. ''Low roll wins initiative''. lf more than two sides are involved in combat, the remaining sides act in ascending order of initiative.
+
+If both (or all) sides roll the same number for initiative, everything happens simultaneously—all attack rolls, damage, spells, and other actions are completed before any results are applied. It is possible for a mage to be slain by goblins who collapse from his sleep spell at the end of the round.
+
+=== initiative Modifiers ===
+Situational factors can affect who has initiative. To reflect this, modifiers are added to or subtracted from the initiative die roll.
+
+{| class="wikitable"
+	|+Table 40: STANDARD MODIFIERS TO INITIATIVE
+	! Specific Situation
+	! Modifier
+	|-
+	| Hasted
+	| -2
+	|-
+	| Slowed
+	| +2
+	|-
+	| On higher ground
+	| -1
+	|-
+	| Set to receive a charge
+	| -2
+	|-
+	| Wading or slippery footing
+	| +2
+	|-
+	| Wading in deep water
+	| +4
+	|-
+	| Foreign environment*
+	| +6
+	|-
+	| Hindered (tangled, climbing, held)
+	| +3
+	|-
+	| Waiting (see page 112 in PH)
+	| +1
+|}
+&#42; This applies to situations in which the party is in a completely different environment (swimming underwater without the aid of a ''ring of free movement'', for example).
+
+Everyone in the party who will be involved in the round’s action must qualify for the modifier. For example, all members of a party must be on higher ground than the opposition in order to get the higher ground modifier, The DM will probably ask each player where his character is standing in order to clarify this.
+
+The side with the lowest modified roll on 1d10 has the initiative and acts first.
+
+''Continuing the example above, the DM decides that one initiative roll is sufficient for each group and no modifiers are needed for either group. (Although Rath is charging, the orcs and trolls are too busy rearranging their lines to be set to receive his charge and so the ~2 to receive charge is not used.)''
+
+''Harry, rolling for the player characters, gets a7 on a 10-sided die. The DM rolls a 10. The player characters, having the lowest number, act first.''
+
+''Delsenora’s acid arrow strikes one of the trolls just as Rath takes a swing at the last of the fleeing orcs. A bowshot from Rupert drops another one of the creatures as it takes its position in the second rank. Now the monsters strike back.''
+
+''The orcs manage to finish forming their line. Enraged by the acid, the lead troll tears into Rath, hurting him badly. The others swarm around him, attempting to tear him limb from limb.''
+
+{| class="wikitable"
+	|+Table 41: OPTIONAL MODIFIERS TO INITIATIVE (see below)
+	! Specific Situation
+	! Modifier
+	|-
+	| Attacking with weapon
+	| Weapon speed
+	|-
+	| Breath weapon
+	| +1
+	|-
+	| Casting a spell
+	| Casting time
+	|-
+	| colspan="2" | Creature size (Monsters attacking with natural weapons only)*
+	|-
+	| Tiny
+	| 0
+	|-
+	| Small
+	| +3
+	|-
+	| Medium
+	| +3
+	|-
+	| Large
+	| +6
+	|-
+	| Huge
+	| +9
+	|-
+	| Gargantuan
+	| +12
+	|-
+	| Innate spell ability
+	| +3
+	|-
+	| colspan="2" | Magical Items**
+	|-
+	| Miscellaneous Magic
+	| +3
+	|-
+	| Potion
+	| +4
+	|-
+	| Ring
+	| +3
+	|-
+	| Rods
+	| +1
+	|-
+	| Scroll
+	| Casting time of spell
+	|-
+	| Stave
+	| +2
+	|-
+	| Wand
+	| +3
+|}
+&#42; This applies only to creatures fighting with natural weapon—claws, bites, etc. Creatures using weaponry use the speed factor of the weapon, regardless of the creature’s size.<br/>
+&#42;&#42; Use the initiative modifier listed unless the item description says otherwise.
+
+=== Group Initlative (Optional Rule) ===
+Some people believe that using a single initiative roll for everyone on the same side is too unrealistic. It is, admittedly, a simplification,a way to keep down the number of die rolls required in a single round, allowing for much faster combat. However, the actions of different characters, the types of weapons they use, and the situation can all be factors in initiative.
+
+Using this optional method, one initiative die roll is still made for each side in the fight. However, more modifiers are applied to this roll, according to the actions of individual characters. These modifiers are listed on Table 41.
+
+Some of the modifiers depend on ability, spell, and weapon. Characters casting spells (but not monsters using innate abilities) must add the spellcasting time to the die roll. Characters attacking with weapons add the weapons’ speed factors to the die roll (see pp 68-69 PHB). All other modifiers are applied according to each individual’s situation.
+
+''Example: In the second round of the combat, the DM decides to use the modified group initiative. Rath is surrounded by trolis and not in the best of health. The rest of the party has yet to close with the monsters.'' ''The DM decides that one troll will corttinue attacking Rath, with the help of the orcs, while the other trolls move to block reinforcements. In particular, the troll burned by the acid arrow is looking for revenge. The DM then turns to the players for their actions.''
+
+''Players (all at once): “I’m going to...” “Is he going?...” “I’m casting a..''<br/>
+''DM (shouting): “One at time! Rath?”''</br>
+''Harry: “Tl blow my horn of blasting.”''</br/>
+''DM: “It’ll take time to dig it out.”''<br/>
+''Harry: "I don’t care, I’m doing it.”''<br/>
+''Jon: “Draw my sword and attack one of the trolls!”''<br/>
+''DM: “Anne?”''<br/>
+''Anne (not paying attention to the other two): "Cast a fireball.”''<br/>
+''Harry and Jon: “NO! DON’T!”''<br/>
+''DM: “Well, is that what you’re doing? Quickly!”''<br/>
+''Anne: “No, I’ll cast a haste spell! Centered on me, so Rupert and Rath are just at the edge.”''<br/>
+''DM: “Okay. Harry, roll initiative and everyone modify for your actions.”''<br/>
+
+''Harry rolls 1d10 and gets a6, The DM rolls for the monsters and gets a 5. Each person’s initiative is modified as follows:''
+
+''Rath is using a miscellaneous magical item (modifier +3). His modified initiative is 9(6 + 3 = 9).''
+
+''Rupert is using a bastard sword +1 with two hands (weapon speed 7 instead of 8 because of the +1). His modified initiative is 13 (6 + 7 = 13).''
+
+''Delsenora is casting a spell (haste spell, casting time 3). Her modified initiative is the same as Rath’s, 9.''
+
+''The trolls are attacking with their claws and bites (large creatures attacking with natural weapons +6). Their modified initiative is 11 (5 + 6 = 11).''
+
+''The orcs are using long swords (weapon speed 5), Their modified initiative is 10 (5 + 5 = 10).''
+
+''After all modified initiatives are figthe combat round goes as follows: Delsenora (initiative 9) completes her spell at the same time that Rath (9) brings the house down on the orcs with his horn of blasting.''
+
+''The orcs (initiative 10) would have gone next, but all of them have been crushed under falling rock.''
+
+''The three trolls (initiative 11) are unfazed and attack, one at Rath and the other two springing forward, hitting Delsenora and missing Rupert.''
+
+''Finally, Rupert (initiative 13) strikes back. He moved too slowly to block one troll’s path to Delsenora, but manages to cut off the second. Things look very grim for the player characters.''
+
+=== Individual Initiative (Optional Rule) ===
+This method of determining initiative is the same as that given earlier, except that each PC, NPC, and monster involved in the fight rolls and then modifies his own initiative roll. This gives combat a more realistic feel, but at the expense of quick play.
+
+To players, it may not seem like too much for each to roll a separate initiative die, but consider the difficulties: Imagine a combat between six player characters (each controlled by a player) and five hirelings and henchmen against 16 hobgoblins and five ogres (all of which must be rolled by the DM).
+
+Furthermore, each die roll must be modified according to each individual’s actions. The resulting rolls make every combat round a major calculation.
+
+This method is not recommended for large-scale combats. It is best used with small battles in which characters on the same side have vastly different speeds.
+
+''Example: In the third round of combat, the DM decidesto use individual initiatives, Each character is involved in his own fight and there aren’t too many to deal with. Cut off from retreat by fallen rock, the trolls attack. The DM asks the players their intentions.'' ''Harry: “Hit him with my hammer +4!”'' ''Rupert: “Chop him up.”'' ''Anne (now in serious trouble): “Cast a burning hands spell.”'' ''Each character or monster now rolls 1d10. The rolls and modified results are: Rath rolls a 2 and is at, with his hammer (weapon speed 0 insterd of 4 due to +4) and is hasted (—2), so his modified initiative is 0.''
+''Rath’s troll rolls a 1 and is with natural weapons (+6 modifier) for a total of 7 (1 + 6 = 7).'' ''Rupert rolls a 2 and has a weapon speed of 7 and is hasted (—2) for a modified initiative of 7 (2 + 7-2 = 7).''
+''Rupert’s troll rolls a 5 and modifies this by +6 for an 11 (5 + 6 = 11).'' ''Delsenora is very unlucky and rolls a 9, Since she is casting a spell, she gains no benefit from the haste spell this round. She has a casting time of 1 fora total of 10 (9 + 1 = 10).'' ''The troll fighting Delsenora is very quick and rolls a 1, modified to 7 (1 + 6 = 7.)'' ''The order of attacks is: Rath (initiative 0) strikes with his hammer. Rupert and the two trolls (attacking Rath and Delsenora, all initiative 7) attack immediately after. Rupert hits. The troll attacking Rath misses, but Delsenora is hit. Delsenora’s spell (initiative 10) would normally happen next, but instead it fizzles, her concentration ruined by the blow from the troll. Next, Rupert’s troll attacks and misses. Because of the haste spell, Rath and Rupert now attack again (in order of initiative), Rath first, then Rupert.''
+
+=== Multiple Attacks and Initiative ===
+Combat may involve creatures or characters able to attack more than once in a single round. This may be due to multiple attack forms (claws and bite), skill with a weapon, or character level. No matter what the reason, all multiple attacks are handled by one of two methods.
+
+When multiple attacks are the result of different attack forms—claws and a bite or bite and tail or a ranger with his two-weapon combat ability for example—the attacks all occur at the same time. The creature resolves all of its attacks in initiative order.
+
+When the attacks are true multiples—using the same weapon more than once—as in the case of a highly skilled fighter, the attacks are staggered. Everyone involved in the combat completes one action before the second (or subsequent) attack roll is made.
+
+Take, for example, a fighter who can attack twice per round, and say he’s battling creatures that can only make one attack. The fighter wins initiative. He makes his first attack according to the rolled initiative order. Then each creature gets its attack. Finally, the fighter gets his second attack.
+
+If fighters on both sides in a battle were able to attack twice in the round, their first attacks would occur according to the initiative roll. Their second attacks would come after all other attacks, and would then alternate according to the initiative roll.
+
+As an option, a warrior fighting creatures with less than one Hit Die (1-1 or lower) can make a number of attacks equal to his level (i.e., a 7th-level fighter can make seven attacks). These attacks are handled in order of initiative.
+
+=== Spellcasting and Initiative ===
+Casting times for spells can modify initiative rolls, creating a realistic delay for the spellcaster. When a spell’s “Casting Time” parameter is given as a number without any units (e.g., rounds or turns), then that number is added to the caster’s initiative roll to determine his modified initiative. When a spell requires a round or more to cast, a normal initiative roll is not made—a spell requiring one round to cast takes effect at the end of the current round, after all other actions are completed.
+
+Spells that require more than one round to cast involve some bookkeeping. The DM or one of the players must keep track of the rounds spent in casting. If the spellcasting character is disturbed during this time, the spell is lost. If all goes well, the spell takes effect at the very end of the last round of the required casting time. Thus, a spell requiring 10 minutes to cast would require 10 combat rounds, and wouldn’t take effect until the very end of the 10th round.
+
+=== Weapon Speed and Inititative (Optional Rule) ===
+Each time a character swings a weapon, he places himself out of position to make his next attack. ‘Swinging a hammer is not as simple as tapping in a nail. A warhammer is heavy. Swing it in one direction and it pulls in that direction. It has to be brought under control and repositioned before it can be swung again. The user must regain his balance and plant his feet firmly. Only after doing all this is he ready for his next attack. Compare how quickly someone can throw a punch to the amount of time required to swing a chair to get a good idea of what weapon speed factors are about.
+
+Weapon speed factors slow the speed of a character’s attack. The higher the weapon speed factor, the heavier, clumsier, or more limited the weapon is. For the most part, weapon speed factors apply to all creatures using manufactured weapons. The speed factor of a weapon is added to the initiative roll of the character to get his modified inititative roll.
+
+Thus, if the DM decides to use weapon speed factors for player characters, they should also be used for giantsm orcs, centaurs, and the like. Otherwise the DM isn’t being fair to the players, However, creatures with natural weapons are not affected by weapon speed. Their attacks are natural extensions of their bodies, giving them much faster recovery and reaction times.
+
+==== Magical Weapon Speed ====
+Magical weapons are easier to wield in combat than oridnary ones. Maybe the weapon is lighter or better balanced tha normal; maybe it just pulls the character into the proper position of its own volition. Whatever the cause, each bonus point conferred by a magical weapon reduces the speed factor of that weapon by 1. (A sword +3 reduces the weapon speed factor by 3, for example.) When a weapon has two bonuses, the lesser one is used. No weapon can have a speed factor of less than 0.
+
+== Attacking ==
+Once characters decide to attack and the order of initiative has been determined, it is time to resolve all the action. Many factors must be considered in each attack: How many people can surround a character? Will a shield block an attack from the rear? Can a character run across a chamber, dodging attackers, in a single round? Can a character win without killing his foe? Is it possible to block an attack?
+
+Although the mechanics of combat are very simple, there are many different and unusual situations that come up during role-playing battles. Every battle is unique. One key to DMing memorable combat scenes is to remember that not every situation can be anticipated; you just have to combine the rules here with good judgment.
+
+=== Number of Attackers ===
+There is a limit to how many attackers can surround a single target. Many factors come into play, notably the relative size of the opponents, the length of the weapons used, and physical obstructions in the battle area. The last of these will vary from battlefield to battlefield, but general guidelines can be given for the other two.
+
+=== Facing ===
+Each character or creature is assumed to have a front, flanks, and rear, When creatures of equal size are battling, up to six can surround a single figure.
+
+<pic of att arc>
+
+Normally, a defender attempts to keep his opponents in sight. Thus, if there are no special circumstances (such as a thief moving silently behind the defender), opponents first occupy the front, then the flanks, and finally the rear. It’s assumed that the defender will try to keep attackers from getting around him.
+
+The diagram and description apply only when combat involves creatures of the same size. If the attacker is one size greater than the defenders, he occupies two spaces on the diagram. For creatures two sizes or more larger (small creatures attacking a large one, for example), the attacker occupies four spaces.
+
+Thus, a hill giant attacking Horace the fighter would fill two of the spaces, allowing only four ores to join the attack. If there were two giants attacking, only two orcs could join the combat. When attacking a small creature, one giant and two orcs could make the attack. Any more than this and the attackers would just get in each other’s way.
+
+=== Weapon Length ===
+The actual size of a weapon has little to do with the space needed to wield it. An awl pike is 12 to 20 feet long, yet since it is a thrusting weapon it needs virtually no space side-to-side. (It does, however, need that 12 to 20 feet in front!) A sabre and a battle-axe are about the same size, but the battle axe requires more space—the sabre can be thrust straight forward into a narrower space, while the battle axe must be swung mightily, which takes a lot of space.
+
+The DM must decide whether a character has enough space to use a particular weapon in a particular setting and situation.
+
+As a guideline, the AD&D® rules assume that two fighters using swords can work side-by-side in a 10-foot-wide area. The same space would be filled by one fighter using a two-handed sword.
+
+=== Position of Attackers and Attack Rolls ===
+Besides determining the number of attackers a single character can face, the relative positions of attackers affect the chance to hit.
+
+Characters attacked from the rear do not gain their Dexterity-based Armor Class bonus and their attacker gains a +2 bonus to his attack roll, There may also be penalties if the optional Shields and Weapon Frontage rule is used.
+
+== Pole Arms and Weapon Frontage (Optional Rule) ==
+Pole arms and similar thrusting weapons are designed primarily for use in highly specialized formations. The average length of these weapons—12 to 20 feet—makes their use in individual combat silly, if not futile.
+
+An opponent can easily slip inside the reach of the pole arm, at which point the poor pikeman can only try to back up or drop his weapon. Little else is likely to be affective. However, if the same man with a pike is lined up with 30 of his fellows in a nice tight formation, he suddenly becomes very dangerous. Where one pikeman presented only a lone spearpoint, 30 pikemen present a deadly thicket.
+
+The pole arm’s big advantage is the small frontage each man needs in order to be effective. A man using a piercing pole arm can use his weapon effectively with just three feeet of space, side-to-side. This allows a tightly packed line of pikemen.
+
+In a group, men armed with pole arms should be set for defense or advancing slowly (¼ normal movement rate). They automatically make their attack rolls prior to any opponnent attempting to close with them. However, after the first round of combat any surviving opponents are inside the reach of the pole arms and the pikemen must drop their puikes anmd draw weapons more suitable for close-in work.
+
+== Shields and Weapon Frontage (Optional Rule) ==
+A shield is an item of limited size, strapped to only one arm or slung on character’s back. Characters generally position a shield so it offers maximum protection. Usually, this means it protects the shield-arm side of the body, most frequently the left side of a right-handed character. In this position, attacks from the rear or rear flanks of the character can’t be blocked by a shield. In these cases, the shield’s AC bonus is not applied to the THAC0.
+
+It is possible to strap a shield to one’s back. If this is done, the shield bonus is applied to the rear of the character, but the character can’t use the shield to protect his front. Furthermore, the straps hinder the character’s movement, giving him a -2 penalty to his attack roll.
+
+== Hitting a Specific Target ==
+AD&D® game combat does not use a hit location system to determine where every blow in a battle has landed. Sometimes, however, characters and creatures will find it necessary to aim their blows at an exact point: A fighter may want to smasha vial held in the evil wizard’s hand; a thief might attempt to shoot the jeweled eye out of an idol with his crossbow. These are cases where the character is attempting a ''called shot''.
+
+=== Called Shots ===
+To make a called shot, a player must announce his intention before any initiative dice are rolled. Upon doing so, he suffers a +1 penalty to his initiative (representing the time spent carefully aiming his attack).
+
+When the character does get a chance to act, his attack roll suffers a -4 penalty. If the roll succeeds, the called shot accomplishes what the player wanted; if the roll missed, no damage occurs.
+
+Because the AD&D® game uses a generalized system for damage, called shots cannot be used to accomplish certain things. Against a creature, a called shot will only cause the normal amount of damage allowed the weapon. Attempts to blind, cripple, or maim will not succeed. So what can it do?
+
+A called shot can cause a target to drop items or react in some other, more subtle, way. It can penetrate weak points in armor. It can also be used in attempts to knock an object out of a hand, shatter a flask, or otherwise damage items. Called shots can be very useful in activating the trigger of a known trap (if this can be done with a weapon) or in impressing the locals in an archery contest.
+
+== Movement in Combat ==
+Since a round is roughly a minute long, it should be easy for a character to move just about anywhere he wants during the course of the round, After all, Olympic-class sprinters can cover vast amounts of ground in a minute.
+
+However, a character in an AD&D® game is not an Olympic sprinter running in a straight line. He is trying to maneuver through a battle without getting killed. He is keeping his eyes open for trouble, avoiding surprise, watching his back, watching the backs of his partners, and looking for a good opening, while simultaneously planning his next move, sometimes through a haze of pain. He may be carryinga load of equipment that slows him down significantly. Because of all these things, the distance a character can move is considerably less than players generally think.
+
+In a combat round, a being can move up to 10 times its movement rating (see Chapter 14 in the ''Player’s Handbook'') in feet. Thus, if a character has a movement rating of 9, he can move up to 90 feet in a round. However, the types of moves a character can make during combat are somewhat limited.
+
+=== Movement In Melee ===
+The basic move is to get closer for combat—i.e., move close enough to an enemy to attack. This is neither a blind rush nor a casual stroll. Instead, the character approaches quickly but with caution. When closing, for combat, a character can move up to half his allowed distance and still make a melee attack.
+
+=== Movement and Missile Combat ===
+Rather than slug it out toe to toe with an opponent, a character can move up to one-half his normal movement rate and engage in missile fire at half his normal rate of fire. Thus a man capable of moving 120 feet and armed with a long bow (two shots per round, under normal circumstances) could move 60 feet and still fire one shot. The same man, armed with a heavy crossbow (one shot every other round) would be able to shoot only once every four rounds while on the move.
+
+=== Charging an Opponent ===
+A character can also charge a foe, A charge increases the character’s movement rate by 50% and enables the character to make an attack at the end of his movement. A charging character also gains a +2 bonus to his attack roll, mainly from momentum. Certain weapons (such as a lance) inflict double the rolled damage in a charge.
+
+However, charging gives the opponents several advantages. First, they gain a -2 bonus to their initiative rolls. Second, charging characters gain no Dexterity bonuses to Armor Class and they suffer an AC penalty of 1. Finally, if the defender is using a spear or pole arm weapon and sets it against the charge (bracing the butt against a stone or his foot), he inflicts double damage on a successful hit.
+
+=== Retreat ===
+To get out of a combat, characters can make a careful withdrawal or they can simply flee.
+
+'''Withdrawing:''' When making a withdrawal, a character carefully backs away from his opponent (who can choose to follow). The character moves up to !/s his normal movement rate.
+
+If two characters are fighting a single opponent and one of them decides to withdraw, the remaining character can block the advance of the opponent. This is a useful method for getting a seriously injured man out of a combat.
+
+'''Fleeing:''' To flee from combat, a character simply turns and runs up to his full movement rate. However, the fleeing character drops his defenses and turns his back to his opponent,
+
+The enemy is allowed a free attack (or multiple attacks if the creature has several attacks per round) at the rear of the fleeing character, This attack is made the instant the character flees: It doesn’t count against the number of attacks that opponent is allowed during the round, and initiative is irrelevant.
+
+The fleeing character can be pursued, unless a companion blocks the advance of the enemy.
+
+== Attacking Without Killing ==
+There are times when a character wants to defeat another being without killing it, A companion may have been charmed into attacking his friends (and his friends don’t want to kill him to save themselves!); an enemy may have information the PCs can get only by subduing him; characters may simply see the monetary value of bringing back a real, live monster. Whatever the case, sooner or later characters are going to try.
+
+There are three types of non-lethal attacks—punching, wrestling, and overbearing. Punching is basic bare-fisted fighting, Wrestling is the classic combination of grappling, holds, and throws. Overbearing is simply trying to pull down an opponent by sheer mass or weight of numbers, pinning him to the ground.
+
+=== Punching and Wrestling ===
+These are the most basic of combat skills, unknowingly practiced by almost all children as they rough and tumble with each other. Thus all characters, regardless of class, are assumed to be somewhat proficient in both these forms of fighting.
+
+Punching occurs when a character attacks with his fists. No weapons are used, although the character can wear an iron gauntlet or similar item. Wrestling requires both hands free, unencumbered by shields and the like.
+
+When punching or wrestling, a normal attack roll is made. The normal Armor Class of the target is used. If a character is attempting to wrestle in armor, the modifiers on Table 42 are used (these are penalties to the attacker’s attack roll), Normal modifiers to the attack roll are also applied.
+
+{| class="wikitable"
+	|+Table 42: ARMOR MODIFIERS FOR WRESTLING
+	! Armor
+	! Modifier
+	|-
+	| Studded leather
+	| -1
+	|-
+	| Chain, ring, and scale mail
+	| -2
+	|-
+	| Banded, splint, and chain mail
+	| -5
+	|-
+	| Field plate armor
+	| -8
+	|-
+	| Full plate armor
+	| -10
+|}
+
+Penalties for being held or attacking a held opponent do not apply to wrestlers. Wrestling involves a lot of holding and twisting as it is, and the damage resolution system for punching and wrestling takes this into account.
+
+If the attack roll is successful, consult Table 43 to find the result of the attack: Cross-index the character’s modified attack roll with the proper attack form. If, for example, a character successfully punched with an 18, the result would be a rabbit punch (if he rolled an 18 on a successful wrestling attempt, the result would be a kick). Punching and wrestling attacks can succeed on attack rolls of 1 or less (exceptions to the general rule).
+
+{| class="wikitable"
+	|+Table 43: PUNCHING ANDN WRESTLING RESULTS
+	! Attack Roll
+	! Punch
+	! Damage
+	! % KO
+	! Wrestle
+	|-
+	| 20+
+	| Haymaker
+	| 2
+	| 10
+	| Bearhug*
+	|-
+	| 19
+	| Wild swing
+	| 0
+	| 1
+	| Arm twist
+	|-
+	| 18
+	| Rabbit punch
+	| 1
+	| 3
+	| Kick
+	|-
+	| 17
+	| Kidney punch
+	| 1
+	| 5
+	| Trip
+	|-
+	| 16
+	| Glancing blow
+	| 1
+	| 2
+	| Elbow smash
+	|-
+	| 15
+	| Jab
+	| 2
+	| 6
+	| Arm lock
+	|-
+	| 14
+	| Uppercut
+	| 1
+	| 8
+	| Leg twist
+	|-
+	| 13
+	| Hook
+	| 2
+	| 9
+	| Leg lock
+	|-
+	| 12
+	| Kidney punch
+	| 1
+	| 5
+	| Throw
+	|-
+	| 11
+	| Hook
+	| 2
+	| 10
+	| Gouge
+	|-
+	| 10
+	| Glancing blow
+	| 1
+	| 3
+	| Elbow smash
+	|-
+	| 9
+	| Combination
+	| 1
+	| 10
+	| Leg lock*
+	|-
+	| 8
+	| Uppercut
+	| 1
+	| 9
+	| Headlock*
+	|-
+	| 7
+	| Combination
+	| 2
+	| 10
+	| Throw
+	|-
+	| 6
+	| Jab
+	| 2
+	| 8
+	| Gouge
+	|-
+	| 5
+	| Glancing blow
+	| 1
+	| 3
+	| Kick
+	|-
+	| 4
+	| Rabbit punch
+	| 2
+	| 5
+	| Arm lock*
+	|-
+	| 3
+	| Hook
+	| 2
+	| 12
+	| Gouge
+	|-
+	| 2
+	| Uppercut
+	| 2
+	| 15
+	| Headlock*
+	|-
+	| 1
+	| Wild swing
+	| 0
+	| 2
+	| Leg twist
+	|-
+	| Less than 1
+	| Haymaker
+	| 2
+	| 25
+	| Bearhug*
+|}
+&#42; Hold can be maintained from round to round, until broken.
+
+'''Punch:''' This is the type of blow landed. In game terms, the type of blow has little effect, but using the names adds spice to the battle and makes the DM’s job of describing the action easier.
+
+'''Damage:''' Bare-handed attacks cause only 1 or 2 points of damage. Metal gauntlets, brass knuckles, and the like cause 1d3 points of damage. A character’s Strength bonus, if any, does apply to punching attacks.
+
+Punching damage is handled a little differently than normal damage. Only 25% of the damage caused by a bare-handed attack is normal damage. The remaining 75% is temporary. For the sake of convenience, record punching damage separately from other damage and calculate the percentage split at the end of all combat.
+
+If a character reaches 0 hit points due to punching attacks (or any combination of punching and normal attacks), he immediately falls unconscious.
+
+A character can voluntarily pull his punch, not causing any hit point damage, provided he says so before the damage is applied to his enemy. There is still a chance of a knockout.
+
+'''% K.O.:''' Although a punch does very little damage, there is a chance of knocking an opponent out. This chance is listed on the table as “% K.OQ.” If this number or less is rolled on percentile dice, the victim is stunned for 1d10 rounds.
+
+'''Wrestle:''' This lists the action or type of grip the character managed to get. Wrestling moves marked with an asterisk (*) are holds maintained from round to round, unless they are broken. A hold is broken by a throw, a gouge, the assistance of another person, or the successful use of a weapon. (Penalties to the attack roll apply to weapon attacks by a character who is in a hold.)
+
+All wrestling moves inflict 1 point of damage plus Strength bonus (if the attacker desires), while continued holds cause cumulatively 1 more point of damage for each round they are held, A head lock held for six rounds would inflict 21 points of damage total (1+2+3+4+5+6). Remember, this is the equivalent of pressing hard on a fullnelson headlock for roughly six minutes!
+
+=== Overbearing ===
+Sometimes the most effective attack is simply to pull an opponent down by sheer numbers. No attempt is made to gain a particular hold or even to harm the victim. The only concern is to pin and restrain him.
+
+To overbear an opponent, a normal attack roll is made. For every level of size difference (1 if a Large attacker takes on a Medium defender, for example), the attack roll is modified by 4 (+4 if the attacker is larger; -4 if the defender is larger).
+
+The defending creature also gains a benefit if it has more than two legs: a -2 penalty to the attacker’s roll for every leg beyond two. There is no penalty to the defender if it has no legs. A lone orc attempting to pull down a horse and rider would have at least a -8 penalty applied to the attack roll (-4 for size and ~4 for the horse’s four legs).
+
+If the attack succeeds, the opponent is pulled down. A character can be pinned if further successful overbearing attacks are rolled each round. For pinning purposes, do not use the prone modifier to combat (from Table 35).
+
+If multiple attackers are all attempting to pull down a single target, make only one attack roll with a +1 bonus for each attacker beyond the first. Always use the to-hit number of the weakest attacker to figure the chance of success, since cooperation always depends on the weakest link. Modifiers for size should be figured for the largest attacker of the group.
+
+A giant and three pixies attempting to pull down a man would use the pixies’ attack roll, modified by +3 for three extra attackers and +8 for the size difference of the giant (Huge) and the man (Medium).
+
+=== Weapons In Non-Lethal Combat ===
+As you might expect, weapons have their place in non-lethal combat, whether a character is defending or pressing the attack.
+
+'''Weapons in Defense:''' A character attempting to punch, wrestle, or overbear an armed opponent can do so only by placing himself at great risk. Making matters worse, an armed defender is automatically allowed to strike with his weapon before the unarmed attack is made, regardless of the initiative die roll. Furthermore, since his opponent must get very close, the defender gains a +4 bonus to his attack and damage rolls. If the attacker survives, he can then attempt his attack.
+
+Those involved in a wrestling bout are limited to weapons of small size after the first round of combat—it’s very difficult to use a sword against someone who is twisting your sword arm or clinging to your back, trying to break your neck. For this reason, nearly all characters will want to carry a dagger or a knife.
+
+'''Non-Lethal Weapon Attacks:''' It is possible to make an armed attack without causing serious damage (striking with the flat of the blade, for example), This is not as easy as it sounds, however.
+
+First, the character must be using a weapon that enables him to control the damage he inflicts. This is impossible with an arrow or sling. It isn’t even feasible with a warhammer or mace. It can be done with swords and axes, as long as the blade can be turned so it doesn’t cut.
+
+Second, the character has a -4 penalty to his attack roll, since handling a weapon in this way is clumsier than usual. The damage from such an attack is 50% normal; onehalf of this damage is temporary, lasting one turn after the fight is over and causing unconsciousness (never death) if the character drops below zero hit points.
+
+=== Non-Lethal Combat and Creatures ===
+When dealing with non-humanoid opponents, a number of factors must be considered.
+
+First, unintelligent creatures, as a rule, never try to grapple, punch, or pull down an opponent. They cheerfully settle for tearing him apart, limb by limb. This, to their small and animalistic minds, is a better solution.
+
+Second, the natural weapons of a creature are always usable. Unlike men with swords, a lion or a carnivorous ape doesn’t lose the use of its teeth and fangs just because a character is very close to it.
+
+Finally, and of greatest importance, creatures tend to be better natural fighters than humans. All attacks for a tiger are the same as punching or wrestling. It’s just that the tiger has claws! Furthermore, a tiger can use all of its legs effectively —front and back.
+
+== Touch Spells and Combat ==
+Many spells used by priests and wizards take effect only when the target is touched by the caster. Under normal circumstances, this is no problem—the spellcaster reaches out and touches the recipient. However, if the target is unwilling, or the spell is used in the midst of a general melee, the situation is much different.
+
+'''Unwilling Targets:''' The spelicaster must make a successful attack roll for the spell to have any effect. The wizard or priest calcuJates his THAC0 number normally, according to the intended victim’s Armor Class and other protections. The DM can modify the roll if the victim is unprepared for or unaware of the attack. If the roll succeeds, the spellcaster touches the target and the normal spell effect occurs.
+
+'''Willing Targets:''' When attempting to cast a spell on a willing target, the casting is automatic as long as both characters are not engaged in combat. For example, if a fighter withdraws from melee, a cleric could heal him during the next round.
+
+If the recipient of the spell attempts to do anything besides waiting for the spell to take effect, an attack rol) against AC 10 must be made. However, no AC modifiers for Dexterity are applied, since the target is not trying to avoid the spell!
+
+Whenever a touch spell is successful, the spellcaster suffers from any special defenses of his target, if they are continually in operation, A successtul touch to a vampire would not result in energy drain, since the power only works when the vampire wills it, but touching a fire elemental would result in serious burns.
+
+When a touch spell is cast, it normally remains effective only for that round. However, certain spells do specity special conditions or durations. Be sure to check each spell description carefully.
+
+== Critical Hits (Optional Rule) ==
+Some players tee! combat should involve more than just the chance to hit and the amount of done. Some propose elaborate tables—critical hit tables—detailing all manner of horrible results and misfortunes. These, however, do not fit well within the AD&D® game combat system or within the spirit of the game.
+
+=== Why No Critical Hit Tables? ===
+For one thing, such tables add yet another die roll to the combat sequence. This may seem minor, but the trolls really do add up quickly, slowing down the play of the game.
+
+Also, how can the same table mirror the results of a critical hit to a man and a dragon? Or a snake? Or a black pudding? If a table is created that offers critical hits such as loss of limbs, broken limbs, or hideous wounds, the player is going to want to know how long the injury takes to heal, what its effect will be untilit is healed, etc, Since the damage system is, by design, abstract, no rules exist to cover these situations.
+
+From the sense of game fun, critical hits create another problem. Too often, those in favor of such tables only envision what the critical hits do to monsters. Players and DMs forget that critical hits apply to both sides, not just the opponents of the player characters.
+
+While it may be marvelous fun for a player to have his character defeat a 70 hit point dragon with a single critical hit, it is not nearly as fun for the player to have the dragon do in his 12th-level fighter with a single flick of its tail and a lucky critical hit. To be fair, critical hit advantage must be allowed to everyone.
+
+And, along with critical hits, must come critical failures. These are sudden instances of bad luck—a fumbled weapon, a snapped bowstring, a bungled step. While these can be quite amusing, they are often taken to ridiculous extremes. Characters impaling themselves on their own weapons just isn’t a logical result of combat, no matter how frenzied.
+
+Critical failures have many of the same problems as critical hists. How does a dragon drop its weapon? How does a black pudding fumble? One table is just not going to work in all cases.
+
+=== Two Workable Critical Hit Systems ===
+Though critical hit tables aren’t particularly useful in the AD&D game, there are critical hit systems that work well with the AD&D rules. The simplest critical hit systems makes every natural 20 rolled on the attack roll count for double damage. Roll the appropriate damage dice twice for the attack (do not double the result of a single damage roll) and only count damage modifiers for Strength, magic, etc., once.
+
+A second method is to allow characters or monsters to make an extra attack each time they roll a natural 20. The additional attack is made immediately, at the same target, and is figured just like a normal attack. As long as a natural 20 is rolled, the character or monster continues to make additional attacks. A very lucky character could roll a 20 on his first attack and then roll a 20 on his additional attack, allowing him to roll a third attack. If this attack also resulted in a 20, a fourth attack could be made, etc. This system gives characters the chance of causing extra damage without guaranteeing success.
+
+=== Critical Fumbles ===
+Critical fumbles are less easily defined than critical hits. One system that works rules that a die roll of 1 results in some unfortunate event happening to the character who rolled it. The DM must decide what the exact event is based on the situation, although it should not be one that causes damage.
+
+A character could trip and sprawl to the floor, break his sword hitting a stone pillar, get his axe wedged in a wooden beam, or have one of his backpack straps slip off his shoulder, getting in the way. (Of course, magical weapons are not likely to break under normal use.)
+
+The normal result of a critical fumble is the loss of the next round’s attack as the character gets up off the floor, digs out a new weapon, pulls his axe out of the beam, or struggles to get his pack back where it belongs. Critical failures add a dose of excitement and humor to combat.
+
+Finally, always remember that whatever happens, happens to both player characters and NPCs!
+
+== Parrying (Optional Rule) ==
+During a oneminute combat round, each character is assumed to block many attempted attacks and see many of his own attacks blocked, In normal combat, characters parry all the time—there’s no need to single out each parry.
+
+When a character deliberately chooses not to parry, his chance of being hit increases. A mage casting a spell, for instance, gains no AC adjustment for Dexterity. Thus, choosing to parry, in and of itself, is not a rate option under the AD&D game rule.
+
+At the same time, the assumption is that characters in combat are constantly exposing themselves to some risk—trying to get a clear view of a target or looking for the opening to make an attack. There are times, however, when this is not the case. Sometimes, the only thing a character wants to do is avoid being hit.
+
+In order to make himself harder to hit, acharacter can parry—forfeit all actions for the round—he can’t attack, move, or cast spells. This frees the character to concetrate solely on defense. At this point, all characters but the warriors gain an AC bonus equal to half their level. A 6th-level wizard would have a +3 bonus to his AC (Lowering his AC by 3). A warrior gets a bonus equal to half his level plus one. A 6th-level fighter would gan a +4 AC bonus.
+
+Note that the benefit is not a perfect all-round defense, and it’s not effective against rear or missile attacks. It applies only to those characters attacking the defender with frontal melee attacks. This optional defense has no effect against magical attacks, so it wouldn’t do anything to protect a character from the force of a ''lightning bolt'' or ''fireball'', for example.
+
+== Missile Weapons in Combat ==
+In general, missile combat is handled identically to standard melee. Intentions are announced, initiative is rolled, and attack rolls are made. However, there are some special rules and situations that apply only to missile combat.
+
+Missile weapons are divided into two general categories. The first includes all standard, direct-fire, single-target missiles—slings, arrows, quarrels, spears, throwing axes, and the like.
+
+The second category includes all grenadelike missiles that have an area effect, no matter how small. Thus an attack with these weapons does not have to hit its target directly to have a chance of affecting it. Included in this group are small flasks of oil, acid, poison, holy water, potions, and boulders. Hurled boulders are included because they bounce and bound along after they hit, leaving a swath of destruction.
+
+=== Range ===
+The first step in making a missile attack is to find the range from the attacker to the target. This is measured in yards from one point to the other. This distance is compared to the range categories for the weapon used (see Table 45 in Chapter 6 in the ''Player’s Handbook'').
+
+If the distance is greater than the long range given, the target is out of range; if the distance is between the long- and mediumrange numbers, the target is at long range; when between the medium- and short-range numbers, medium range is used; when equal to or less than the short-range distance, the target is at short range.
+
+Short-range attacks suffer no range modifier. Medium-range attacks suffer a —2 penalty to the attack roll. Long-range attacks suffer a -5 penalty. Some weapons have no short range since they must arc a certain distance before reaching their target. These attacks are always made with an attack roll penalty.
+
+=== Rate of Fire ===
+Bows, crossbows, and many other missile weapons have different rates of fire (ROF)—the number of missiles they can shoot in a single round.
+
+Small, light weapons can be thrown very quickly, so up to three daggers can be thrown in a single round, Arrows can be nocked and let loose almost as quickly, so up to two shots can be fired in a single round.
+
+Some weapons (such as heavy crossbows) take a long time to load and can be fired only every other round.
+
+Whatever the ROF, multiple missile shots are handled the same way as other multiple attacks for the purposes of determining initiative. The ROF of each missile weapon is listed in Table 45 in Chapter 6 of the ''Player’s Handbook''.
+
+=== Ability Modifiers in Missile Combat ===
+Attack roll and damage modifiers for Strength are always used when an attack is made with a hurled weapon. Here the power of the character’s arm is a significant factor in the effectiveness of the attack.
+
+When using a bow, the attack roll and damage Strength modifiers apply only if the character has a properly prepared bow (see Chapter 6 in the ''Player’s Handbook''). Characters never receive Strength bonuses when using crossbows or similar mechanical devices.
+
+Dexterity modifiers to the attack roll are applied when making a missile attack with a hand-held weapon. Thus, a character adds his Dexterity modifier when using a bow, crossbow, or axe but not when firing a trebuchet or other siege engine.
+
+=== Firing Into a Melee ===
+Missile weapons are intended mainly as distance weapons. Ideally, they are used before the opponents reach your line. However, ideal situations are all too rare, and characters often discover that the only effective way to attack is to shoot arrows (or whatever) at an enemy already in melee combat with their companions. While possible, and certainly allowed, this is a risky proposition.
+
+When missiles are fired into a melee, the DM counts the number of figures in the immediate area of the intended target. Each Medium figure counts as 1. Tiny figures count as ⅓, Small figures as ½, Large as 2, Huge as 4, and Gargantuan as 6. The total value is compared to the value of each character or creature in the target melee. Using this ratio, the DM rolls a die to determine who (or what) will be the target of the shot. After the DM determines who or what is the target, a normal attack is rolled. The DM doesn’t tell the player who will be hit if the attack succeeds.
+
+''For example, Tarus Bloodheart (mansized, or 1 point) and Rath (also man-sized, or 1 point) are fighting a giant (size G, 6 points) while Thule fires a long bow at the giant. The total value of all possible targets is 8 (6+1+1). There’s a 1-in-8 chance that Rath is the target; a 1-in-8 chance that Tarus is hit; and a 6-in-8 chance the shot hits the giant. The DM could roll 1d8 to determine who gets hit, or he could reduce the ratios to a percentage (75% chance the giant is hit, etc.) and roll percentile dice.''
+
+=== Taking Cover Against Missile Fire ===
+One of the best ways to avoid being hit and injured is to hide behind something—a wall, a tree, a building corner, a heap of boulders, or whatever happens to be available. Professional adventurers, wishing to make this sound heroic, call this “taking cover.”
+
+Taking cover doesn’t work particularly well in a melee, since the cover hampers defender and attacker equally. However, it is quite an effective tactic against missile fire.
+
+There are two types of protection a character can have. The first is ''concealment'', also called soft cover. A character hiding behind a clump of bushes is concealed. He can be seen, but only with difficulty, and it’s no easy task to determine exactly where he is. The bushes cannot stop an arrow, but they do make it less likely that the character is hit. Other types of concealment include curtains, tapestries, smoke, fog, and brambles.
+
+The other type of protection is ''cover'', sometimes called, more precisely, hard cover. It is, as its name implies, something a character can hide behind that will block a missile. Hard cover includes stone walls, the corner of a building, tables, doors, earth embankments, tree trunks, and magical walls of force.
+
+Cover helps a potential target by giving the attacker a negative modifier to his attack roll. The exact modifier for concealment or cover depends on the degree to which it is being used as shelter. A character who stands behind a two-foot wall is a pretty obvious target, especially when compared to the character who lies down behind that wall and carefully peers over it. Table 44 lists the different modifiers for varying degrees of cover and concealment.
+
+{| class="wikitable"
+	|+Table 44; COVER AND CONCEALMENT MODIFIERS
+	! Target is:
+	! Cover
+	! Concealment
+	|-
+	| 25% hidden
+	| -2
+	| -1
+	|-
+	| 50% hidden
+	| -4
+	| -2
+	|-
+	| 75% hidden
+	| -7
+	| -3
+	|-
+	| 90% hidden
+	| -10
+	| -4
+|}
+
+Cover also has an affect on saving throws (page 65), granting the character the modifier listed on Table 44 as a bonus to his saving throws against spells that cause physical damage (e.g., ''fireball'', ''lightning bolt'', etc.).
+
+Furthermore, a character who has 90% cover (or more) suffers one-half normal damage on a failed save and no damage at all if a saving throw is successful. This assumes, of course, that the cover is between the spell effect and the target—a man crouching behind a stone wall would be protected if a fireball exploded in front of the wall, but would not be protected by cover if the blast occurred behind him, on his side of the wall.
+
+=== Grenade-Like Missiles ===
+Unlike standard missiles, which target a specific creature, a grenade-like missile is aimed at a point, whether this point is a creature or a spot on the ground. When the attack is announced, the player indicates where he wants the missile to land. This then becomes the target point and is used to determine the direction and distance of any scatter.
+
+Most grenade-like missiles are items of opportunity or necessity—flasks of oil, vials of holy water, or beakers of acid, for example. As such, these items are not listed on the equipment tables for range, ROF, and damage. The range each can be thrown varies with the Strength of the character and the weight of the object.
+
+A missile of five pounds or less can be thrown about 30 feet, Short range is 10 feet, medium range is 20 feet, and everything beyond is maximum range. Heavier items have reduced ranges. Just how far an object can be thrown is decided by the DM.
+
+Exceptionally heavy items can be thrown only if the character rolls a successful bend bars/lift gates check. In no case can a character throw an item heavier than his Strength would allow him to lift. Thus, the DM can rule that a character would have little trouble chucking a half-empty backpack across a ten-foot chasm, but the character would need to make a check in order to heave an orc ten feet through the air into the faces of his orcish friends.
+
+Once a container hits, it normally breaks immediately. However, this is not always true. Some missiles, like soft leather flasks or hard pottery, are particularly resistant. If there’s some doubt about whether or not a thrown object will break, the DM can require an item saving throw (page 39) to see if it shatters or rips, spewing its contents everywhere.
+
+If a missile is off-target, it is important to know where it landed—an errant grenadelike missile could present a hazard to other characters, start a fire, or eat a hole in the floor. The process of finding where it lands is known as scatter, First roll 1d10 and consult the Scatter Diagram.
+
+<Scatter Diagram>
+
+Next determine how far off the mark the throw is. If the throw is at short range, use a 6-sided die. If the range is medium, use a 10-sided die, lf thrown to long range, roll 2d10. The number rolled is the number of feet away from the intended target the missile lands.
+
+The damage taken from a grenade-like attacks depends on whether a direct hit was scored or the target was in the splash area. Table 45 lists the area of effect fora direct hit and damages from direct and splash hits.
+
+The Area of Effect is the amount of space covered by a direct hit. Any creature in the area of effect will take damage according to the Direct Hit column, All creatures within 3’ of the area of effect are subject to splash damage.
+
+=== Types of Grenade-Like Missiles ===
+'''Acid’'' damage is particularly grim. Aside from the possibility of scarring (which is left to the DM), acid damage cannot be healed by regeneration. It must be healed normally. Thus it is very useful against regenerating creatures such as trolls. Acid is very rare.
+
+'''Holy Water’'' affects most forms of undead and creatures from the lower planes. It has no effect against a creature in gaseous form or undead without material form.
+
+Unholy water (essentially holy water used by evil priests) affects paladins, creatures whose purpose is to defend good (lammasu, shedu, etc.), and creatures and beings from the upper planes.
+
+Holy (or unholy) water affects creatures as does acid, causing damage that cannot be regenerated but must be healed normally.
+
+'''Oil’'' causes damage only when it is lit. This normally requires a two-step process—first soaking the target in flammable oil and then setting it afire. Thus using flaming oil often requires two successful attacks.
+
+A direct hit from flaming oil burns for two rounds, causing 2d6 points of damage in the first round and 1d6 points in the second round.
+
+'''Poison’'' is generally not very effective as a missile weapon. Most poisons take effect only if the missile scores a direct hit, and even then only if it drops into the gaping maw of some huge creature. Contact poisons have normal poison effects on a direct hit.
+
+{| class="wikitable"
+	|+Table 45: GRENADE-LIKE MISSILE EFFECTS
+	! Type of Missile
+	! Area of Effect
+	! Damage from Direct Hit
+	! Splash Damage
+	|-
+	| Acid
+	| 1’ diameter
+	| 2-8 hp
+	| 1 hp
+	|-
+	| Holy water
+	| 1’ diameter
+	| 2-7 hp
+	| 2 hp
+	|-
+	| Oil (lit)
+	| 3’ diameter
+	| 2-12/1-6 hp
+	| 1-3 hp
+	|-
+	| Poison
+	| 1’ diameter
+	| special
+	| special
+|}
+
+=== Boulders as Missile Weapons ===
+Hurled boulders are handled using the grenade-like missiles rules, even though they do not burst. Boulders tend to bounce beyond their initial point of impact and can hit several characters in a single attack. They are particularly devastating against tightly packed groups.
+
+When attacking with a boulder, determine the target, to-hit number, and scatter (in the case of a miss) according to the rules for grenade-like missiles. The distance the boulder scatters should be doubled, however.
+
+If the boulder scatters to the left or right, it moves roughly 45 to 60 degrees off the original line of attack. A boulder moves along this line for 3d10 feet. If the targets are in a relatively open area (a group marching through a snow field, for example), there is only aslim chance that anyone will be hit by the bounding missile.
+
+If the boulder moves through a space occupied by a character (or monster), roll again for a hit (recalculating THAC0 as necessary), applying a —2 penalty for each 10 feet, or fraction thereof, the boulder has bounced since it hit.
+
+If the characters are in an area where movement is restricted (a formation of pikemen, for example, or a large party in a 10’ wide corridor), no additional boulder attack roll is made. The boulder strikes all targets in its path.
+
+The damage done by a boulder as a result of scatter is less than from a direct hit, Roll the damage normally, but subtract the distance in feet the boulder has bounced to that point. This is the damage inflicted on the target.
+
+== Special Attacks ==
+Some NPCs (and even PCs) have abilities that can come into play during combat, but which don’t fall into any of the standard combat rules sections, These special combat situations are dealt with below.
+
+=== Attacking with Charmed Creatures ===
+There may be times when charmed creatures, perhaps even party members, will be compelled to fight their companions. When this happens, remember that the creature, NPC, or player character no longer has control over his decisions.
+
+If a charmed player character is compelled to attack his friends, he must do so in an effective manner. Grappling or punching is not acceptable if the character possesses a better method. At the same time, the charmed character need use only those abilities that are obvious to his new (and, one hopes, temporary) master.
+
+Thus, if a charmed fighter with a sword at his side is carrying a ''javelin of lightning'', he fights with his sword unless specifically commanded to do otherwise. The master in this case could not command him to use the ''javelin of lightning'' unless he had some way of knowing the fighter carried one.
+
+Similarly, a wizard’s master must know which spells his charmed spellcaster possesses, and which he has memorized. This is most commonly learned simply by asking. However, due to the charmed fellow’s befuddled state, there is a 25 percent chance that he will unwittingly cast a spell harmful to himself and his master—relying on charmed spellcasters can be a very risky business.
+
+==== Limits on Charmed Creatures ====
+A charmed creature has two critical limitations on its actions. First, it cannot carry out commands requiring individual initiative. The master cannot say, “Fight with your most powerful magical item!” since this requires judgment on the part of the charmed character.
+
+Second, the charmed creature won’t obey any command that would obviously lead to self-destruction, Since combat is composed of many different variables, fighting in itself is not clearly self-destructive, even against hopeless-seeming odds.
+
+==== Degrees of Charm ====
+There are two degrees of charm power in the AD&D® game, that of monsters and that of characters.
+
+The charm power of monsters, such as vampires, makes verbal communication unnecessary —the charmed creature understands the monster’s desires through mental command, no matter what language each speaks. A character charmed by this power obeys the commands of his master totally, at least within the limits of his ability and the guidelines above.
+
+The charm power of characters is more limited. The master must have some method of making himself understood to the charmed creature, preferably by speaking the same language. Otherwise, charmed creatures can attempt to follow their master’s hand gestures. This can be a useful and entertaining spur to role-playing!
+
+=== Gaze Attacks ===
+Monsters with a gaze attack, such as the basilisk, have the power to affect an opponent simple by making eye contact. This makes these creatures incredibly dangerous, for the slightest glance can cause great harm.
+
+Characters who look directly at such creatures in order to attack them, or those who are surprised by the creature, automatically meet the creature’s gaze. These unfortunate characters must make the appropriate saving throw (see page 65) or suffer the effects of the creature’s attack. Such attackers undergo the gaze attack each round they attack. In large groups, only the front rank can meet the gaze, a fate that can be avoided if the attacker approaches from the rear, where the creature cannot see.
+
+Characters can also attempt to avoid the gaze by looking in the general direction of the creature without actually looking into its eyes. This enables characters to see the target well enough to fight normally without falling victim to its power. However, there is a 20% chance each round that an attacker trying this trick will accidentally meet the gaze of the creature.
+
+Finally, a character can completely avert his gaze or close his eyes when attacking the creature, preventing any chance of meeting the creature’s gaze. This is like fighting in the dark, and the character suffers all the normal penalties for fighting while blinded.
+
+Safer than all of these methods is to use some type of reflective surface—a mirror or highly polished shield is very handy. The powers of gaze attacks are not effective in reflections, so it is safe to observe a basilisk or medusa in a mirror.
+
+For this trick to be effective, there must be some source of light available, since nothing can be reflected in darkness, Also, characters should be reminded that using a mirror can be disorienting: The character must back toward his target, holding the mirror in his shield arm; he suffers a -2 penalty to his chance to hit and does not gain the benefits of his shield or his Armor Class bonus for Dexterity when the creature attacks him.
+
+Creatures with gaze attacks can choose not to use their power. In this case, it is the creature that avoids looking at the characters. Not meeting their gaze, it can’t affect them. Creatures intelligent enough to parley may do this on occasion.
+
+=== Innate Abilities ===
+Especially powerful creatures possess innate abilities, magical powers they can use at will. The majority of these function like spells. Thus, a brownie who is able to cause confusion has the same effect as a character who casts the ''confusion'' spell. Creatures able to become invisible at will usually use all the normal rules for the ''invisibility'' spell.
+
+Innate abilities are different from spells in one major way, however. Unlike spells, innate abilities are natural powers and do not require casting times or any components (although there is an initiative modifier), including gestures or words, unless these things are used for dramatic effect. (The monster casually points to the place where his spell will occur and then looks at the party with a wicked smile.) Innate abilities are activated by the merest mental command of the creature.
+
+In all other respects, innate abilities fFunction like spells. They have the same range, area of effect, and duration limitations of the spell of the same name. When the spell in question varies in power according to the level of the caster, the creature is assumed to have a level equal to its Hit Dice. If this means the creature is of insufficient level to cast the spell, it uses the spell at the minimum level needed to cast it.
+
+Innate abilities can generally be used just once per round. Furthermore, a creature cannot use an innate ability and make an attack in the same round.
+
+=== Breath Weapons ===
+Various creatures in the AD&D® game possess breath weapons, the most memorable being the roaring gout of flame spewed out by a red dragon. These weapons normally affect a coneshaped area. One point is the dragon’s mouth (obviously) and the breath widens as it extends outward. No attack roll is required for a breath weapon. All characters and creatures within the area of effect must make the appropriate saving throw and suffer the consequences of a successful breath attack.
+
+Creatures with breath weapons cause 1d8 points of damage per Hit Die unless otherwise noted. Thus, an 8 HD dragon would cause 8d8 points of damage with its breath. Fortunately for player characters, the powerful attacks of such creatures have a limited number of uses per day!
+
+== Special Defenses ==
+So far, the bulk of this chapter has dealt with ways to attack. In addition, there are several ways to avoid taking damage. Two of the most common are the ''saving throw'' and ''magic resistance''. Somewhat less common are the ability to ''turn undead'' and immunity to particular weapon-types.
+
+== The Saving Throw ==
+The ''saving throw'' is a die roll that gives a chance, however slim, that the character or creature finds some way to save himself from certain destruction (or at least lessen the damage of a successful attack).
+
+More often than not, the saving throw represents an instinctive act on the part of the character—diving to the ground just asa fireball scorches the group: blanking the mind just as a mental battle begins; blocking the worst of an acid spray with a shield, The exact action is not important—DMs and players can think of lively and colorful explanations of why a saving throw succeeded or failed. Explanations tailored to the events of the moment enhance the excitement of the game.
+
+=== Rolling Saving Throws ===
+To make a saving throw, a player rolls 1d20. The result must be equal to or greater than the character’s saving throw number. The number a character needs to roll varies depending upon his group, his level, and what he is trying to save himself from. A character’s saving throw numbers can be found in Table 46. Multi-class characters use the most advantageous saving roll.
+
+Saving throws are made in a variety of situations: For attacks involving paralyzation, poison, or death magic; rod, staff, or wand; petrification or polymorph; breath weapon; and spells. The type of saving throw a character must roll is determined by the specific spell, monster, magical item, or situation involved.
+
+Monsters also use Table 46. However, they do not find their saving throw numbers by group and level, since they have neither. All creatures save against poison and death magic at a level equal to the number of Hit Dice they have. Intelligent monsters save versus all other attacks at this level as well.
+
+Creatures with no intelligence (even less than animal intelligence) save at a level equal to half the number of Hit Dice they have. Any additions to their Hit Dice are counted as well, at the rate of one die for every four points or fraction thereof, Thus an intelligent creature with 5 + 6 Hit Dice would save at 7th level (5 Hit Dice + an extra die for the first 4 additional points + another die for the 2 remaining). A non-intelligent beast of the same Hit Dice would save against all but poison and death at 4th level (round up).
+
+Most monsters use the Warrior group table to determine their save. However, those that have abilities of other classes use the most favorable saving throw. A creature able to fight and use a large number of spells could use either the Warrior or Wizard groups, whichever was better for a particular saving throw. Creatures that lack fighting ability use the group that most closely resembles their own abilities. A funguscreature that can only cast spells would use the Wizard group table to determine saving throws.
+
+{| class="wikitable"
+	|+Table 46: CHARACTER SAVING THROW
+	! colspan="2"|
+	! colspan="5"| Attack to be Saved Against
+	|-
+	! colspan="2"|Character Group and Experiencce Level
+	! Paralyzation, Poison, or Death Magic
+	! Rod, Staff, or Wand
+	! Petrification or Polymorph*
+	! Breath Weapon**
+	! Spell***
+	|-
+	| Priest
+	| 1-3
+	| 10
+	| 14
+	| 13
+	| 16
+	| 15
+	|-
+	|
+	| 4-6
+	| 9
+	| 13
+	| 12
+	| 15
+	| 14
+	|-
+	|
+	| 7-9
+	| 7
+	| 11
+	| 10
+	| 13
+	| 12
+	|-
+	|
+	| 10-12
+	| 6
+	| 10
+	| 9
+	| 12
+	| 11
+	|-
+	|
+	| 13-15
+	| 5
+	| 9
+	| 8
+	| 11
+	| 10
+	|-
+	|
+	| 16-18
+	| 4
+	| 8
+	| 7
+	| 10
+	| 9
+	|-
+	|
+	| 19+
+	| 2
+	| 6
+	| 5
+	| 8
+	| 7
+	|-
+	| Rogues
+	| 1-4
+	| 13
+	| 14
+	| 12
+	| 16
+	| 15
+	|-
+	|
+	| 5-8
+	| 12
+	| 12
+	| 11
+	| 15
+	| 13
+	|-
+	|
+	| 9-12
+	| 11
+	| 10
+	| 10
+	| 14
+	| 11
+	|-
+	|
+	| 13-16
+	| 10
+	| 8
+	| 9
+	| 13
+	| 9
+	|-
+	|
+	| 17-20
+	| 9
+	| 6
+	| 8
+	| 12
+	| 7
+	|-
+	|
+	| 21+
+	| 8
+	| 4
+	| 7
+	| 11
+	| 5
+	|-
+	| Warriors
+	| 0
+	| 16
+	| 18
+	| 17
+	| 20
+	| 19
+	|-
+	|
+	| 1-2
+	| 14
+	| 16
+	| 15
+	| 17
+	| 17
+	|-
+	|
+	| 3-4
+	| 13
+	| 15
+	| 14
+	| 16
+	| 16
+	|-
+	|
+	| 5-6
+	| 11
+	| 13
+	| 12
+	| 13
+	| 14
+	|-
+	|
+	| 7-8
+	| 10
+	| 12
+	| 11
+	| 12
+	| 13
+	|-
+	|
+	| 9-10
+	| 8
+	| 10
+	| 9
+	| 9
+	| 11
+	|-
+	|
+	| 11-12
+	| 7
+	| 9
+	| 8
+	| 8
+	| 10
+	|-
+	|
+	| 13-14
+	| 5
+	| 7
+	| 6
+	| 5
+	| 8
+	|-
+	|
+	| 15-16
+	| 4
+	| 6
+	| 5
+	| 4
+	| 7
+	|-
+	|
+	| 17+
+	| 3
+	| 5
+	| 4
+	| 4
+	| 6
+	|-
+	| Wizards
+	| 1-5
+	| 14
+	| 11
+	| 13
+	| 15
+	| 12
+	|-
+	|
+	| 6-10
+	| 13
+	| 9
+	| 11
+	| 13
+	| 10
+	|-
+	|
+	| 11-15
+	| 11
+	| 7
+	| 9
+	| 11
+	| 8
+	|-
+	|
+	| 16-20
+	| 10
+	| 5
+	| 7
+	| 9
+	| 6
+	|-
+	|
+	| 21+
+	| 8
+	| 3
+	| 5
+	| 7
+	| 4
+|}
+&#42; Excluding ''polymorph wand'' attacks.<br/>
+&#42;&#42; Excluding those that cause petrification or polymorph.<br/>
+&#42;&#42;&#42; Excluding those which another saving trhow type is specified, such as death, petrification, polymorph, etc.
+
+=== Saving Throw Priority ===
+Sometimes the type of saving throw required by a situation or item isn’t clear, or more than one category of saving throw may seem appropriate. For this reason, the saving throw categories in Table 46 are listed in order of importance, beginning with paralyzation, poison, and death magic, and ending with spell.
+
+Imagine that Rath is struck by the ray from a ''wand of polymorphing''. Both a saving throw vs. wands and a saving throw vs. polymorph would be appropriate. But Rath must roll a saving throw vs. wands because that category has a higher priority than polymorph.
+
+The categories of saving throws are as follows (in order of priority):
+
+'''Save vs. Paralyzation, Poison, or Death Magic:''' This is used whenever a character is affected by a paralyzing attack (regardless of source), poison (of any strength), or certain spells and magical items that otherwise kill the character outright (as listed in their descriptions), This saving throw can also be used in situations in which exceptional force of will or physical fortitude is needed.
+
+'''Save vs. Rod, Staff, or Wand:''' As its name implies, this is used whenever a character is affected by the powers of a rod, staff, or wand, provided another save of higher priority isn’t called for. This saving throw is sometimes specified for situations in which a character faces a magical attack from an unusual source.
+
+'''Save vs. Petrification or Polymorph:''' This is used any time a character is turned to stone (petrified) or polymorphed by a monster, spell, or magical item (other than a wand). It can also be used when the character must withstand some massive physical alteration of his entire body.
+
+'''Save vs. Breath Weapon:''' A character uses this save when facing monsters with breath weapons, particularly the powerful blast of a dragon. This save can also be used in situations where a combination of physical stamina and Dexterity are critical factors in character survival,
+
+'''Save vs. Spell:''' This is used whenever a character attempts to resist the effects of a magical attack, either by a spellcaster or from a magical item, provided no other type of saving throw is specified. This save can also be used to resist an attack that defies any other classification.
+
+=== Voluntarily Failing Saving Throws ===
+No saving throw is made if the target voluntarily chooses not to resist the effect of a spell or special attack. This is the case even if the character was duped as to the exact nature of the spell, When a character announces that he is not resisting the spell’s power, that spell (or whatever) has its full effect.
+
+The intention not to resist must be clearly stated or set up through trickery, however. If a character is attacked by surprise or caught unawares, he is normally allowed a saving throw. The DM can modify this saving throw, making the chance of success worse, if the situation warrants it. Only in extreme cases of trickery and deception should an unwitting character be denied a saving throw.
+
+=== Ability Checks as Saving Throws ===
+When a character attempts to avoid danger through the use of one of his abilities, an ability check can be used in lieu of a saving throw.
+
+For example, Ragnar the thief has broken into someone’s home when he hears a grating noise from the ceiling above him. He looks up to find a five-ton block of the ceiling headed straight for him! He is going to need speedy reactions to get out of the way, so a Dexterity ability check should be rolled to see if he avoids the trap.
+
+=== Modifying Saving Throws ===
+Saving throws can be modified by magical items, specific rules, and special situations. These modifiers can increase or decrease the chance of a successful saving throw.
+
+Modifiers that increase the chance are given as a number preceded by a plus sign, Modifiers that make success more difficult are given as a number preceded by a minus sign (-1, -2, etc.).
+
+Saving throw modifiers affect a character’s die roll, not the saving throw number needed. Thus, if Delsenora needed an 11 for a successful saving throw vs. petrification and had a +1 bonus to her save, she would still need to roll an 11 or higher after all adjustments were made (but the +1 bonus would be added to her die roll, so that effectively she needs to roll only a 10 on the die to reach her saving throw number of 11).
+
+'''High ability scores''' in Dexterity and Wisdom sometimes give saving throw bonuses. A high Wisdom protects against illusions, charms, and other mental attacks. Dexterity, if high enough, can give a character a slightly higher chance of avoiding the effects of fireballs, lightning bolts, crushing boulders, and other attacks where nimbleness may be a help. (See Tables 2 and 5 in the ''Player’s Handbook''.)
+
+'''Magical items’'' like cloaks and rings of protection give bonuses to a character’s saving throw (these are listed in the item descriptions in the appendices).
+
+'''Magical armor’'' allows a saving throw bonus only when the save is made necessary by something physical, whether normal or magical; magical armor never gives a saving throw bonus against gas (which it cannot block), poison (which operates internally), and spells that are mental in nature or that cause no physical damage.
+
+For example, magical armor would not help a character’s saving throw against the sting of a giant scorpion, the choking effects of a ''stinking cloud'' spell, or the transformation effect of a ''polymorph others'' spell. Magical armor does extend its protective power to saving throws against acid sprays or splashes, disintegration, magical and normal fires, spells that cause damage, and falls (if any saving throw is allowed in this case), Other situations must be handled on a case-by-case basis by the DM.
+
+'''Specific spells and magical items’'' have effects, both good and ill, on a character’s saving throws. Often, spells force the victim to save with a penalty, which makes even the most innocuous spell quite dangerous. (Specific information can be found in the spell descriptions, for spells, or in the Magical Items section, for magical items.)
+
+'''Minor poisons’'' of verminous creatures such as giant centipedes, while dangerous, are weak and unlikely to bring about death in a healthy man. To recreate this effect in the game, a saving throw bonus is allowed for anyone affected by these poisons.
+
+'''Unpredictable situations’'' are sure to crop up. When this happens, the DM must determine whether saving throw modifiers are appropriate. As a guideline, modifiers for situations should range from -4 to +4. An evil cleric attacked in his shrine could very well have a +3 bonus to all his saving throws and a —3 penalty applied to those of his enemies. The powerful evil of the place could warrant the modifier.
+
+DM modifiers should be used sparingly, and only when appropriate. If constantly assigned, they will no longer feel special to the player whose character’s fate hangs on the toss of a single die.
+
+== Magic Resistance ==
+Some creatures or items strongly resist the effects of magic (or impart such resistance to others). This makes them more difficult to affect with magical energy than ordinary creatures or items.
+
+A rare few creatures are extremely antimagical—magic rolls off them like water off a duck’s back. More common are creatures, especially from the outer planes, that live in enchanted or sorcerous lands and are filled with powerful magical energies. These creatures eat and breathe the vapors of wizardry, and they have a high tolerance against arcane power.
+
+Magic resistance is an innate ability —that is, the possessor does not have to do anything special to use it. The creature need not even be aware of the threat for his magic resistance to operate. Such resistance is part of the creature or item and cannot be separated from it. (Creatures, however, can lower their magic resistance at will.)
+
+Magic resistance is also an individual ability, A creature with magic resistance ''cannot'' impart this power to others by holding their hands or standing in their midst. Only the rarest of creatures and magical items have the ability to bestow magic resistance upon another.
+
+Magic resistance is given as a percentile number. For a magical effect to have any chance of success, the magic resistance must be overcome. The target (the one with the magic resistance) rolls percentile dice. If the roll is higher than the creature’s magic resistance, the spell has a normal effect. Lf the roll is equal to or less than the creature’s magic resistance, the spell has absolutely no effect on the creature.
+
+=== Effects of Magic Resistance ===
+Magic resistance enables a creature to ignore the effects of spells and spell-like powers. It does not protect the creature from magical weapon attacks or from natural forces that may be a direct or accidental result of a speil. Nor does it prevent the protected creature from using his own abilities or from casting spells and using magical items. It can be effective against both individually targeted spells and, within limits, area-effect spells.
+
+If a magic resistance roll fails, and the spell has normal effect, the target can make all saving throws normally allowed against the spell.
+
+=== When Magic Resistance Applies ===
+Magic resistance applies only if the successful casting of a spell would directly affect the resistant creature or item. Thus, magic resistance is effective against ''magic missile'' (targeted at a creature or item) or ''fireball'' (damaging the area the creature or item is in) spells.
+
+Magic resistance is not effective against an earthquake caused by a spell. While the creature may suffer injury or death falling into a chasm the spell opens under its feet, the magical energy of the spell was directed at the ground, not the creature. Magic resistant creatures are not immune to events that occur as the consequence of spells, only to direct energy created or released by a spell.
+
+Player characters do not normally have magic resistance (though they still get saving throws vs. magical spells and such); this ability is reserved mainly for special monsters.
+
+=== Successful Magic Resistance Rolls ===
+A successful magic resistance check can have four different results, depending on the nature of the spell being resisted.
+
+'''Individually Targeted Spells:''' By definition, these spells affect just one creature, and only the targeted creature rolls for magic resistance (if it has any). If a spell of this type is directed at several targets, each rolls independently of the others. (An example of this would be a ''hold person'' spell aimed at four creatures, with each creature getting a magic resistance roll, if they have magic resistance.)
+
+If the magic resistance roll is successful, the spell has no effect on that creature. If the spell targeted only at the creature, the spell fails completely and disappears. If several targets are involved, the spell may still affect others who fail their magic resistance roll.
+
+'''Area-Effect Spells:''' These spells are not targeted on a single creature, but on a point. The spell’s effect encompasses everything within a set distance of that point. A successful magic resistance check enables the creature to ignore the effect of the spell. However, the spell is not negated and still applies to all others in the area of effect.
+
+'''In-Place Spells:''' These spells operate continuously in a particular place or on a particular creature, character, or item. ''Protection from evil'' is one example of this kind of spell.
+
+Magic resistance comes into play only if a creature or item finds himself (or itself) in the place where the spell is in operation. Even then, magic resistance may not come into play—nothing happens if the spell isn’t of a type that affects the character. Thus, a ''part water'' spell would not collapse simply because a magic resistant creature walked through the area, A ''protection from evil'' spell, which could affect the creature, would be susceptible to magic resistance.
+
+If the DM determines that a magic resistance roll is appropriate, and the roll succeeds, the in-place spell collapses (usually with a dramatic thunderclap and puff of smoke).
+
+'''Permanent Spells:''' Magic resistance is insufficient to destroy a permanent spell. Instead, the spell is negated (within the same guidelines given for in-place spells) for as long as the magic resistant creature is in the area of effect.
+
+Thus, a magic-resistant creature might be able to step through a permanent wall of force as if it weren’t there. However, the wall would spring back into existence as soon as the creature passed through (i.e., no one else can pass through).
+
+== Turning Undead ==
+One important, and potentially life-saving, combat ability available to priests and paladins is the ability to turn undead. This is a special power granted by the character’s deity. Druids ''cannot'' turn undead; priests of specific mythoi may be able to at the DM’s option.
+
+Through the priest or paladin, the deity manifests a portion of its power, terrifying evil, undead creatures or blasting them right out of existence. However, since the power must be channeled through a mortal vessel, success is not always assured.
+
+When encountering undead, a priest or paladin can attempt to turn the creatures (remember that the paladin turns undead as if he was two levels lower—a Sth-level paladin uses the level 3 column in Table 47), Only one attempt can be made per character per encounter, but several different characters can make attempts at the same time (with the results determined individually).
+
+Attempting to turn counts as an action, requiring one round and occurring during the character’s turn in the initiative order (thus the undead may get to act before the character can turn them). The mere presence of the character is not enough—a touch of drama from the character is important. Speech and gestures are important, so the character must have his hands free and be in a position to speak. However, turning is not like spellcasting and is not interrupted if the character is attacked during the attempt.
+
+To resolve a turning attempt, look on Table 47. Cross-index the Hit Dice or type of the undead with the level of the character (two levels lower for a paladin). If there is a number listed, roll 1d20. If the number rolled is equal to or greater than that listed, the attempt is successful. If the letter “T” (for “turned”) appears, the attempt is automatically successful without a die roll. If the letter “D” (for “dispel”) is given, the turning utterly destroys the undead. A dash (—) means that a priest or paladin of that level cannot turn that type of undead. ''Up to 2d6 undead are turned by a successful attempt. If the undead creatures are a mixed group, the lowest Hit Dice creatures are affected first.''
+
+Only one die is rolled regardless of the number of undead the character is attempting to turn in a given round. The result is read individually for each type of undead.
+
+For example, Gorus, a 7th-level priest, and his party are attacked by two skeletons led by a wight and a spectre. The turning attempt is made, resulting in a roll of 12.
+
+Gorus’s player reads the table for all three types of undead ''using the same'' roll—12—for all three. The skeletons are destroyed (as Gorus knew they would be). The wight is turned (a 4 or better was needed) and flees. The spectre, however, continues forward undaunted (since a 16 was needed to turn the spectre).
+
+Undead bound by the orders of another (e.g., skeletons) simply retreat and allow the character and those with him to pass or complete their actions.
+
+Free-willed undead attempt to flee the area of the turning character, until out of his sight. If unable to escape, they circle at a distance, no closer than ten feet to the character, provided he continues to maintain his turning (no further die rolls are needed).
+
+If the character forces the free-willed undead to come closer than ten feet (by pressing them into a corner, for example) the turning is broken and the undead attack normally.
+
+{| class="wikitable"
+	|+Table 47: TURNING UNDEAD
+	! Type or Hit Dice
+	! colspan="12"| Level of Priest†
+	|-
+	! of Undead
+	! 1
+	! 2
+	! 3
+	! 4
+	! 5
+	! 6
+	! 7
+	! 8
+	! 9
+	! 10-11
+	! 12-13
+	! 14+
+	|-
+	| Skeleton or 1 HD
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	| D*
+	| D*
+	| D*
+	| D*
+	| D*
+	|-
+	| Zombie
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	| D*
+	| D*
+	| D*
+	| D*
+	|-
+	| Ghoul or 2 HD
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	| D*
+	| D*
+	| D*
+	|-
+	| Shadow or 3-4 HD
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	| D*
+	| D*
+	|-
+	| Wight or 5 HD
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	| D*
+	|-
+	| Ghast
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	| D
+	|-
+	| Wraith or 6 HD
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	| D
+	|-
+	| Mummy or 7 HD
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	| T
+	|-
+	| Spectre or 8 HD
+	| —
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	| T
+	|-
+	| Vampire or 9 HD
+	| —
+	| —
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	| 4
+	|-
+	| Ghost or 10 HD
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	| 7
+	|-
+	| Lich or 11+ HD
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+	| 10
+	|-
+	| Special**
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| —
+	| 20
+	| 19
+	| 16
+	| 13
+|}
+&#42;An additional 2d4 creatures of this type are turned.<br/>
+&#42;&#42;Special creatures include unique undead, free-willed undead of the Negative Material planes, certian Greater and Lesser Powers, and those undead that dwell the outer planes.<br/>
+†Paladins turn undead as priests who are two levels lower.
+
+=== Evil Priests and Undead ===
+Evil priests are normally considered to be in league with undead creatures, or at least to share their aims and goals. Thus, they have no ability to turn undead. However, they can attempt to command these beings, forcing them to their will.
+
+This is resolved in the same way as a turning attempt. Up to 12 undead can be commanded. A “T” result means the undead automatically obey the evil priest, while a “D” means the undead become completely subservient to the evil priest. They follow his commands (to the best of their ability and understanding) until turned, commanded, or destroyed by another.
+
+Evil priests also have the ability to altect paladins, turning them as if they were undead However, since the living spirit of a paladin is far more difficult to quell and subvert, paladins are vastly more difficult to turn
+
+An evil priest attempting to turn a paladin does so as if the priest were three levels lower than he actually is. Thus, a 7th-level evil priest would turn paladins on the 4thlevel column. He would have only a slim chance of turning a 7th-level paladin (7 HD) and would not be able to turn one of 8th level at all (using the paladin’s level as the HD to be turned).
+
+== Immunity to Weapons ==
+Some monsters, particularly lycanthropes and powerful undead (such as vampires), are immune to normal weapons. Attackers need special weapons to hurt them. The most common of these are silver and magical weapons.
+
+Special weapon requirements are listed in the monster descriptions as “Silver weapons or magic to attack” or “+2 weapons or better to hit,” or something similar. The listed weapon, or one of greater power, must be used to damage the monster. (Magical weapons are of greater power than silver weapons, and each plus a magical weapon gets is a measure of power—obviously, then, a sword +2 is more powerful than a ''sword +1''.
+
+Even creatures immune to certain weapons can be affected by magical spells, unless a specific immunity to a spell, or group of spells, is listed in the description, in the ''Monstrous Compendium''.
+
+=== Effects of Weapon Hits ===
+When a creature is hit by a weapon to which it is immune, the attack appears to leave a visible wound. However, no points of damage are inflicted.
+
+For example, a vampire strides across the banquet hall toward the player characters. Feartfully, they loose a volley of arrows at him. Three hit, but he doesn’t even break his stride. They watch, aghast, as he disdainfully plucks the arrows from his body and casts them aside. Just as he closes with them, Targash swings and hits him with his sword +3. The vampire’s smug look of overconfidence is transformed to one of snarling rage as he realizes with a shock that one of these sniveling humans has hurt him!
+
+=== Silver Weapons ===
+When confronting a creature immune to all but silver weapons, players will learn (probably the hard way) that just any old silver weapon won’t do. Ordinary weapons plated with a thin layer of silver are not effective. The weapon, or at least the blade, must be made of pure silver. Such weapons must be custom-made, Furthermore, silver is a poor choice of metal for a weapon and so cannot be used for everyday purposes.
+
+To retain its cutting power and shape, a silver weapon should be used only when absolutely needed. While there are no rules to prevent its constant use (since there are too many variables for type of weapon, amount of use, etc.), be ready to surprise characters who constantly use silver weapons in place of normal ones. (“Oh. dear, you hit that orc’s plate mail with your silver sword and the blade bent!” or “You know, you’ve been using your silver-headed spear so much that the point is no longer good. It’s kind of like hitting that werewolf with a clumsy club except it doesn’t work as well!”)
+
+=== Creature vs. Creature ===
+One obvious question that arises in the minds of those with a logical bent is “How do other creatures fight these immune monsters?” In the case of monsters, sufficient Hit Dice enable them to attack immune creatures as if they were attacking with magical weapons. Table 48 lists various numbers of Hit Dice and their magical weapon equivalents.
+
+These Hit Dice equivalents apply only to monsters! Player characters and NPCs cannot benefit from this.
+
+{| class="wikitable"
+	|+Table 48: HIT DICE VS. IMMUNITY
+	! Hit Dice
+	! Hits creatures requiring:
+	|-
+	| 4+1 or more
+	| +1 weapon
+	|-
+	| 6+2 or more
+	| +2 weapon
+	|-
+	| 8+3 or more
+	| +3 weapon
+	|-
+	| 10+4 or more
+	| +4 weapon
+|}
+
+=== Using Immune Monsters in a Campaign ===
+Creatures with powerful weapon immunities should be used with care, Players trust the DM to create situations in which they havea chance to win. Don’t use such creatures unless the party has weapons to defeat them (or there is some other reason for encountering that monster).
+
+Everyone in the party needn’t have a weapon effective against the monster, but there should be at least two in the party. Avoid making an encounter dependent on the actions of a single character. It’s not much fun for the other players and too many things can go wrong with the plan if the key player doesn’t cooperate or his character gets hurt.
+
+The warning above is just that, however—a warning. It’s not a rule. There are times where using such creatures on an unprepared party can lead to creative and entertaining play.
+
+For example, say the party is just beginning an adventure involving lots of werewolves, Early on, they are attacked by a hairy creature and their weapons don’t seem to do any good! If not dispatched by spells, it Causes serious injury (but doesn’t manage to kill anyone) before fleeing for some reason or another. It shouldn’t take too much for players to figure out what they need, and getting appropriate weapons can become part of the adventure.
+
+Immune creatures can also be used to control a party that has become abusive or just too powerful. Such uses of very potent creatures should be extremely rare!
+
+== Morale ==
+The old saying, “the best defense is a good offense” is clearly true in the AD&D® game. And the best way to avoid taking damage is to beat the foe so badly he wants to crawl under a rock or, better yet, run away. That’s where morale checks come in.
+
+The gnoll in front of Beornhelm smashes a mace against the fighter’s shield, just as the searing heat of lightning clips all the hair on the side of his head. Instantly, the heat is followed by the booming thunderclap in his ear. All the while, some vile little creature is trying to gnaw on his shin! It’s really enough to ruin an adventurer’s day, But, Beornhelm is cool, calm and in control—because the player running him says so. The same can’t be said for the monsters!
+
+In almost all situations, players should be the ones who decide what their characters do. A DM should never tell a player, “Your character decides he doesn’t want to get hurt, and runs from the fight,” unless that character is charmed and therefore controlled by the DM.
+
+A suggestion that a character might want to retreat, advance, open a chest, or whatever, is okay, but a DM shouldn’t force a player character to do something by simply insisting. Only under the most unusual circumstances—''charm'', magical ''fear'', or other forced effect—should the DM dictate the actions of a player character.
+
+Monsters and NPCs are an entirely different matter, however. The DM makes their decisions, trying to think like each creature or non-player character, in turn.
+
+In combat, thinking like a creature mainly means deciding what actions it takes and how badly it wants to fight—the morale of the creature.
+
+As a general rule, monsters and NPCs are no more eager to die than player characters. Most withdraw when a fight starts to go badly. Some panic and flee, even casting their weapons aside. If they think they can get mercy, brighter foes might fall to their knees and surrender. A few bloodthirsty or brainless types might fight to the death— but this doesn’t happen too often. These are the things that make up morale, things the DM must decide, either through role-playing or dice rolling.
+
+=== The Role-Playing Solution ===
+The first (and best) way to handle morale is to determine it without rolling any dice or consulting any tables. This gives the biggest range of choices and prevents illogical things from happening (unless the DM happens to be illogical). To decide what a creature does, think about its goals and reasons for fighting.
+
+'''Unintelligent and animal intelligence creatures’'' attack most often for food or to protect their lair. Few ever attack for the sheer joy of killing.
+
+Those attacking for food attack the things they normally hunt. A mountain lion, for example, doesn’t hunt humans (as a rule) and doesn’t stalk and attack humans as it would a deer. Such creatures normally allow a party of adventurers to pass by unhindered, without even revealing themselves. Only when the creature is close to its lair does the chance of attack increase. Animals often fight to protect their territory or their young.
+
+When they do become involved in combat, animals and other creatures rarely fight to the death. When hunting, they certainly try to escape, especially if they are injured. Their interest is in food, If they can’t get it easily, they’ll try again elsewhere. Most often, it is only when pressed, with no avenue of escape, or perhaps when its young are threatened, that an animal will sacrifice its own life.
+
+Of course, in an AD&D game, a creature can attack and fight to the death when that will make for the most drama and excitement. For example, say a group of characters spot a grizzly bear blocking the path ahead of them. Instead of wisely waiting for it to shamble off, the party foolishly puts some arrows into it. Enraged, the beast attacks the party with berserk fury, causing serious harm and teaching them an important lesson before it dies.
+
+'''Intelligent Creatures’'' have more complicated motivations than the need for food and shelter. The DM decides what the creatures want. Greed, hatred, fear, selfdefense, and hunger are all motivations, but they are not all worth dying for.
+
+As a guideline for intelligent creature and NPC motivation, consider the actions of player characters. How often do they fight to the death? Why would they? At what point do they usually retreat?
+
+Certainly, NPC adventurer parties should behave similarly to player characters. After all, their concerns are much the same as those of the player characters—getting cash and improving themselves. They are not very interested in dying.
+
+On the other hand, members of some fanatical sects may willingly sacrifice themselves for the Cause. (Even so, a few have been known to reconsider at the last minute!)
+
+The morale of NPCs and intelligent creatures should also jibe with known facts about his, her, or its personality. If an NPC with the party has been portrayed as cowardly, he probably won’t willingly march into the jaws of death, One noted for his slavish loyalty, on the other hand, might stand his ground, dying to protect his friends or master. There are many choices, and the AD&D® game works best when a person, not the dice, makes the choice.
+
+=== Dicing for Morale ===
+Sometimes there are just too many things going on to keep track of all the motivations and reactions of the participants. For these times, use the following system to determine the morale of the creature or NPC. Never use this system for a player character!
+
+First, do not check morale every round of a combat. Aside from the fact that this slows everything down, it also creates unbalanced and unrealistic battles. Everyone going into a fight expects a little danger. Only when the danger becomes too great should a morale check be rolled. Just when the DM rolls morale checks is a matter of judgment, but the following guidelines should prove useful.
+
+==== Check Monster and NPC Morale When: ====
+* they have been surprised (but only on the first round after surprise);
+* faced by an obviously superior force;
+* an ally is slain by magic;
+* 25% of their group has fallen;
+* 50% of their group has fallen;
+*  acompanion is slain after more than 50% of the group has fallen;
+* their leader deserts or is slain;
+* they are fighting a creature they cannot harm due to magical protections;
+* they are ordered to attempt a heroically dangerous task;
+* they are offered temptation (bribe, chance to steal, etc.)*
+* they are ordered to act as a rear guard (covering a fighting withdrawal);
+* they are ordered to use up or use a charge from a personal powerful magical item;
+* they are offered a chance to surrender (and have met the conditions for one other morale check);
+* they are completely surrounded.
+&#42;In this case, the morale check can be used to see if they agree or refuse.
+
+Obviously, following the guidelines above too strictly can lead to stupid, illogical situations. Players, once they’ve learned the conditions calling for morale checks, may try to abuse the rules. For example, they may think to offer surrender terms to every monster they meet, figuring the odds of the morale check might work out their way.
+
+Don’t let players get away with this, and don’t let the dice overrule logic or drama! When 1st-level player characters offer surrender terms to an ancient red dragon (obviously hoping for a lucky break on the dice), remember what common sense is saying: “There ain’t no way!”
+
+=== How to Make a Morale Check ===
+Table 49 lists the base morale number for various types of creatures. Table 50 lists conditions and situations that can modify this base morale number. To roll a morale check, find the rating that most closely matches the creature. Add or subtract the modifiers that apply to the situation (some modifiers, such as the number of Hit Dice can be calculated in advance). Roll 2d10.
+
+If the total rolled on the dice is equal to or less than the morale rating, the creature is unaffected and keeps on fighting. If the roll is greater, it panics and flees (or takes some other appropriate action).
+
+{| class="wikitable"
+	|+Table 49: MORALE RATINGS
+	! Creature Type
+	! Morale
+	|-
+	| Non-intelligent monster
+	| 18
+	|-
+	| Animal, normal peaceful
+	| 3
+	|-
+	| Animal, normal predator
+	| 7
+	|-
+	| Animal intelligence monster
+	| 12
+	|-
+	| Semi-intelligent monster
+	| 11
+	|-
+	| Low intelligence
+	| 10
+	|-
+	| Average 0-level human
+	| 7
+	|-
+	| Mobs
+	| 9
+	|-
+	| Militia
+	| 10
+	|-
+	| Green or disorganized troops
+	| 11
+	|-
+	| Regular soldiers
+	| 12
+	|-
+	| Elite soldiers
+	| 14
+	|-
+	| Hirelings
+	| 12
+	|-
+	| Henchmen
+	| 15
+|}
+{| class="wikitable"
+	|+Table 50: SITUATIONAL MODIFIERS
+	! Situation
+	! Modifier
+	|-
+	| Abandoned by friends
+	| -6
+	|-
+	| Creature has lost 25% of its hp*
+	| -2
+	|-
+	| Creature has lost 50% of its hp*
+	| -4
+	|-
+	| Creature is chaotic
+	| -1
+	|-
+	| Creature is fighting hated enemy
+	| +4
+	|-
+	| Creature is lawful
+	| +1
+	|-
+	| Creature was surprised
+	| -2
+	|-
+	| Creatures are fighting wizards or magic-using creatures
+	| -2
+	|-
+	| Creatures with ½ HD or less
+	| -2
+	|-
+	| Creatures with more than ½ HD but less than 1 HD
+	| -1
+	|-
+	| Creatures with 4 to 8+ HD
+	| +1
+	|-
+	| Creatures with 9 to 14+ HD
+	| +2
+	|-
+	| Creatures with 15 HD or more
+	| +3
+	|-
+	| Defending home
+	| +3
+	|-
+	| Defensive terrain advantage
+	| +1
+	|-
+	| Each additional check required in round**
+	| -1
+	|-
+	| Leader is of different alignment
+	| -1
+	|-
+	| Most powerful ally killed
+	| -4
+	|-
+	| NPC has been favored
+	| +2
+	|-
+	| NPC has been poorly treated
+	| -4
+	|-
+	| No enemy slain
+	| -2
+	|-
+	| Outnumbered 3 (or more) to 1
+	| -4
+	|-
+	| Outnumber opponent 3 to 1 or more
+	| +2
+	|-
+	| Unable to affect opponent***
+	| -8
+	|-
+	| Wizard or magic-using creature on same side
+	| +2
+|}
+&#42;Or a group that has lost that percentage of monsters or creatures.<br/>
+&#42;&#42; —1/check required.<br/>
+&#42;&#42;&#42;Creatures protected from attack by magic or which require magic weapons in order to be struck and group does not possess these.
+
+=== Failing a Morale Check ===
+When a creature or NPC fails a morale check, its first concern is to escape or avoid whatever situation caused the check in the first place. If it is being overpowered in combat, it tries to flee. If the party’s mage is blasting lightning bolts about, it tries to get away from him.
+
+If there is no place to go, the NPC or monster (if it is intelligent enough) falls down and surrenders—provided it thinks the party is likely to spare its life. A goblin is not about to surrender to a bunch of bloodthirsty dwarves because it knows how kindly those dwarves treat captured goblins! Now, if there just happened to be a nice, compassionate-looking human there, the goblin might give up, if the human could promise it safety.
+
+How drastic a panicked creature’s flight is depends on the DM’s judgment and how much over the base morale the modified die roll was. If the roll was close to what was needed, the creature tries to back out of the combat and find safety nearby. If the morale check was blown badly, the creature just forgets everything and bugs out, casting aside anything that slows it down.
+
+Lawful creatures normally try to fall back in some sort of organized manner—keeping together as a group or, at least, all fleeing to the same place. Chaotic creatures tend to break and run in any direction that promises safety.
+
+'''Example of Morale:''' As the player characters slash through thick underbrush, they stumble across a band of 10 gnolls gnawing on roasted game birds. Neither group is surprised. An elf in the party shouts in the gnolls’ language, “Surrender, you scum of the forest! You haven’t a chance and we’ll let you keep your miserable hides.”
+
+The DM refuses to roll a morale check, since the gnolls don’t know if their enemies are strong r weak. Besides, the DM sees possibilities for a nice dramatic fight in this encounter.
+
+Snarling, the gnolls hurl aside their badly cooked birds. The tallest one grunts out in the local tongue, “I think you wrong, treething. We win fight. We take hides!” He hefts a great mace in his hands. The two groups attack. A furious, slashing battle ensues,
+
+Suddenly, the mage of the party cuts loose a ''magic missile'', killing the largest of the gnolls. Now the DM rolls a morale check, both for the magic and the loss of the leader (applying appropriate modifiers).
+
+The DM decides the gnolls are disorganized troops—a hunting party, not a war party. This gives them a base morale of 11. The gnolls have a —4 penalty (chaotic, fighting mages, and more than one check required in the round), giving an adjusted result of 7.
+
+Two 10-sided dice are rolled, resulting in a 3 and a 2, for a total of 5. They pass the morale check, since the number rolled is less than their modified morale, and decide to keep fighting.
+
+In the next round, an NPC fighter with the party loses 25% of his hit points in wounds. The DM rolls a check for him as a hireling. His base morale is 12, but this is modified by -1 (+2 for mages on his side, -2 for his wounds, and -1 since his employer is lawful good and he is neutral), giving him a morale of 11. He rolls a total of 12—not good enough, so he decides he’s had enough and gets out of the fight, although he only goes so far as to hide behind a nearby tree and watch from safety.
+
+No morale checks are made for the player characters—players make their own decisions,
+
+== Injury and Death ==
+Sometimes, no degree of luck, skill, ability, or resistance to various attacks can prevent harm from coming to a character. The adventuring life carries with it unavoidable risks. Sooner or later a character is going to be hurt.
+
+To allow characters to be heroic (and for ease of play), damage is handled abstractly in the AD&D® game. All characters and monsters have a number of hit points. The more hit points a creature has, the harder it is to defeat.
+
+Damage is subtracted from a character’s (or creature’s) hit points, Should one of the player characters hit an ogre in the sic» of the head for 8 points of damage, those 8 points are subtracted from the ogre’s total hit points, The damage isn’t applied to the head, or divided among different areas of the body.
+
+Hit point loss is cumulative until a character dies or has a chance to heal his wounds.
+
+''Cwell the Fine, with 16 hit points, is injured by an orc that causes 3 points of damage. Fifteen minutes later, Cwell runs into a bugbear that inflicts 7 points of damage, Cwell has suffered 10 points of points of damage. This 10 points of damage remains until Cwell heals, either naturally or through magical means.''
+
+=== Wounds ===
+When a character hits a monster, or vice versa, damage is suffered by the victim. The amount of damage depends on the weapon or method of attack. In Table 44 of Chapter 6 in the ''Player’s Handbook'', all weapons are rated for the amount of damage they inflict to Small, Medium, and Large targets. This is given as a die range (1d8, 2d6, etc.).
+
+Each time a hit is scored, the appropriate dice are rolled and the result (damage) is subtracted from the current hit points of the target. An orc that attacks with a sword, for example, causes damage according to the information given for the type of sword it uses. A troll that bites once and rends with one of its clawed hands causes 2d6 points of damage with its bite and 1d4+4 points with its claw, (The DM gets this information from the ''Monstrous Compendium''.)
+
+Sometimes damage is listed as a die range along witha bonus of +1 or more. The troll’s claw attack, above, is a good example. This bonus may be due to high Strength, magical weapons, or the sheer ferocity of the creature’s attack. The bonus is added to whatever number comes up on the die roll, assuring that some minimum amount of damage is caused. Likewise, penalties can also be applied, but no successful attack can result in less than 1 point of damage.
+
+Sometimes an attack has both a die roll and a damage multiplier. The number rolled on the dice is multiplied by the multiplier to determine how much damage is inflicted. This occurs mainly in backstabbing attempts. In cases where damage is mulltiplied, only the base damage caused by the weapon is multiplied. Bonuses due to Strength or magic are not multiplied; they are added after the rolled damage is multiplied.
+
+== Special Damage ==
+Getting hit by weapons or monsters isn’t the only way a character can get hurt. Indeed, the world is full of dangers for poor, hapless player characters, dangers the DM can occasionally spring on them with glee. Some of the nastier forms of damage are described below.
+
+=== Falling ===
+Player characters have a marvelous (and, to the DM, vastly amusing) tendency to fall off things, generally from great heights and almost always onto hard surfaces, While the falling is harmless, the abrupt stop at the end tends to cause damage.
+
+When a character falls, he suffers 1d6 points of damage for every 10 feet fallen, to a maximum of 20d6 (which for game purposes can be considered terminal velocity). This method is simple and it provides all the realism necessary in the game. It is not a scientific calculation of the rate of acceleration, exact terminal velocity, mass, impact energy, etc., of the falling body.
+
+The fact of the matter is that physical laws may describe the exact motion of a body as it falls through space, but relatively little is known about the effects of impact. The distance fallen is not the only determining factor in how badly a person is hurt. Other factors may include elasticity of the falling body and the ground, angle of impact, shock waves through the falling body, dumb luck, and more.
+
+People have actually fallen from great heights and survived, albeit very rarely, The current record-holder, Vesna Vulovic, survived a fall from a height of 33,330 feet in 1972, although she was severely injured. Flight-Sergeant Nicholas S. Alkemade actually fell 18,000 feet—almost 3.5 miles— without a parachute and landed uninjured!
+
+The point of all this is roll the dice, as described above, and don’t worry too much about science.
+
+=== Paralysis ===
+A character or creature affected by paralysis becomes totally immobile for the duration of the spell’s effect. The victim can breathe, think, see, and hear, but he is unable to speak or move in any manner, Coherent thought needed to trigger magical items or innate powers is still possible.
+
+Paralysis affects only the general motor functions of the body and is not the ultimate destroyer of powerful creatures. It can be particularly potent on flying creatures, however.
+
+'''An Example of Paralysis:''' The adventurers encounter a beholder, a fearsome creature with magical powers that emanate from its many eyes.
+
+After several rounds of combat, the party’s priest casts a ''hold monster'' spell, paralyzing the creature. The paralyzed beholder can still use the spell-like powers of its eyes and can still move about (since it levitates at will). But, on the other hand, it is not able to move its eyestalks to aim. Since all of its eyes were most likely facing forward at the moment of paralysis, the adventurers cleverly spread out in a ring around the creature. To attack one or two of them with its powers, the beholder must turn its back on the rest.
+
+=== Energy Drain ===
+This is a feature of powerful undead (and other particularly nasty monsters). The energy drain is a particularly horrible power, since it causes the loss of one or more experience levels! When a character is hit by an energydraining creature, he suffers normal damage from the attack, In addition, the character loses one or more levels (and thus Hit Dice and hit points). For each level lost, roll the
+
+Hit Dice appropriate to the character’s class and subtract that number of hit points from the character’s total (subtract the Constitution bonus also, if applicable). If the level(s) lost was one in which the character received a set number of hit points rather than a die roll, subtract the appropriate number of hit points. The adjusted hit point total is now the character’s maximum (i.e., hit points lost by energy drain are not taken as damage but are lost permanently). The character’s experience points drop to halfway between the minimum needed for his new (post-drain) level and the minimum needed for the next level above his new level.
+
+Multi-class and dual-class characters lose their highest level first. If both levels are equal, the one requiring the greater number of experience points is lost first.
+
+All powers and abilities gained by the player character by virtue of his former level are immediately lost, including spells. The character must instantly forget any spells that are in excess of those allowed for his new level. In addition, a wizard loses all understanding of spells in his spell books that are of higher level than he can now cast. Upon regaining his previous level, the spellcaster must make new rolls to see if he can relearn a spell, regardless of whether he knew it before.
+
+If a character is drained to Oth level but still retains hit points (i.e., he is still alive), that character’s adventuring career is over. He cannot regain levels and has lost all benefits of a character class. The adventurer has become an ordinary person. A restoration or ''wish'' spell can be used to allow the character to resume his adventuring career. If a Oth-level character suffers another energy drain, he is slain instantly, regardless of the number of hit points he has remaining.
+
+If the character is drained to less than 0 levels (thereby slain by the undead), he returns as an undead of the same type as his slayer in 2d4 days. The newly risen undead has the same character class abilities it had in normal life, but with only half the experience it had at the beginning of its encounter with the undead who slew it.
+
+The new undead is automatically an NPC! His goals and ambitions are utterly opposed to those he held before. He possesses great hatred and contempt for his former colleagues, weaklings who failed him in his time of need. Indeed, his main ambition may be to destroy his former companions or cause them as much grief as possible.
+
+Furthermore, the newly undead NPC is under the total control of the undead who slew it, lf this master is slain, its undead minions of lower level or fewer Hit Dice gain one level or Hit Die for each level they drain from victims until they reach the maximum Hit Dice for their kind. Upon reaching full Hit Dice, these undead are able to acquire their own minions (by slaying characters).
+
+Appropriate actions on the part of the other player characters can prevent a drained comrade from becoming undead. The steps necessary vary with each type of undead and are explained in the monster descriptions in the ''Monstrous Compendium''.
+
+=== Poison ===
+This is an all-too frequent hazard faced by player characters. Bites, stings, deadly potions, drugged wines, and bad food all await characters at the hands of malevolent wizards, evil assassins, hideous monsters, and incompetent innkeepers. Spiders, snakes, centipedes, scorpions, wyverns, and certain giant frogs all have poisons deadly to characters. Wise PCs quickly learn to respect and fear such creatures.
+
+The strength of different poisons varies wildly and is frequently overestimated, The bite of the greatly feared black widow spider kills a victim in the United States only once every other year. Only about 2% of all rattlesnake bites prove fatal.
+
+At the other extreme, there are natural poisons of intense lethality. Fortunately, such poisons tend to be exotic and rare—the golden arrow-poison frog, the western taipan snake, and the stonefish all produce highly deadly poisons.
+
+Furthermore, the effect of a poison depends on how itis delivered. Most frequently, it must be injected into the bloodstream by bite or sting. Other poisons are effective only if swallowed; assassins favor these for doctoring food. By far the most deadly variety, however, is contact poison, which need only touch the skin to be effective.
+
+Table 51 rates poisons for three different factors—method, onset, and strength. Those poisons which commonly appear in the game (such as that delivered by the sting of a giant centipede) are given a specific rating for convenience. Poisons are not listed by name here, since this is neither a scientific text nor a primer on the deadly nature of many plants and animals.
+
+{| class="wikitable"
+	|+Table 51: POISON STRENGTH
+	! Class
+	! Method
+	! Onset
+	! Strength
+	|-
+	| A
+	| Injected
+	| 10-30min.
+	| 15/0
+	|-
+	| B
+	| Injected
+	| 2-12 min.
+	| 20/1-3
+	|-
+	| C
+	| Injected
+	| 2-5 min.
+	| 25/2-8
+	|-
+	| D
+	| Injected
+	| 1-2 min.
+	| 30/2-12
+	|-
+	| E
+	| Injected
+	| Immediate
+	| Death/20
+	|-
+	| F
+	| Injected
+	| Immediate
+	| Death/0
+	|-
+	| G
+	| Ingested
+	| 2-12 hours
+	| 20/10
+	|-
+	| H
+	| Ingested
+	| 1-4 hours
+	| 20-10
+	|-
+	| I
+	| Ingested
+	| 2-12 min.
+	| 30/15
+	|-
+	| J
+	| Ingested
+	| 1-4 min.
+	| Death/20
+	|-
+	| K
+	| Contact
+	| 2-8 min.
+	| 5/0
+	|-
+	| L
+	| Contact
+	| 2-8 min.
+	| 10/0
+	|-
+	| M
+	| Contact
+	| 1-4 min.
+	| 20/5
+	|-
+	| N
+	| Contact
+	| 1 minute
+	| Death/25
+	|-
+	| O
+	| Injected
+	| 2-24 min.
+	| Paralytic
+	|-
+	| P
+	| Injected
+	| 1-3 hours
+	| Debilitative
+|}
+
+'''Method:''' The method is the way in which the poison must normally be used to have full effect. Injected and ingested have no effect on contact. Contact poisons have full effect even if swallowed or injected (since both are forms of contact). Injected or ingested poisons have half their normal effect if administered in the opposite manner, resulting in the save damage being applied if the saving throw is failed and no damage occurring if the saving throw is made.
+
+'''Onset:''' Most poisons require time to work their way through the system to reach the areas they affect. Onset is the time that elapses before the poison’s effect is felt. The effect of immediate poisons is felt at the instant the poison is applied.
+
+'''Strength:''' The number before the slash lists the hit points of damage suffered if the saving throw is failed. The number after the slash lists the damage taken (if any) if the saving throw is successful, Where Death is listed, all hit points are immediately lost, killing the victim. Note that in some cases a character may roll a successful saving throw and still die from the hit point loss.
+
+Not all poisons need cause damage. Two other common effects of poison are to paralyze or debilitate a victim.
+
+Paralytic poisons leave the character unable to move for 2d6 hours. His body is limp, making it difficult for others to move him, The character suffers no other ill effects from the poison, but his condition can lead to quite a few problems for his companions.
+
+Debilitating poisons weaken the character for 1d3 days. All of the character’s ability scores are reduced by half during this time. All appropriate adjustments to attack rolls, damage, Armor Class, etc., from the lowered ability scores are applied during the course of the illness. Furthermore, the character moves at one-half his normal movement rate. Finally, the character cannot heal by normal or magical means until the poison is neutralized or the duration of the debilitation is elapsed.
+
+==== Treating Poison Victims ====
+Fortunately, there are many ways a character can be treated for poison, Several spells exist that either slow the onset time, enabling the character the chance to get further treatment, or negate the poison entirely. However, cure spells (including heal) do not negate the progress of a poison, and ''neutralize poison'' doesn’t recover hit points already lost to the effects of poison, In addition, characters with herbalism proficiency can take steps to reduce the danger poison presents to player characters.
+
+==== Creating New Poisons ====
+Using the three basic characteristics—method, onset, and strength—and bearing in mind the debilitating and paralyzing effects of some poisons, it is possible to create new varieties. However, always introduce poisons and poisonous creatures with great care, especially when dealing with low-level characters. Unlike most other ways a character can be hurt, the life or death of a poisoned character often depends on a single die roll. It is essential that player characters be treated fairly, or they will quickly lose interest in the game.
+
+== Specific Injuries (Optional Rule) ==
+The AD&D® combat system does not call for specific wounds—scars, broken bones, missing limbsm and the like—and in most cases they should’t be applied. Remeber that this is a game of heroic fantasy. If characters were to suffer real-life effects from all their battles and combats, they would quickly be some of the sorriest and most depressing characters in the campaign world. It’s hard to get excited when your character is recovering from a broken legg and a dislocated shoulder suffered in a fall off a 15-foot wall. It is not recomended that characters suffer specific injuries—in general, stick with the basic pool of hit points.
+
+=== Is This Injury Necessary? ===
+Before adding specific injuries to a campaign, consider all the factors: If the injury is one that can be healed, such as a broken arm, how long does this healing take? What are the effects on the character while the arm heals? Is there some quick way to get healed? Will the player still be able to have fun while his character is an invalid? Only after considering these questions satisfactorily should a specific injury be used.
+
+DMs cna use specific injuries to lessen a character’s ability scores. A member of the party may acquire a prominent scar, lowerinf his Charisma by one point. (Though, in this case, you’ll want a ready explanation of why a scar had this effect—in some instrances a scar can actualy enhance the personality of a person. It can make him look tougher, more mysterious, more worldly, more magnetic, all things that could conceivably increase a character’s Charisma.)
+
+Similarly, the loss of a character’s finger or eye could be used as an excuse to lower a excessively high Dexterity. Loss of an arm could reduce Strength (among other things).
+
+Don’t overdo this brute force approach to player control. Players get attached to their characters; they getr used to thinking of them and role-playing them a particular way. Mess with this too much and you’ll find players deserting your campaign.
+
+Within reason, it’s okay to leave a character physically marked. This leads to good role-playing. It adds to the feeling that each character is unique, making one player’s fighter, wizard, whatever different from all others. A scar here, an eye patch therem or a slight limp all results in more of an individual character and thus one more interesting to role-play.
+
+But in these cases physical effects are tailoring  the character, not punishing the player. Always try to be fair, and ask the question, “Would I want to role-play such a character?” If the answer is no, then it’s likely the player won’t want to either. Don’t load players with handicaps—their characters have enough og a challenge as it is.
+
+== Healing ==
+Once a character is wounded, his player will naturally want to get him healed. Characters can heal either by natural or magical means. Natural healing is slow, but it’s available to all characters, regardless of class. Magical healing may or may not be available, depending on the presence (or absence) of spellcasters or magical devices.
+
+The only limit to the amount of damage a character can recover through healing is the total hit points the character has. A character cannot exceed this limit until he gainsa new level, whereupon another Hit Die (or a set number of points) is added to his total. Healing can never restore more hit points to a character than his maximum hit point total.
+
+=== Natural Healing ===
+Characters heal naturally at a rate of 1 hit point per day of rest. Rest is defined as low activity— nothing more strenuous than riding a horse or traveling from one place to another. Fighting, running in fear, lifting a heavy boulder, or any other physical activity, prevents resting, since it strains old wounds and may even reopen them.
+
+If a character has complete bed-rest (doing nothing for an entire day), he can regain 3 hit points for the day. For each complete week of bed rest, the character can add any Constitution hit point bonus he might have to the base of 21 points (3 points per day) he regained during that week.
+
+In both cases above, the character is assumed to be getting adequate food, water, and sleep. If these are lacking, the character does not regain any hit points that day.
+
+=== Magical Healing ===
+Healing spells, potions, and magical devices can speed the process of healing considerably. The specifics of such magical healing methods are described in the spell descriptions in the ''Player’s Handbook'' and in this book (for magical items). By using these methods, wounds close instantly and vigor is restored. The effects are immediate.
+
+Magical healing is particularly useful in the midst of combat or in preparation for a grievous encounter. Remember, however that the characters’ opponents are just as likely to have access to magical healing as the player characters—an evil high priest is likely to carry healing spells to bestow on his own followers and guards. Healing is not, of itself, a good or evil act.
+
+Remember that under no circumstances can a character be healed to a point greater than his original hit point total. For example, say a character has 30 hit points, but suffers 2 points of damage in a fight. A while later, he takes an additional point of damage, bringing his current hit point total to 27. A spellcaster couldn’t restore more than 3 points to him, regardless of the healing method used. Any excess points are lost.
+
+=== Herbalism & Healing Proficlencies ===
+Characters can also gain minor healing benefits from those proficient in the arts of herbalism and healing. These talents are explained in Chapter 5 of the ''Player’s Handbook''.
+
+== Character Death ==
+When a character reaches O hit points, that character is slain. The character is immediately dead and unable to do anything unless some specialized magical effect takes precedence.
+
+=== Death from Poison ===
+Poison complicates this situation, somewhat. A character who dies as a result of poisoning may still have active venom in his system.
+
+Poisons remain effective for 2d6 hours after the death of the victim. If the character is raised during this time, some method must be found to neutralize the poison before the character is restored to life. If this is not done, then after the character rolls the resurrection survival check given in “Raising the Dead” (and assuming the roll is successful), he must immediately roll a successful saving throw vs. poison or suffer all the effects of the poison in his body, as per the normal rules. This may only injure some characters, but it may kill other characters seconds after being raised!
+
+=== Death from Massive Damage ===
+In addition to dying when hit points reach 0, a character also runs the risk of dying abruptly when he suffers massive amounts of damage. A character who suffers 50 or more points of damage from a single attack must roll a successful saving throw vs. death, or he dies.
+
+This applies only if the damage was done by a single attack. Multiple attacks totaling 50 points in a single round don’t require a saving throw,
+
+For example, a character would be required to make a check if a dragon breathed on him for 72 points of damage. He wouldn’t have to do so if eight orcs hit him fora total of 53 points of damage in that round.
+
+If the saving throw is successful, the character remains alive (unless of course the 50- hit-point loss reduced his hit points to 0 or below!). If the saving throw fails, the character immediately dies from the intense shock his body has taken. His hit points are reduced to 0.
+
+The character may still be raised in the normal ways, however.
+
+=== Inescapable Death ===
+There are occasions when death is unavoidable, no matter how many hit points a character has.
+
+A character could be locked in a room with no exits, with a 50-ton ceiling descending to crush him. He could be trapped in an escape-proof box filled completely with acid, These examples are extreme (and extremely grisly), but they could happen in a fantasy world.
+
+As a general guideline, inescapable deaths should be avoided—characters should always have some chance to escape a hopeless situation, preferably by using common sense and intelligence. This maintains the interest of the players and helps them retain their trust in the DM.
+
+However, if a situation of inescapable death occurs, the character dies, there is no need to play such a situation out round-byround, gradually building up hit point losses. Allow the player to attempt reasonable (and perhaps even truly heroic) methods of escape. If these fail, simply inform the player of the demise of his character. The doomed character is assumed to have lost all hit points.
+
+=== Ralsing the Dead ===
+Curative and healing spells have no effect on a dead character—he can only be returned to life with a ''raise dead'' or resurrection spell (or a device that accomplishes one of these effects). Each time a character is returned to life, the player must roll a resurrection survival check based on his current Constitution (see Table 3 in the ''Player’s Handbook''). If the die roll is successful (i.e., the player rolls equal to or less than his resurrection survival percentage), the character is restored to life in whatever condition is specified by the spell or device.
+
+A character restored to life in this way has his Constitution permanently lowered by 1 point, This can affect hit points previously earned, Should the character’s Constitution bonus go down, the character’s hit point total is reduced by the appropriate number of hit points (the amount of hit point bonus lost is multiplied by the number of levels for which the character gained extra hit points from that bonus). When the character’s Constitution drops to 0, that character can no longer be raised. He is permanently removed from play.
+
+=== Hovering on Death’s Door (Optional Rule) ===
+You may find your campaign has become particularly deadly. Too many player characters are sia dying,feteretaas If this happens, you may want es reach or drop below 0.
+
+When this rule is in use, a character in remain alive until his hit points reach —10, However, as soon as the character reaches0 hit points, he falls to the ground unconsious.
+
+Thereafter, he automatically loses one hit point each round. His survival from this point on depends on the quick thinking of his companions. If they reach the character before his hit points reach —10 and spend at least one round tending to his wounds (stanching the flow of blood, oy the character does not die immediately.
+
+If the only action is to bind his wounds, the injured character no longer loses one hitpoint each round, but neither does he gain any. He remains unconscious aed volar to damage from further attacks.
+
+If a ''cure'' spell of some type is cast upon him, the character is immediately restored to 1 hit point—no more. Further ''cures'' do the character no good until he has had at least one day of rest. Until such time, he is weak and feeble, unable to fight and barely able to move. He must stop and rest often, can’t cast spells (the shock of near death has wiped them from his mind), and is generally confused and feverish. He is able to move adn can hold somewhat disjointed conversations, and that’s it.
+
+If a ''heal'' spell is cast on the character, his hit points are restored as per the spell, and he has full vitality and wits. Any spells he may have known are still wiped from his memory, however, (Even this powerful spell does not negate the shock of the experience.)
+
+== Unusual Combat Situations ==
+Although most adventurers spend most of their time on foot, and on good old solid land where common sense and the normal combat rules can be applied, the player characters are operating in a fantasy world.
+
+Sooner or later, player characters are going to lay siege to a castle, or leap on their horses, or learn how to ride an exotic flying creature. Eventually, they’re going to pick up and go adventuring in some totally weird environment where the normal laws of physics just don’t apply. Here, you’ll find rules and guidelines for some ordinary, and not so ordinary combat situations.
+
+=== Siege Damage ===
+The DM will often encounter situations in which it is important that a stronghold be broken into. In these situations, the overall employment of siege tactics should be secondary to the thrill and glory of the players going “mano-a-mano” with their foes — in other words, the battle should be the background against which the players act. Sixteen months of siege may be realistic, but it isn’t much fun!
+
+The critical point in a siege is that moment when the walls face a direct assault. This is especially true in a role-playing adventure. The following table simplifies this process of breaking down walls, To use the table, the DM determines what type of wall is being assaulted, and its closest approximation on the Table. Cross-reference the type of attack being made and roll 1D20. If the resulting roll is higher than the number required, the attack does no significant damage; if the roll is lower, the wall begins to give way.
+
+For each point below the required saving throw, the structure loses one cubic foot of structure. For example, suppose a stone wall 10’ thick fails its saving throw by six points. The wall now loses a portion of its structure equal to six cubic feet of area (i.e., a hole two feet wide, three feet high, and one foot deep).
+
+{| class="wikitable"
+	|+Table 52: STRUCTURAL SAVING THROWS
+	! 
+	! colspan="5"| Wall Type
+	|-
+	! Attack Forms
+	! Hard Stone
+	! Soft Stone
+	! Earth
+	! Thin Wood
+	! Thick Wood
+	|-
+	| Ballista
+	| 2
+	| 3
+	| 4
+	| 10
+	| 5
+	|-
+	| Giant fist
+	| 3
+	| 4
+	| 7
+	| 16
+	| 9
+	|-
+	| Small catapult
+	| 4
+	| 8
+	| 5
+	| 17
+	| 9
+	|-
+	| Ram
+	| 5
+	| 9
+	| 3
+	| 20
+	| 17
+	|-
+	| Screw or drill
+	| 12
+	| 15
+	| 16
+	| 20
+	| 12
+	|-
+	| Large catapult
+	| 8
+	| 11
+	| 10
+	| 20
+	| 13
+|}
+
+=== Mounted Combat ===
+Fighting on horseback (or on a wyvern, unicorn, or pegasus, or whatever) is rather a different affair from battling it out on solid ground. For one thing, the fighters must deal with their mounts—unpredictable and sometimes skittish creatures. Furthermore, the business of fighting on horseback demands different tactics from foot combat.
+
+==== Mounts—Trained and Untrained ====
+Mounts trained for combat (a heavy warhorse, for example) present few problems. These can be used in mounted combat with no penalties. However, steeds not trained for combat are easily frightened by the noise and confusion.
+
+Those fighting from the back of untrained creatures suffer a —2 on their chance to hit, since much of their time is spent simply trying to keep the mount under control.
+
+'''Panic:''' The rider of an untrained mount must make a Riding proficiency check whenever the mount is injured or startled by a surprising event (such as a lightning bolt blasting the rider or someone close by).
+
+If the check fails, the mount panics and bolts, carrying its rider up to 11/2 times its normal move. Although the mount panics in a more or less random direction, it goes generally forward unless that carries it straight into the face of danger. If unable to flee, a panicked mount rears and bucks uncontrollably.
+
+Characters without the Riding proficiency automatically lose control of a panicked mount. A proficient character can attempt to regain control once per round. Regardless of the rider’s proficiency (or lack), the mount’s panic lasts only 1d4 rounds.
+
+==== Fighting from Horseback ====
+In mounted fighting, a character gets a +1 bonus to his chance to hit creatures smaller than his mount. Thus, a man on horseback gains a +1 bonus to his attack rolls against all medium-sized creatures such as other men, but would not gain this bonus against another rider or a giant. Those on foot who fight against a mounted rider, have a —1 penalty to attack rolls against the rider. This penalty is not applied to attacks against the mount, however.
+
+'''Lances’'' are the preferred weapons of the mounted rider. However, the type of lance used (light, medium, or heavy) can’t be greater than the size of the horse ridden (light, medium, or heavy).
+
+Medium and heavy lances gain their striking power from the momentum of the mount. By themselves, these lances are not capable of doing significant damage. Simply stabbing someone with a heavy lance won’t produce much in the way of results. Therefore, these weapons are most effective when there’s plenty of attack space.
+
+During the first round of a battle, a rider can attack with a heavy or medium lance. After this, however, the rider must break off (most likely by continuing past his opponent), turn his mount, and gallop back again. This series of actions takes one round. Thus, at best, a rider can attack with a lance once every other round.
+
+If the rider wants to continue the fight close in, he must throw the lance to the ground and draw another weapon. Often, lances are used for the first attack and then discarded in favor of swords, maces, etc.
+
+Another consideration to bear in mind when using a lance is that lances are breakable. Heavy and medium lances are relatively inflexible. The DM can make an |tem Saving Throw (for crushing blow) on each successful hit. A light lance is made with a great deal of spring (bamboo or cane are common materials). An Item Saving Throw is made only if the number needed to hit is rolled exactly (after modifiers).
+
+'''Missile fire’'' from the back of a moving horse is possible only if the rider is proficient in horsemanship. Even then, only short bows, composite short bows, and light crossbows can be fired from horseback by normally proficient characters.
+
+Long bows can be used by those with specialization (if this is used), Heavy crossbows can be fired once, but cannot be reloaded by a mounted man since the bracing and pull is inadequate.
+
+If the mount is not moving, the rider can fire normally (with full ROF and chance to hit). When firing while on the move, the rider has his rate of fire reduced by one (a 2- shot-per-turn ROF becomes a 1-shot-perturn; a 1-shot-per-turn ROF becomes a 1 shot every two turns; and so on).
+
+In addition, the distance moved modifies the attack rolls according to Table 53.
+
+{| class="wikitable"
+	|+Table 53: MOUNTED MISSILE FIRE
+	! Mount’s Current Movement
+	! Modifier
+	|-
+	| Not moving
+	| 0
+	|-
+	| Less than ½ normal rate
+	| -1
+	|-
+	| ½ to ¾ normal rate
+	| -3
+	|-
+	| Greater than ¾ normal rate
+	| ~5
+|}
+
+==== Being Dismounted ====
+The other great hazard and difficulty of mounted combatants is the risk of being abruptly and rather rudely dismounted. An opponent can make this happen in one of several ways.
+
+'''Killing the Mount:''' This is the grim and efficient method. Once the horse (often an easier target) is dead, the rider is certainly dismounted. The steed automatically falls to the ground.
+
+If the rider has Riding proficiency, he can attempt to land safely on his feet (on a successful check). Otherwise, the character also falls to the ground and suffers 1d3 points of damage. The character cannot take any action that round and must spend another entire round gathering himself back up and getting to his feet.
+
+'''Lassoing the Rider:''' The more heroic method of dismounting someone is to try and bring down the rider without harming the mount. This is also more desirable from a bandit’s point of view, as he would rather have a live horse than a dead one.
+
+Certain weapons (such as the lasso) can be used to yank a rider off his speeding mount. However, riders with Riding proficiency can attempt to stop short, reining the horse in before the rope is fully played out. If the check is successful, the horse stops before the line goes taut. The rider remains mounted, albeit still lassoed.
+
+Whether the proficiency check is made or missed, the person or monster wielding the lasso must make a Strength check witha +3 bonus for every size category he’s bigger than the rider (or a ~3 penalty for every size category smaller). A 20 is always a failure and a 1 always succeeds (unless the DM deems the result utterly preposterous). If the check is successful, the roper remains standing and the rider falls. If the check fails, the fellow on the ground gets yanked down (and possibly dragged along).
+
+'''Weapon Impact:''' Riders can also be knocked off by solid blows from a variety of weapons. Any time a rider hits another mounted character (or creature) with a melee weapon 3’ or longer and scores a natural 20 on the roll, the other character is knocked from the saddle, suffering 1d3 points of damage (if from the back of a normal horse).
+
+Foot soldiers with weapons of 10’ or greater have the same chance. Riders with Riding proficiency can attempt to retain their seating by rolling a successful proficiency check.
+
+'''The Flying Tackle:''' Finally, those on horseback can attempt to dive on another rider by making an attack roll. If the attack roll misses, the attacker falls to the ground, suffering 1d3 points of damage (more, at the DM’s discretion, if the mount is larger than a horse).
+
+If the attack roll succeeds, the target must roll a successful Dexterity check to remain in the saddle. If this roll succeeds, the rider remains mounted, but the attacker is hanging on his side, feet dangling just above the ground.
+
+If the attack succeeds and the Dexterity roll is failed, both the rider and the attacker fall to the ground. Footsoldiers can also attempt to pull down a rider. This is handled by the rules for overbearing.
+
+=== Aerial Combat (Tournament Rule) ===
+On first examination, aerial combat seems just like normal ground combat. The only real difference is that the ground can be anywhere from 10 feet to 100 miles (or more!) below. This little difference, however, leads to a number of special problems and effects that never come into play during a ground battle!
+
+The biggest  difference is that everyone (except the rare creature able to hover) has to keep moving forward. Stop flying and the result is afall, often with disastrous results. Two flying creatures simply cannot face off in toe-to-toe combat.
+
+Battles are fought in a series of passes, as each creature tries to swoop down on the other, attack, wheel, and return before the other can respond. Speed and maneuverability are even more important factors in an aerial battle than in an ordinary one.
+
+Another big difference is that aerial battles are fought in three dimensions. While this is hardly surprising to creatures of the air, it often causes the plans and tactics of groundlings, accustomed to only two dimensions, to go awry.
+
+In the air, attacks can come from ahead, alongside, above, behind, below, or any combination of these. A paladin riding a pegasus may find himself beset by harpies swooping from high and in front, low and to the right side, high and from the rear, and even straight down from above. Clearly, standard methods of defense and attack that work on the ground are going to do him little good here.
+
+There are two ways of running aerial battles: the Tournament rules and the Optional rules. The Tournament rules can be used in any situation, but rely on the descriptions of the DM and the imaginations of the players for much of their effect. The Optional rules provide a more detailed system for fighting aerial battles with miniatures. The Tournament rules begin below; the Optional rules can be found on page 78.
+
+==== Maneuverability Classes ====
+How thightly a creature is able to turn is an important factor in aerial combat. To measure this, all flying creatures have a class ranking from A to E (with A being the best and E the worst). In general, creatures with a better maneuverability class can attack more often and more effectively, reflecting their advantage in the air.
+
+'''Class A’'' creatures have virtually total command over their movements in the air; it is their home. They can maneuver in the air with the same ease as an normal person on the ground, turning at will, stopping on a dime, and hovering in place. For them, flying is the same as walking or running.
+
+Class A creatures can face any given direction in a round, and are virtually impossible to outmanuever in the air. Fighting in the air is no different from fighting on the ground for them, so they can easily attack every round. This class includes creatures from the elemental plane of Air and creatures able to fly magically, without the use of wings.
+
+'''Class B’'' creatures are the most maneuverable of all winged creatures, although they lack the utter ease of movement of class A creatures. They ara able to hover in place, and so are the only winged creatures that do not need to maintain forward movement in a battle. The creatures can turn 180 degrees in a single round adn can make one pass every round. This class includes pixies, sprites, sylphs, and most giant insects.
+
+'''Class C’'' includes most normal birds and flying magical items. Forward momentum must be maintained by moving at least half the normal movement rate (although some magical tems may be exempted from this). Creatures in this class can turn up to 90 degrees in a single round and can make one pass every two rounds. Gargoyles and harpies fall into this class. Dragons, although huge, are amazingly maneuverable and fall into this class.
+
+'''Class D’'' creatures are somewhat slow to reach maximum speed and make wide turns. Forward movement equal to at least half the movement rate is required. Turns are limited to 60 degrees in a single round. Class D creatures can make only one pass every three rounds, Pegasi, pteranodons, and sphinxes all fall into this class.
+
+'''Class E’'' is for flyers so large or clumsy (or both) that tight maneuvering is impossible. The creature must fly at least half its movement rate, and can only turn up to 30 degrees in a single round. Thus, it can make just on pass every six rounds. This class includes rocs and other truly gigantic creatures.
+
+==== Levitation ====
+Levitating creatures don’t truly fly, and their movement is generally limited to up or down. Leveitating creatures that are able to move freely are assumed to be class A. Otherwise, the power does not grant any maneuverability and so is not assigned a class.
+
+==== Altitude ====
+The relative elevation of combatants is important for a variety of reasons, but as far as combat goes, it has little real effect. If flying creatures wish to fight, they must all be flying at approximately the same height. If one of the creatures flees and the others do not pursuem he gets away. Simple.
+
+Altitude does affect the action in some ways, however. The DM should kep the following guidelines in mind as he listens to what players want to do (and decides how creatures and NPCs will react).
+
+Creatures cannot charge those above them, although those above can dive (gaining the charge bonus).
+
+Only creatures with natral weapons or riders with L weapons (such as a lance) can attack a creature below them. Attacks from below suffer a -2 penalty to the attack roll, as the reach and angle make combat difficult.
+
+==== Combat Procedure ====
+Aerial combat is based on maneuverability. When flying creatures fight, compare the maneuverability class of the different combatants. If these are all identical, the combat is conducted normally. When maneuverability classes differ, creatures with the better class gain several advantages.
+
+For each difference in class, the more maneuverable flyer subtracts one from his initiative die rolls. His maneuverability increases his ability to strike quickly and to strike areas that are difficult to protect.
+
+'''Breath Weapons’'' are more problematic in aerial combat than on the ground. Creatures using breath weapons find their fields of fire slightly more restricted than usual, making the attack slightly harder to use. Dragons, in particular find it difficult to use their breath weapons to the side and rear while flying forward.
+
+Those within a 60-degree arc of the front of the creature roll saving throws vs. breath weapons normally. Creatures outside this arc save with a +2 bonus to the die roll.
+
+'''Missile Fire’'' is also difficult in aerial combat. Those mounted on a flying creature or magical device suffer all the penalties for mounted bowfire, page 76. Hovering is the same as standing still and incurs no penalty.
+
+Characters using missile fire while levitating suffer a 01 cumulative penalty for each round of fire, up to a maximum of -5. (Levitation is not a stable platform, and the reaction from the missile fire creates a gradually increasing rocking motion.) A round spent doing nothing allows the character to regain his balance. Medium and heavy crossbows cannot be cocked by levitating characters, since they have no point of leverage.
+
+==== Air-to-Ground Combat ====
+When attacking a creature on the ground (or one levitating and unable to move), the flyer’s attacks are limited by the number of rounds neede to complete a pass.
+
+''For example, a dragon flies out of its cave to attack the player characters as they near its lair. On the first round it swoops over them, raking the lead character with its claws. Since its maneuverability is C, it then spends 1 round wheeling about and swooping back in to make another attack on the third round of combat. Of course, during this time, its flight will more than likely take it out of range of the player characters.''
+
+==== Escaping ====
+When a creature tries to break off from combat, its ability to escape depends on its maneuverability and speed. Creatures both faster and more maneuverable than their opponents can escape combat with no penalties. The free attack for fleeing a combat is not allowed, since the other flyer is also in motion (proabaly in the opposte direction!)
+
+If a creature is faster but not more maneuverable, it can break off simply outrunning its opponent. The other cannot keep pace. In this case, a free attack for fleeing is allowed.
+
+If the creature is slower, regardless of maneuverability, an initiative roll must be made (modified by the maneuverability of the flyers). If the fleeing creature’s initiative roll is lower than that of the pursuer, the creature has managed to flee (although suffering the usual attack for fleeing).
+
+==== Damage ====
+Any winged creature that loses more than 50% of its hit points cannot sustain itself in the air and must land as soon as possible, The creature can glide safely to the ground, but cannot gain altitude or fly faster than half its normal movement rate.
+
+If no safe landing point is available, the creature is just out of luck. Since the circumstances of a crash landing can vary greatly, the exact handling of the situation is left to the DM. The falling rules (page 72) may come in handy, though a vivid imagination may be even more helpful.
+
+=== Aerial Combat (Optional Rules) ===
+These optional rules provide more precision about just what is happening in an aerial battle. However, these battle require the use of miniatures or counters and generally take longer to resolve. All of the aerial combat rules above remain in effect except where specifically contradicted below.
+
+==== Movement ====
+Movement is measured in inches (1 inch = 10 feet of movement) and the pieces are moved on the tabletop or floor. The maneuverability classes determine how far a figure can turn in a single round. (A protractor is handy for figuring this.) Turns can be made at any point in the round, provided the total number of degrees turned is not exceeded in the round and there is at leas 1 inch of movement between turns.
+
+==== Climbing and Diving ====
+Players keep track of the altitude of their flyers by noting the current altitude on a slip of paper. Like movement, this can be recorded in inches of altitude. A creature can climb 1 inch for every inch of forward movement used to climb.
+
+Creatures of class C and worse have a minimum air speed, and must spend at least half their movement rate for going forward. Thus they cannot fly straight up and can only climb at a maximum of ½ their normal movement rate.
+
+Diving creatures gain speed, earning an additional inch to their movement for every inch they dive, up to their maximum movement rate. Thus a creature able to fly 12“ could move 24“ by diving for its entire movement, since each inch of diving adds one inch of movement.
+
+A diving creature must fly the full distance it gains diving, although it need not fly its full normal movement. A creature with a movement of 12 could not dive 9“ and fly 6“ forward. It must move forward at least 9“, the distance it dove.
+
+==== Attacking ====
+Since the exact positions of the flying units are marked by miniatures, several abstractions for aerial combat are not used.
+
+Die roll modifiers for maneuverability are ignored. These simulated the ability of more acrobatic creatures to gain an advantage over clumsier flyers. When playing with miniatures or counters, this task is left to the players.
+
+Likewise, the number of rounds required to make a pass are not used, as this becomes evident from the position of the pieces.
+
+When a diving creature makes an attack, it is considered to be charging. Charging creatures gain the normal combat bonus. Lances and spears do double damage in a charge. Furthermore, creatures with talons or claws cause double damage when they hit during a dive.
+
+=== Underwater Combat ===
+An oft-neglected, but fascinating, area for adventure is that great and mysterious realm that lies beneath the waves. Here, ancient civilizations, green and dark, lie waiting to be discovered. Vast treasure hordes are said to lie scattered and open on the murky bottom. Creatures, fearsome and fanciful, rule kingdoms unknown to man. Many are the mysteries of the ocean, but, in order to solve them, players must deal with some unusual problems.
+
+==== Breathing ====
+The biggest problem facing characters underwater is, naturally, breathing. Before any kind of underwater adventure is undertaken, they have to find some way to stay underwater for long periods of time.
+
+Characters can use magical spells or devices; they can use water breathing potions; they can even ''polymorph'' themselves into underwater creatures (although this might lead to other, unexpected problems). If none of these solutions seems workable, the DM can provide oxygensupplying seaweeds or kelps the characters can eat.
+
+Without some method of breathing underwater, the characters are going to have a very short adventure! Rules for holding one’s breath (a short-term solution, at best!) and drowning can be found in Chapter 14 of the ''Player’s Handbook''.
+
+==== Movement ====
+There are two basic ways to move in water—swimming or sinking like a stone and walking on the bottom. Rules for swimming can be found on pages 120-122 of the ''Player’s Handbook''. In rare cases, player characters may be able to find and use trained mounts such as giant seahorses.
+
+==== Vision ====
+One major limitation of underwater combat is the lack of available light. In fresh water, vision is limited to a base of 50°. This is reduced by 10’ for every 10’ of depth. Characters exploring the depths of a murky lake, 50’ below the surface, could see about 10’. Below this, the darkness would close in about them.
+
+In salt water, which has somewhat less algae, the base extends out to 100’, modified for depth in the same way as fresh water.
+
+==== Natural and Artificial Light ====
+The vision guidelines above assume a bright sunlit day on the surface overhead. On overcast days, the distance a character sees can be reduced by half or more. On moonless nights a character’s range of vision is virtually nil.
+
+Artificial light sources function underwater (although players will have to think fast to keep torches and lanterns lit!). Artificial light sources illuminate half the space under water that they normally light on the surface.
+
+==== Obscured Vision ====
+In addition to low light, vision can be obscured by seaweed, sea grass, and kelp forests. These hamper vision in much the same way as thick brush on the surface.
+
+Schools of fish with their often silvery scales can reflect and scatter light in hundreds of different directions, creating a shining cloud of confusion. Even without the reflection, their darting forms obscure an area.
+
+Finally, the ink from a giant squid, or even mud stirred up from the bottom, have all the effects of a ''darkness'' spell. Infravision and light have no success penetrating such murky waters.
+
+==== Infravision ====
+Infravision functions underwater, though not with the same efficiency as on the surface. In no case does it extend past the normal ranges allowed in dungeons. Inaddition, the sheer alienness of the environment makes it difficult for the character to be certain of all he sees.
+
+==== Combat ====
+The greatest factor in fighting underwater is overcoming the resistance of the water. Even though a weapon still retains its mass and density, the resistance of the water greatly weakens the impact of any blow, Thus, only thrust weapons can be used effectively underwater (except for those possessing magical items that enable free action).
+
+Thrown and hurled weapons (except nets) are useless underwater. Of the missile weapons, only specially made crossbows can be used effectively underwater. Even so, all ranges on these weapons are reduced by half.
+
+Nets are particularly effective in underwater combat. They tend to remain spread once opened, and characters should find them useful for close-in combat. Properly weighted, nets can be thrown by tossing them with a slight spin, so that the force of rotation keeps the lines taut. The range is very short, only 1’ for every point of the thrower’s Strength.
+
+==== Combat Problems of Surface-Dwellers ====
+In combat, surface-dwellers suffer special disadvantages when fighting the races of the sea. Being unaccustomed to the water resistance and changes in apparent weight, surfacedwellers add four to their initiative rolls in hand-to-hand combat. This does not apply to missile fire or spellcasting. Surface-dwellers also suffer a ~4 penalty to their attack rolls, due to the slowness of their movements.
+
+==== Underwater Magic ====
+Spells are also affected by the underwater world, Not surprisingly, fire-based spells have no effect unless cast in an area of free oxygen (such as a domed city).
+
+Electrical spells conduct their energy into the surrounding water. Thus, a ''lightning bolt'' originating 60’ away from the caster acts like a ''fireball'' at the point of origin,
+
+Spells affecting forces of nature not normally found underwater have no effect— ''call lightning'', for example. Spells that summon or command creatures not native to the depths are also pointless.

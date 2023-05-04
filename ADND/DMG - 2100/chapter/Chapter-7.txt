@@ -1,0 +1,231 @@
+= Chapter 7: Magic =
+Of all the areas of the AD&D® game that you will be called upon to judge, magic is perhaps the most diverse and demanding. Magic allows characters to break all the natural laws of the universe, a situation that can lead to unforeseen, but highly exciting situations. Be sure you understand how magic works in the AD&D® game and the different ways you can control its use.
+
+== Initial Wizard Spells ==
+One control you have over the power of wizards is the choice of spells available at the start of the game. Each wizard begins the game with a spell book, but he has no information on what that book contains, You tell him. You can choose from several different answers. Based on your choice, the player acquires spells (and their reverse) for his character’s spell book.
+
+=== Player Choice ===
+The simplest way to give a wizard spells is to throw the ball back into the player’s court—ask him what spells he would like. As he names a spell, have him roll to see if his character can learn it. If he can, the player writes the spell on his character sheet. If he can’t, one of you should note that he cannot learn that spell.
+
+Keep doing this until all the Ist-level spells have been checked or until the character reaches the maximum number of spells his character is allowed to learn (depending on Intelligence). This allows the player to get the spells he wants for his character, which usually makes the player happy, but it does have some drawbacks.
+
+First, players tend to pick the spells they consider the most powerful. While this is not bad if you have only one or two wizards, a whole horde of the fellows, all with identical spells, gets pretty boring.
+
+There is also a chance the character will overlook some basic spells he really needs to function as a wizard —''read magi''c and ''detect magic'', in particular. A wizard who cannot read a magical scroll is deprived of one of the important abilities of his class.
+
+There is even a slim chance the character will hardly get any spells, and, while there is no minimum number of spells a character must know, a wizard without spells is hardly the type of character a player wants! If this happens, give the poor player a break and allow him to make some second checks on spells until you feel he has an adequate number.
+
+=== DM Choice ===
+You can automatically give the player character ''read magic'' and ''detect magic'' and four other spells of your choice. This starts all player characters off with the same number of spells. While it is not necessary to give each character the same spells, you should see that everyone has roughly the same balance of power. No rolls to learn these spells need be made—the character is assumed to have mastered them during his apprenticeship.
+
+=== Player/DM Collaboration ===
+Finally, you can allow the player to start with 3d4 (or up to the limit of his Intelligence) 1st-level spells. Two of these are automatically ''read magic'' and ''detect magic'', which all wizards learn as part of their training. The remaining spells can either be chosen by the player, chosen randomly, or selected by you.
+
+If you select the spells, be sure to give the player a fair mix, allowing him to do a variety of things. Try to ensure that the player has a few of the spells he really wants.
+
+If the character is a specialist in a particular school of magic, you should allow him to know one spell of his school automatically along with ''read magic'' and ''detect magic''. All other spells must be checked for normally or discovered.
+
+== Acquisition of Spells Beyond 1st Level ==
+Once a character has begun adventuring, he won’t be able to have additional spell books instantly appear each time he goes up in level. Instead, the player character is going to have to find some way to get additional higher level spells. As with initial spells, there are several ways this can be done. Any or all of these can be used in your campaign.
+
+=== Going Up In Levels ===
+First, whenever a character attains a new spell level, allow the player one new spell immediately. You can choose this spell, let the player choose it, or select it randomly.
+
+The rationale behind this is simple: All the long hours of study and reading the character has, presumably, been doing finally jells into something real and understandable. (It’s kind of like waking up one morning and finally realizing what a cosine really is.)
+
+No roll is needed to learn this spell, unless you allow the character to choose it. If the character is a specialist in a school of magic, the new spell should be from that school, if there is a spell available.
+
+=== Copying from Spell Books ===
+The second way to acquire new spells is to copy them from the spell books of other wizards. A character can copy from other player characters (if they will allow it), pay NPC wizards for the privilege (see Chapter 12: NPCs), or take them from captured spell books.
+
+When copying spells, a character must roll to see if the character can learn the spell. No character can copy without magical aid a spell of a level he cannot cast.
+
+=== Scroll Research ===
+Third, a character can research a spell using a scroll with the same spell as a base. The time and cost required for the research is half normal and the player character must still check to see if he can learn the spell. Regardless of the success or failure of the research, the scroll is destroyed—the wizard had to read it aloud to analyze its eftects.
+
+Scroll research cannot be done in an adventuring situation. The wizard must have carefully controlled conditions in order even to attempt it.
+
+=== Study with a Mentor ===
+Fourth, and only if you allow it, the wizard can return to his old mentor and, with luck, copy a few spells out of his master’s spell book.
+
+Use this method if, and only if, you feel it is important for player characters to have more than a few new spells each time they advance to a new spell level. Allow the characters to gain too much this way, or too frequently, and they will come to rely upon it, not using their own playing ability to develop their characters.
+
+== DM Control of Spell Acquisition ==
+However characters acquire new spells, always remember that you are in charge. You have complete control over what spells the player characters get.
+
+If a player character has a spell you don’tlike or one that severely disrupts or unbalances your game, it is not the player’s fault! Who gave the character the spell? Who allowed it in the game? Controlling spell acquisition is an important responsibility. Consider your choices carefully.
+
+By keeping the selection of spells limited, you automatically increase their importance and value to the wizards in your campaign. A simple scroll with a single spell becomes a real treasure if it has a spell on it the wizard has never seen before. This givesMagic (Spell Books) the player a tough choice: Should he cast the scroll during an adventure where it might be useful? Should he save it until he can take the time to research the spell for his spell books?
+
+When the characters overcome a hostile mage, the first concern of the wizards will be for his spell book. Where is it? What spells does it have in it? Even a nonmagical item like a spell book becomes very important. Knowing their value, NPC wizards will go to great pains to protect their own spell books, hiding them carefully, locking them in trapped chests, and scattering magical traps throughout the pages.
+
+== Spell Books ==
+A wizard’s most important treasure is his spell book. Because it is so important, you and the players need to know some basics about it: What exactly is a spell book? How many pages does it have? What is it made of?
+
+=== All Sizes and Shapes ===
+There is no standard size or shape for a spell book. A player character can’t walk into a wizard’s lab or study and instantly spot the spell book because it is the biggest, longest, fattest, squarest, roundest, or thinnest book there. Neither can he measure all the books to find the one that conforms to the dimensions of a spell book. The spell book’s size and shape is determined largely by the culture of the wizard who owns it.
+
+Consider, for example, the book you are reading right now. How would one of the DMG’s pages have appeared in other times and places? In medieval Europe, this page would most likely have been ten or more hand-lettered sheets of parchment, perhaps embellished with illuminations and painted scenes. In Ancient China, this page would have been several hand-printed pages on colored paper and bound with red lacings. The Egyptians would have used a rolled scroll of papyrus, with several required to make a book, Even more cumbersome, the ancient Babylonians would have used clay tables marked in cuneiform and dried, American Indians would have written it on leaves of birch bark or painted it on a cured buffalo hide.
+
+Writing and written works have changed greatly through the centuries of Earth history. A fantasy game world is no different. Spell books should come in a variety of shapes and forms—whatever seems best for the campaign.
+
+A spell book may be a heavy tome, bound in leather with crisp parchment pages. It may be a collection of papyrus scrolls tied with red silk strings. It may be a pile of clay tables marked in cuneiform. It may be a cheap-looking folio printed on linen rag paper. It may even be thin sheets of embossed gold between covers made from the hide of a naga.
+
+If you don’t want to create a unique spell book for your campaign world, here’s one standard you can fall back on: Compare them to bulky coffee-table books of today or large, hefty dictionaries. (Even if you do create unique spell books, this standard should give you some idea of the appropriate size and bulk.)
+
+Often a wizard’s complete set of spell books occupies several shelves of his library, especially when the character reaches the highest levels. At this point, it is no longer practical for the character to carry all of his spell books with him when he travels. Therefore, many wizards opt to make traveling spell books.
+
+The traveling spell book is a more selective, more portable version of the character’s complete spell books (although there is little that can be done to make clay tablets portable). In the traveling spell book, the wizard places only those spells he feels he is likely to need while traveling.
+
+There is no limitation on which spells can be included, but a traveling spell book has a limited number of pages. Thus, a high-level wizard may need several traveling spell books to contain all the spells he feels are necessary!
+
+=== Spell Book Preparation ===
+The books themselves require few special materials, but the workmanship must be exact, flawless, Even the slightest mistake in copying a spell ruins it. This is not work for a common scribe or copyist.
+
+Compounding the problem, the bizarre formulas and diagrams found in a spell book can’t be reproduced by normal medieval printing methods. Spell book work must be done slowly and laboriously by hand. The standard amount of time required to prepare a spell book is 1 to 2 days of work per spell level of the spell being entered.
+
+Occasionally, prepared spell books can be found for sale, but few wizards choose to trust the success or failure of their magical efforts to the work of others. Rare is the wizard who doesn’t prepare his own spell books.
+
+Materials used in a spell book must be of the highest quality. No wizard wants to run the risk of dampness causing his ink to run, a blot on the parchment causing a spell to be misinterpeted, bookworms making a feast of page 6, the wind blowing a loose page away, or a spilled retort turning the whole book into a sodden mass.
+
+Careful treatment, common sense, and quality materials are essential to prevent these disasters. Strong bindings or cases are used to protect the interiors. Clear sheets are needed to record the spells. The best bold inks and the sharpest pens must be used for writing. Aromatic compounds are recommended to deter bookworms and moths, while other preparations should be used to protect against mold, mildew and dry rot. All this costs money.
+
+=== Spell Book Cost ===
+The one thing all spell books have in common is their cost. Books are never cheap, and a wizard’s spell books are even more expensive than most.
+
+For the materials and their preparation, the wizard must pay 50 gp per page. Traveling spell books, which are even more compact, cost 100 gp per page.
+
+=== How Many Pages in a Spell Book? ===
+Each spell requires a number of pages equal to its level plus 0-5 (1d6-1) additional pages. The actual number of pages a spell takes differs for each wizard. Even if two or more wizards are recording the same spell, the number of pages varies, since there are differences in handwriting and notations.
+
+Furthermore, no spell book can have more than 100 pages, no ordinary nonmagical scroll more than 25, and no traveling spell book more than 50. Thus, at best, a spell book filled with 9th-level spells could only hold 11 spells (99 pages), allowing only one blank page to hold a magical protection (such as ''firetrap''). All too likely, this spell book would be filled well before 11 spells had been entered.
+
+For convenience in creating NPC spell books, the maximum and minimum number of spells for each level and type of spell book is given on Table 30. The table presumes that all the spells within a book are of the same level (which may or may not be the case, especially for traveling books).
+
+Furthermore, although a spell book can never have more than its maximum at a given spell level, there is no requirement that the book be filled even up to its minimum number. The ranges given on the following table presume the spell book is filled as efficiently as possible with spells, leaving little or no room for protective So devices.
+
+{| class="wikitable"
+	|+Table 30; SPELL BOOK CAPACITIES
+	! Level
+	! Standard
+	! Scroll
+	! Traveling
+	|-
+	| 1st
+	| 16-100 spells
+	| 4-25 spells
+	| 8-50 spells
+	|-
+	| 2nd
+	| 14-50 spells
+	| 3-12 spells
+	| 7-25 spells
+	|-
+	| 3rd
+	| 12-33 spells
+	| 3-8 spells
+	| 6-16 spells
+	|-
+	| 4th
+	| 11-25 spells
+	| 2-6 spells
+	| 5-12 spells
+	|-
+	| 5th
+	| 10-20 spells
+	| 2-5 spells
+	| 5-10 spells
+	|-
+	| 6th
+	| 9-16 spells
+	| 2-4 spells
+	| 4-8 spells
+	|-
+	| 7th
+	| 8-14 spells
+	| 2-3 spells
+	| 4-7 spells
+	|-
+	| 8th
+	| 7-12 spells
+	| 1-3 spells
+	| 3-6 spells
+	|-
+	| 9th
+	| 7-11 spells
+	| 1-2 spells
+	| 3-5 spells
+|}
+
+== Expanding the Schools of Magic ==
+Currently, the different schools of wizard magic are merely sketched out and very lightly defined. The different schools can be used as described, but they lack detail and, in a few cases, a full range of spells. There are currently, for example, very few necromantic spells, thus discouraging player characters from being necromancer specialists. There is nothing wrong in this—nothing requires all schools of magic to be equal. However, you may want to customize and expand the schools of magic to suit your campaign.
+
+=== Adding New Spells ===
+A school can be expanded simply by adding new spells. The necromantic specialization could be made more appealing if a complete spell list were created. Be careful that the new spells don’t make the school too powerful. In the case of the necromantic school, the first reaction is to add some of the priest healing spells. However, this takes from the role of the cleric and makes the necromantic specialist too powerful. In the long run, it’s probably better to create new necromantic spells, spells that do not involve healing or do so in a minor way. Careful judgment must always be applied when adding new spells.
+
+=== Expansion Through Campaign Detail ===
+Although the term “school” is used throughout the Player’s Handbook and the DMG, there are no rules to explain any formal structures or institutions. There is no hard and fast definition of a necromantic school, There may or may not be such a school in the campaign. This choice is left to individual DMs.
+
+One possibility is that wizards learn their specialties without formal training. Materros the Necromancer has a natural curiosity about necromantic spells, so he specializes in them.
+
+Another possibility is that there are formal colleges or academies where spells are taught. These institutions would have their own hierarchies, traditions, regulations, and procedures.
+
+For example, Materros the Necromancer may be a brother of the Cabal of Thar-Zad, a necromantic society. As a sign of his standing high within its hierarchy, he is allowed to wear the red and green robes of a master. Of course, when he wears these, his occupation is easily identified by those who know something of the Cabal. This is not all bad, since the Cabal of Thar-Zad has a reputation as a and mean bunch. By adding such details, the DM brings his campaign to life. He can even make a seemingly limited magical school more appealing to players.
+
+== Spell Research ==
+One of the most overlooked assets the wizard or priest has is the ability to research new spells. In the hands of a clever player, this ability results in powerful and unique player characters. Since the player has to get involved to make the research rules work, it is also an excellent method for getting player ideas into the campaign. However, since there are so many different possibilities in spell research, there are few set rules. Use the following as guidelines when faced with magical research in the campaign.
+
+=== Suggesting a New Spell ===
+Spell research is not something the DM does without player input or vice versa. To make it work, both must cooperate with each other. The first step is for the player to decide what he wants his character to accomplish. This is not the DM’s job at all! Only after the player has presented his suggested spell does the DM become involved.
+
+=== Analyzing a Spell ===
+When the player presents his suggested spell, the first thing to do is to talk it over with him. What does the player really want to accomplish? Is this the same as what he claims the spell will do? Sometimes what is written for a spell description and what was intended are two different things. This should become clear in talking to the player.
+
+'''Are there already spells or combinations of spells that can do the same thing?''' If a spell exists in the character’s group that does the same thing, no research should be allowed. If the new spell is a combination of several spells or a more powerful version ofa weaker spell, it can be allowed, although it will be difficult to research. Weaker versions of a more powerful spell are certainly possible.
+
+'''Is the player trying to gain a special advantage over the normal rules?''' Sometimes players propose new spells with the unspoken purpose of “breaking the system,” and, while spell research does let a player character get an edge, it is not a way to cheat. New spells should fall within the realm and style of existing spells, Clerics casting fireballs or mages healing injured characters is contrary to the styles of the two classes.
+
+Spells allowing changes in the game rules, god-like abilities, or guaranteed success are not good and shouldn’t be allowed in a campaign. Fortunately, this problem doesn’t come up too often. What limits does the player think the spell has? In their desire to have their spells approved, players often create more limitations and conditions on a spell than the DM would normally require. Be sure to ask the player what limits he thinks the spell has.
+
+=== Solving the Problems of a New Spell ===
+If for any reason the spell seems unacceptable at this point, tell the player what the concerns are. Usually, agreement can be reached on any problems. If there don’t seem to be any problems with the spell, the next step can begin.
+
+Never immediately approve a spell when it is first presented. Take the spell description and consider all the ways it could be abused. If some glaring misuse becomes apparent, fix the spell so this cannot happen. Keep doing this until all the obvious problems and abuses have been fixed. The player should then have a chance to look at all the changes in his spell. After all, once the DM has finished with it, the player may no longer want to research it!
+
+After both the player and DM have agreed on the description of the spell, the DM must decide the level of the spell, its components, research time, and research cost.
+
+=== Setting a Spell’s Level ===
+The level can be determined by comparing the spell to already existing ones.
+
+If the spell inflicts damage, its level should be within one or two of the number of dice of damage it causes—thus a spell which causes 5d6 of damage should be about 3rd to 5th level.
+
+If the spell is an improvement of an existing spell, it should be at least two levels greater than that spell. If the spell is one of the other group (a priest researching a wizard’s spell), it should always be at a higher level than it is in its natural group. (Quite often it will also be less effective than the spell that inspired it.)
+
+=== Determining Spell Components (Optional Rule) ===
+Spell components are limited only by yourimagination, but should be tempered by the spell’s power and usefulness. Spells with great power require significant or hard-to-find components. Spells of limited use need only fairly simple components. Indeed, one important type of spell research is to create a powerful spell with little in the way of components.
+
+=== Determining Research Time ===
+Research time requires the character to be in good health and refrain from adventuring while undertaking the study. During research, wizards pore over old manuscripts and priests work at their devotions.
+
+The minimum amount of time needed to research a spell is two weeks per spell level, At the end of this time, a check is made. For wizards, this is the same as their chance to learn a spell (be sure to account for any specialization). For priests a Wisdom check is made.
+
+If this check succeeds, the character has researched the spell. If the check fails, the character must spend another week in study before making another check. This continues until the character either succeeds or gives up.
+
+=== The Cost of Spell Research ===
+Research also costs money. If the character has access to a wizard’s laboratory or an appropriate place of worship, the cost of research is 100-1,000 gp per spell level. The DM can choose the actual cost or determine it randomly, It is best to base the cost on whatever the character can just barely afford (or slightly more), As such, the cost of research may vary greatly from campaign to campaign.
+
+Research costs are a very important incentive for player characters to go on adventures, gathering funds to support their studies. And, of course, a wizard who lacks a laboratory must come up with the cost of assembling one. Again, the cost of this should be just beyond what the player character can currently afford, perhaps 1,000 to 10,000 gp. Once the laboratory is assembled it remains as part of the character’s possessions.
+
+Priests who lack a proper place of worship can pay a similar cost (in donations or whatever) to prepare a small household shrine, Neither the laboratory nor the shrine is particularly portable.
+
+=== Adding a New Spell to the Spell Book ===
+Once a character has successfully researched a spell, it is added to his spell lists or spell books. Once researched, the spell is treated like a normal spell for all purposes. The player character can choose to share the spell with others (although other wizards must roll to learn the spell) or keep it to himself.
+
+=== Research Extra Wizard Spells (Optional Rule) ===
+Some DMs and players feel it is unfair that a wizatd can’t research a spell simply because he has as many spells of a particular level as he is allowed to have. The DM can allow a wizard to have spells in his spell book beyond the maximum allowed by the character’s Intelligence provided that character goes to the trouble of researching new spells.
+
+All the standard rules for spell research apply. In addition, the DM should allow only those new spells that the player himself has created. Players cannot use this as an excuse to add a spell they would otherwise not be able to learn.
+
+For example, say a player character has failed to learn ''fireball'' before his spell book is filled. Although the player can still research and add new spells, he cannot do so for a fireball-type spell that inflicts 1d4 points of damage per level.
+
+The spells researched must be new and original—this forces players to be creative and involved. Beyond these restrictions, there is no limit to the number of spells a character can research at a given level.

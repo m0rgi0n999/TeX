@@ -1,0 +1,285 @@
+= Chapter 2: Player Character Races =
+Many factors affect a character’s background. Two of the most important are his race and his character class (see Chapter 3, “Player Character Classes”). In a sense, a character’s class is his profession: Some characters are fighters, some mages, some clerics, and so on. A character’s race affects which character classes are available to him—only humans have unlimited class options. All non-human races are limited, to some extent. There are two reasons for this:
+
+First, the restrictions are intended to channel players into careers that make sense for the various races. Dwarves are, to a certain extent, anti-magical, and incapable of shaping magical energy —they can’t be wizards. Halflings, despite their ties to nature, lack the devotion and physical will to be druids. Similar situations exist for the other demihuman races.
+
+Second, the demihuman races have advantages that are not available to humans. Flexibility—the ability to choose from among all the classes—is one of very few human advantages.
+
+== A Non-Human World ==
+The DM can, if he chooses, make any class available to any race. This will certainly make your players happy. But before throwing the doors open, consider the consequences.
+
+If the only special advantage humans have is given to all the races, who will want to play a human? Humans would be the weakest race in your world. Why play a 20th-level human paladin when you could play a 20th-level elven paladin and have all the abilities of paladins and elves?
+
+If none of the player characters are human, it is probably safe to assume that no non-player characters of any importance are human either, Your world would have no human kingdoms, or human kings, emperors, or powerful wizards. It would be run by dwarves, elves, and gnomes.
+
+This is not necessarily a bad thing, but you must consider what kind of world nonhumans would create. Building a believeable fantasy world is a daunting task; creating a believable alien fantasy world (which is what a world dominated by nonhumans would be) is a huge challenge even for the best writers of fantasy.
+
+What would non-human families be like? What would the popular entertainments be? What would non-humans value? What would they eat? What would their governments be like? A society governed by nature-loving elves would be a very different place than a human-dominated world!
+
+It is possible that certain character classes might not even exist. Paladinhood, for example, could be a uniquely human perspective. Would elves or dwarves hold the same values of law, order, god, and community to which a paladin aspires? If you only change the image (i.e., have elven paladins behave exactly like human paladins), what you’ve got is the “humans-in-funny-suits” syndrome. Even within the human race there are vast cultural differences. Think how much greater these differences would be if the blood were entirely different!
+
+Also, if humans are weak, will the other races treat them with contempt? With pity? Will they be enslaved? All things considered, humans could have a very bad time of it. If, after considering all the potential pitfalls, you decide to experiment with nonstandard class selections, do so carefully. We offer the following advice:
+
+Allow nonstandard race/class combinations only on a case-by-case basis. If you institute a general rule—“Elves can now be paladins” —you will suddenly find yourself with six player character elf paladins.
+
+If a player desperately wants to play an elf paladin, ask him to come up with a thoughtful rationale explaining why this elf is a paladin. It must be plausible and consistent with your campaign setting. If the rationale satisfies you, allow that player, and only that player, to play an elf paladin. Explain to the other players that this is an experiment.
+
+Don’t allow any other elf paladins in the game until you have seen the first one in action enough to decide whether the class fits into your game. If it does, congratulations; you’ve broadened your players’ horizons. If it doesn’t, don’t hesitate to tell the elf paladin player that he has to retire the character or convert him to a normal fighter. Never allow someone to continue playing a character that is upsetting your game.
+
+By following this simple rule, you can test new race/class combinations without threatening your campaign. Moderation is the key to this type of experimentation.
+
+== Racial Level Restrictions ==
+In addition to unlimited class choice, humans can attain any level in any class. Once again, this is a human special ability, something no other race has. In the AD&D® game, humans are more motivated, indeed driven, by ambition and the desire for power, than the demihuman races. Thus, they advance further and more quickly than others.
+
+Demihumans can attain significant levels in certain classes, but do not have the same unlimited access. Some players may argue that the greater age of various non-humans automatically means they will attain greater levels. That can present problems.
+
+Demihuman characters are limited in how high a level they can achieve both to preserve internal consistency (humans are more flexible than non-humans) and to enforce game balance. A DM, however, can change or eliminate these limits as he sees fit. As with class restrictions, the consequences must be examined in detail.
+
+Given their extremely long lifespans, demihumans without limitations would quickly reach levels of power far beyond anything attainable by humans. The world would be dominated by these extremely powerful beings, to the exclusion of humans. Human heroes would be feeble compared to the heroes of elves and dwarves.
+
+Given their numerous advantages, demihumans would be the most attractive races—no one would play a human. Again, this isn’t necessarily bad, but it’s very different. The resulting game will be completely unlike the standard sword-and-sorcery milieu. You may need to set it in an ancient age, when elves and dwarves ruled the world, before the ascendance of men (though given the situation, it’s unlikely that men would ever become dominant).
+
+=== Slow Advancement (Optional Rule) ===
+If  you decide to allow demihumans unlimited advancement, consider this option: To counteract the demihumans’ long life, slow down their advancement. Require demihumans to earn two, three or even four times as many experience points as a human in order to advance a level.
+
+This allows the short-lived humans to advance more quickly than their long-lived comrades, who will eventually catch up (after the humans’ demise). If this solution, though logical, is unacceptable to your players, a compromise may be called for.
+
+The best compromise is to allow demihumans normal (or double-cost) advancement to their “maximum” levels. Then require them to earn triple or quadruple experience pointsto advance beyond that point. They will advance very slowly, but the players will still have a foal and the sense of accomplishment that comes with rising a level.
+
+=== Standard Class and Level Limits ===
+Before removing or modifying level limits, familiarize yourself with the game and the balances that currently exist. Only after you are experienced and comfortable with these should you begin alteration of the non-human level limits. The standard level limits for all races and classes are given on Table 7.
+
+{| class="wikitable" style="text-align:center;"
+	|- style="text-align:left;"
+	|+Table 7: RACIAL CLASS AND LEVEL LIMITS†
+	! Character Class
+	! colspan="6" style="text-align:center;" | Character Race
+	|-
+	| style="text-align:left;" |
+	| Human
+	| Dwarf
+	| Elf
+	| Gnome
+	| Half-Elf
+	| Halfling
+	|-
+	| style="text-align:left;" | Bard*
+	| U
+	| —
+	| —
+	| —
+	| U
+	| —
+	|-
+	| style="text-align:left;" | Cleric
+	| U
+	| 10
+	| 12
+	| 9
+	| 14
+	| 8
+	|-
+	| style="text-align:left;" | Druid*
+	| U
+	| —
+	| —
+	| —
+	| 9
+	| —
+	|-
+	| style="text-align:left;" | Fighter
+	| U
+	| 15
+	| 12
+	| 11
+	| 14
+	| 9
+	|-
+	| style="text-align:left;" | Illusionist*
+	| U
+	| —
+	| —
+	| 15
+	| —
+	| —
+	|-
+	| style="text-align:left;" | Mage
+	| U
+	| —
+	| 15
+	| —
+	| 12
+	| —
+	|-
+	| style="text-align:left;" | Paladin
+	| U
+	| —
+	| —
+	| —
+	| —
+	| —
+	|-
+	| style="text-align:left;" | Ranger
+	| U
+	| —
+	| 15
+	| —
+	| 16
+	| —
+	|-
+	| style="text-align:left;" | Thief
+	| U
+	| 12
+	| 12
+	| 13
+	| 12
+	| 15
+	|-
+	| colspan="7" | *These character classes are optional.
+|}
+
+U A player character can advance to the maximum possible level in a given class. The Players Handbook gives rules for advancing the player characters to 20th level.<br/>
+— A player character cannot belong to the listed class.<br/>
+† Player characters with less than exceptional prime requisites cannot advance beyond the listed level.
+
+=== Exceeding Level Limits (Optional Rule) ===
+Demihuman characters with extremely high ability scores in their prime requisites can exceed the racial maximum levels. In cases where multiple prime requisites exist, the lowest prime requisite is used to calculate any additional levels.
+
+The bonus levels available to characters with high prime requisite scores are summarized on Table 8. The additional levles listed in Table 8 are added to the normal maximum allowed, regardless of what class or race is involced.
+
+For example, a half-elf is limited to 12th level as a thief. A half-elf with Dexterity 17, however, is allowed two bonus levels, so he could advance to 14th level.
+
+{| class="wikitable"
+	|+Table 8: PRIME REQUISITE BONUS
+	! Ability Score
+	! Additional levels
+	|-
+	| 14, 15
+	| +1
+	|-
+	| 16, 17
+	| +2
+	|-
+	| 18
+	| +3
+	|-
+	| 19
+	| +4
+|}
+
+== Creating New Player Character Races ==
+The races listed in the ''Player’s Handbook'' are only a few of the possible intelligent races populating the worlds of AD&D® games. Adventurous DMs and players may want to experiment with characters of other races, such as orcs, lycanthropes, ogres, lizardmen, or even dragons.
+
+Before you do this, however, you need to know very clearly what you are doing. Unrestricted or ill-considered use of nonstandard races can easily and quickly destroy a campaign. Always consider a new race from a variety of angles:
+
+How does the new race fit with the other player characters? How does it fit in the campaign in general? What could you accomplish with this race that you couldn’t with another?
+
+The majority of players who want to play an unusual race desire only the thrill and excitement of a truly challenging role-playing situation, There are, however, a few players who see such races as a way to take advantage of game systems and campaign situations, As with changing level limits and classes allowed, you are well advised to move slowly and carefully in this area.
+
+Allowing player characters of unusual races introduces a whole new set of problems for the DM. In creating a new nonhuman or demihuman player character race, the rules and guidelines below should be followed to preserve game balance.
+
+'''The race should be humanoid’'' (i.e, it must have two hands, at least two legs, and stand generally upright). The race must be able to move about on land. | t must also be intelligent. An orc or a centaur would be acceptable.
+
+'''The race cannot possess special abilities’'' beyond the scope of those already given for the other player character races. Although a dragon can polymorph into human form, it cannot be a player character because it has a breath weapon, can polymorph and cast spells, and is not humanoid in its natural state. A brownie could not be a player character because it, too, has abilities beyond those of the standard player character races.
+
+'''The race cannot be extra-dimensional’'' or draw on extra-dimensijonal powers. It cannot have innate spelicasting ability, be undead, or possess magic resistance.
+
+'''The race must be cooperative’'' and willing to interact with the human world. The duergar, a race of deep-dwelling dwarves, have no desireto deal with humans and seek to avoid contact whenever possible. Satyrs resent intruders into their woods and glades, which rules them out as player characters. You must judge this criterion based on the conditions in your game world.
+
+If these conditions are met, the race can be considered as a possible player character race. Some examples of races that definitely fit the profile are half-orcs, orcs, half-ogres, lizardmen, goblins, centaurs, and kobolds.
+
+When experimenting with a new player character race, allow only one at the start. Do not begin your design experiment with a whole party of half-ogres! Start slowly, involving only one player. If the new race is too powerful, it can be easily eliminated.
+
+Once the new race is selected, the real work begins. Examine the race and apply all of the following guidelines to it.
+
+'''Character Abilities:''' All races, regardless of type, use the same ability generation method as all other player characters. Their scores will range from 3 to 18 unless modified by pluses or minuses.
+
+Creature sizes, defined in the ''Monstrous Compendium'', affect abilities as follows:
+
+Creatures of tiny (T) size have a —3 modifier to Strength. Creatures of small (S) size have a ~1 modifier to Strength. Creatures of large (L) size have a + 1 modifier to Strength. Huge (H) creatures gain a +2 to Strength and Gigantic (G) creatures have a +4.
+
+Those with an Intelligence less than average (as determined by the DM or as listed in the ''Monstrous Compendium'') suffer a -1 penalty to Intelligence and those exceptionally Intelligent or greater gain a +1 bonus.
+
+All other ability modifiers are assigned by the DM, Likely candidates include minuses to Charisma and Wisdom and plus or minus adjustments to Dexterity. In all cases, bonuses and penalties should balance out. If a creature has a +1 bonus to Strength, it should have a ~ 1 penalty to another ability.
+
+With the exception of Strength, no creature can have a modifier greater than +2 or -2 to any score.
+
+'''Racial Ability Requirements:''' It is possible for a creature to have seemingly illogical ability scores. However, you can set minimums and maximums on these. Table 7 in the ''Player’s Handbook'' shows these limits for the standard player character races. It’s the DM’s job to do the same for nonstandard races.
+
+As a guide, creatures of large size should have at least an 11 Strength and, unless they are described as agile or quick, should have a ceiling of 17 to Dexterity. Dull-witted creatures (those of low Intelligence) should have a limit of 16 to Intelligence.
+
+The DM can waive any requirements if, for example, a player wants (or gets) a hill giant character with Strength 6, Some rationale should be offered, however. (In the case of the weakling hill giant, perhaps he was the runt of the family, cast out by his fellows, and forced to take up adventuring.)
+
+'''Character Classes:''' The DM must judge what character classes the new race can be. Use the information in the next chapter as your guide, and start with a narrow range of options; you can always widen it later. Almost any sort of creature can be a fighter. None (except humans) can be paladins. Those favoring the outdoors (centaurs, for example) can be rangers.
+
+Those with penalties to Wisdom cannot be priests; others can be priests only if their game description mentions NPC priests and the creature has some type of social organization (a tribe, clan, etc.). No nonstandard creature can be a druid, as this is a human belief system.
+
+Those with penalties to Intelligence cannot be wizards. If the description in the ''Monstrous Compendium'' implies that a creature is stupid, dull-witted, or in any way averse to magic and spell casting, it cannot be a priest or wizard.
+
+A Dexterity penalty prevents the character from being a thief. Creatures of large size or greater cannot be thieves. If it is implied that a creature is clumsy or awkward, it cannot be a thief.
+
+A new character race can be multi-classed if there is more than one potential class open to it (e.g., fighter and mage). Classes from the same group cannot combine into multiclasses (e.g., fighter/ranger). Characters from variant races must also have scores of 14 or higher in the prime requisites of both classes to qualify for multi-class standing. This particular condition does not apply to normal player character races.
+
+'''Level Limits:''' Like all non-humans, new player character races have level limits. However, these limits are lower than those for other non-humans, since these races are often unsuited to adventuring. (Perhaps this explains why player characters of these races are so rare.)
+
+The maximum level a character from a variant race can attain depends on the characters prime requisite ability score (or scores). Use Table 9 to determine the character’s maximum level.
+
+{| class="wikitable"
+	|+Table 9: MAXIMUM LEVELS FOR VARIANT RACES
+	! Prime Requisite Score
+	! Level Limit
+	|-
+	| 9
+	| 3
+	|-
+	| 10
+	| 4
+	|-
+	| 11
+	| 5
+	|-
+	| 12
+	| 6
+	|-
+	| 13
+	| 7
+	|-
+	| 14
+	| 8
+	|-
+	| 15
+	| 9
+	|-
+	| 16
+	| 10
+	|-
+	| 17
+	| 11
+	|-
+	| 18+
+	| 12
+|}
+
+Unlike the standard demihuman races, new character races never gain additional levels for high ability scores. It is unusual enough that a member of the race has become a player character at all! Without the aid of many ''wishes'' a character from a nonstandard race can never rise above 12th level.
+
+'''Alignment:''' The ''Monstrous Compendium'' lists alignments for most races. If an absolute alignment is listed (e.g., “good”), the player character has that alignment. If only alignment tendencies are given, the player can choose any alignment.
+
+'''Hit Points:''' All creatures roll their hit points using the die appropriate to their chosen class. At Ist level, Large and greater size creatures gain one additional hit point for every Hit Die the creatures would normally receive (pluses to the die are ignored) in addition to their normal Constitution bonus, Thus, an ogre fighter with a Constitution of 12 would still gain a +4 hit point bonus at first level, since ogres normally have 4 Hit Dice. (To those who think this is a big advantage, remember that Large size creatures suffer larger-than-man-sized damage from weapons!) Thereafter, all new races earn hit points according to level advancement, Constitution, and character class.
+
+'''Level Advancement:''' The character progresses like all others of the same character class. Being a nonstandard race does not give the player character any special benefits to his character class.
+
+'''Armor:''' Most creatures (orcs, gnolls, goblins) have an Armor Class of 10 (and thus wear armor for protection). Some creatures, however, have natural armor which is retained by the player character. These characters gain the benefit of a +1 bonus to their AC only if the armor worn is worse than or equal to their natural Armor Class (as per horse barding).
+
+If better armor is worn, natural armor is ignored and Armor Class is determined by the armor being worn. Odd-sized and oddshaped creatures can’t wear off-the-shelf armor; it must be made to order and costs extra (and takes longer to make).
+
+'''Movement:''' The creature’s movement rate is the same as that listed in the ''Monstrous Compendium''.
+
+'''Attacks:''' The player character is allowed the number of attacks given his character class and level, not the number listed in the monster description in the ''Monstrous Compendium''.
+
+'''Size Problems:''' Players who play Largesized creatures hoping to get an advantage over others should quickly discover many problems they didn’t anticipate. Consider the plight of the player who decides to play a hill giant. Right away, he’ll have a hard time buying basic equipment. Who makes pants for giants in a human town7 Everything must be special ordered at two to four times its normal cost (at least).
+
+This is a minor inconvenience compared to other difficulties. Buildings and dungeons are built for humans and other Mediumsized creatures, denying the large fellow the opportunity for both a hearty drink and exciting adventure. Even the toughest character will tire of drinking from measly cups and buying five dinners at a time. Will he enjoy spending the night in a leaky stable while his companions enjoy warm feather beds upstairs in the inn?
+
+Days of traveling will quickly show him the joys of walking while everyone else rides (no horse can carry him), especially when his companions gallop spryly away from oncoming danger, leaving him in its path. The costs of replacing broken furniture will quickly become prohibitive. Ropes will have an annoying tendency to break when the big lunk tries to climb them. And the hill giant better have at least 20 friends handy to pull him out of that 30-foot pit!
+
+'''NPC Reactions:''' On the personal side, expect NPCs to have strong negative feelings about unusual player character races, even to the point of bigotry and hatred, These reactions will make life more difficult for the player character, but they are the price the player pays for his unusual choice.

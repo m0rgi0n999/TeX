@@ -1,0 +1,589 @@
+== Foreword ==
+A foreword is normally the place where the author of a book expresses thanks and gratitude. I’m not going to do that here. It’s not that everyone involved doesn’t deserve congratulations and praise, it’s just that I already said all those things in the foreword to the AD&D® 2nd Edition Player’s Handbook. Everything I said there is true for this book, too. On to other things.
+
+Let’s assume that since you’re reading this, you are, or plan to be, a DUNGEONMASTER™. By now, you should be familiar with the rules in the Player’s Handbook. You’ve probably already noticed things you like or things you would have done differently. If you have, congratulations. You’ve got the spirit every Dungeon Master needs. Curiosity and the desire to make changes, to do things differently because your idea is better than the other guy’s—these are the most important things a Dungeon Master needs. As you go through this rule book, I encourage you to continue to make these choices.
+
+ and everyone working on the AD&D 2nd Edition game have had to make fundamental decisions, but we’ve tried to avoid being dogmatic and inflexible. The AD&D game is yours, it’s mine, it’s every player’s game.
+
+So is there an “official” AD&D game? Yes, but only when there needs to be. Although I don’t have a crystal ball, it’s likely that tournaments and other official events will use all of the core rules in these books. Optional rules may or may not be used, but it’s fair to say that all players need to know about them even if they don’t have them memorized.
+
+The ''Player’s Handbook'' and the ''DUNGEON MASTER™ Guide'' give you what you’re expected to know, but that doesn’t mean the game begins and ends there. Your game will go in directions not yet explored and your players will try things others think strange. Sometimes these strange things will work; sometimes they won’t. Just accept this, be ready for it, and enjoy it.
+
+Take the time to have fun with the AD&D rules. Add, create, expand, and extrapolate. Don’t just let the game sit there, and don’t become a rules lawyer worrying about each piddly little detail. If you can’t figure out the answer, MAKE IT UP! And whatever you do, don’t fall into the trap of believing these rules are complete. They are not. You cannot sit back and let the rule book do everything for you. Take the time and effort to become not just a good DM”, but a brilliant one.
+
+ come back with a question—what do you feel is right? And the people asking the questions discover that not only can they create an answer, but that their answer is as good as anyone else’s. The rules are only guidelines.
+
+At the beginning of the first ''DUNGEON MASTER™ Guide'', Gary Gygax stressed that each of us, working from a common base, would make the AD&D game grow in a variety of different directions. That is more true today than ever. Don’t be afraid of experimentation, but do be careful. As a Dungeon Master, you have great power, and “with great power comes great responsibility.” Use it wisely.
+
+David “Zeb” Cook<br/>
+2/9/89
+
+== Table of Contents ==
+Introduction
+A Word About Organization
+The Fine Art of Being a DM™
+Chapter 1: Player Character Ability Scores
+Giving Players What They Want
+Choosing a Character Creation Method
+Method I (3d6,in order)
+Method II (3d6 twice, keep desired score)
+Method III (3d6. arranged to taste)
+Method IV (3d6 twice, arranged to taste)
+Method V (4d6, drop lowest, arrange as desired)
+Method VI (points plus dice)
+Super Characters
+Identifying Too-Powerful Characters
+Dealing with Too-Powerful Characters
+Hopeless Characters
+Dealing with Hopeless Characters
+Dealing with Dissatisfied Players
+Wishes and Ability Scores
+Players with Multiple Characters
+Multiple Character Problems
+Character Background
+Letting Players Do the Work
+Problem Backgrounds
+Background as Background
+Chapter 2: Player Character Races
+A Non-Human World
+Racial Level Restrictions
+Slow Advancement (Optional Rule)
+Standard Class and Level Limits
+Exceeding Level Limits (Optional Rule)
+Creating New Player Character Races
+Chapter 3: Player Character Classes
+Class, Level, and the Common Man
+0-Level Characters
+Adventurers and Society
+Fighters
+Paladins
+Rangers
+wizards
+Priests
+Thieves
+Bards
+Character Classes in Your Campaign
+High-Level Characters
+Defining “High Level”
+Changing Campaign Styles
+Above 20th Level
+Beginning Character Levels
+Mixing New and Old Characters
+Pre-Rolled Characters
+Creating a New Character Class (Optional Rule)
+Chapter 4: Alignment
+
+Role-Playing Alignment
+NPC Alignment
+The Limits of NPC Alignment
+Society Alignment
+Using Area Alignments
+Varying Social Alignment
+Alignment of Religions
+Alignment of Magical Items
+Magical Alignment Changes
+Alignment as a World View
+Alignments in Conflict
+Never-Ending Conflict
+Alignment as a Tool
+Detecting Alignment
+Asking
+Casting a Spell
+Class Abilities
+Keeping Players in the Dark
+Changing Alignment
+Deliberate Change
+Unconscious Change
+Involuntary Change
+Charting the Changes
+Effects of Changing Alignment
+Chapter 5: Proficiencies (Optional)
+Weapon Proficiencies
+Min/Maxing
+NPC Proficiencies
+Nonweapon Proficiencies
+Adding New Proficiencies
+Chapter 6: Money and Equipment
+Controlling the Money Supply
+Monetary Systems
+A Short History of Commerce
+Goods
+Letters of Credit
+Barter
+Coins
+Types of Coins
+Expense
+Squalid Conditions
+Poor Conditions
+Middle-Class Conditions
+Wealthy Conditions
+Draining the Colffers
+Expanding the Equipment Lists
+Altering Prices
+Equipment by Time Period
+The Ancient World
+The, Dark Ages
+The Middle Ages
+The Renaissance
+Adjusting Equipment Lists
+Quality of Equipment
+Lock Quality
+Horse Quality
+Horse Traits (Optional Rule)
+Risks of Horse Buying
+Weapon Quality
+Ornamentation.
+Armor Made of Unusual Metals (Optional Rule)
+Damaging Equipment
+General Weapon Damage
+Attack Forms
+Chapter 7: Magic
+Initial Wizard Spells
+Player Choice
+Player/DM Collaboration
+Acquisition of Spells Beyond 1st Level
+Going Up in Levels
+Copying from Spell Books
+Scroll Research
+Study with a Mentor
+DM Control of Spell Acquisition
+Spell Books
+All Sizes and Shapes
+Spell Book Preparation
+Spell Book Cost
+How Many Pages in a Spell Book?
+Expanding the Schools of Magic
+Adding New Spells
+Expansion Through Campaign Detail
+Spell Research
+Suggesting a New Spell
+Analyzing a Spell
+Solving the Problems of a New Spell
+Setting a Spell’s Level
+Determining Spell Components (Optional Rule)
+Determining Research Time
+The Cost of Spell Research
+Adding a New Spell to the Spell Book
+Researching Extra Wizard Spells (Optional Rule)
+Chapter 8: Experience
+The Importance of Experience
+Too Little or Too Much
+Constant Goals
+Fun
+Character Survival
+Improvement
+Variable Goals
+Story Goals
+Experience Point Awards
+Group Awards
+Individual Experience Awards (Optional Rule)
+When to Award Experience Points
+Effects of Experience
+Training (Optional Rule)
+Rate of Advancement
+Chapter 9: Combat
+Creating Vivid Combat Scenes
+More Than Just Hack-and-Slash
+Definitions
+The Attack Roll
+Figuring the To-Hit Number
+Modifiers to the Attack Roll
+Weapon Type vs. Armor Modifiers (Optional Rule)
+The Various Types of Weapons
+Impossible To-Hit Numbers
+Calculating THAC0
+Combat and Encounters
+The Combat Round
+What You Can Do in One Round
+The Combat Sequence
+Standard Initiative Procedure
+Initiative Modifiers
+Group Initiative (Optional Rule)
+Individual Initiative (Optional Rule)
+Multiple Attacks and Initiative
+Spellcasting and Initiative
+Weapon Speed and Initiative (Optional Rule)
+Attacking
+Number of Attackers
+Facing
+Weapon Length
+Position of Attackers and Attack Rolls
+Pole Arms and Weapon Frontage (Optional Rule)
+Shields and Weapon Frontage (Optional Rule)
+Hitting a Specific Target
+Called Shots
+Movement in Combat
+Movement in Melee
+Movement and Missile Combat
+Charging an Opponent
+Retreat
+Attacking Without Killing
+Punching and Wrestling
+Overbearing
+Weapons in Non-Lethal Combat
+Non-Lethal Combat and Creatures
+Touch Spells and Combat
+Critical Hits (Optional Rule)
+Why No Critical Hit Tables?
+Two Workable Critical Hit Systems
+Critcal Fumbles
+Parrying (Optional Rule)
+Missile Weapons in Combat
+Range
+Rate of Fire
+Ability Modifiers in Missile Combat
+Firing into a Melee
+Taking Cover Against Missile Fire
+Grenade-Like Missiles
+Scatter Diagram
+Types of Grenade-Like Missiles
+Boulders as Missile Weapons
+Special Attacks
+Attacking With Charmed Creatures
+Gaze Attacks
+Innate Abilities
+Breath Weapons
+Special Defenses
+The Saving Throw
+Rolling Saving Throws
+Saving Throw Priority
+Voluntarily Failing Saving Throws
+Ability Checks as Saving Throws
+Modifiying Saving Throws
+Magic Resistance
+Effects of Magic Resistance
+When Magic Resistance Applies
+Successful MAgic Resistance Rolls
+Turning Undead
+Evil Priests and Undead
+Immunity to Weapons
+Effects of Weapon Hits
+Silver Weapons
+Creature vs. Creature
+Using Immune Monsters in a Campaign
+Morale
+The Role-Playing Solution
+Dicing for Morale
+How to Make a Morale Check
+Failing a Morale Check
+Injury and Death
+Wounds
+Special Damage
+Falling
+Paralysis
+Energy Drain
+Poison
+Specific Injuries (Optional Rule)
+Is This Injury Necessary?
+Healing
+Natural Healing
+Magical Healing
+Herbalism & Healing Proficiencies
+Character Death
+Death from Poison
+Death from Massive Damage
+Inescapable Death
+Raising the Dead
+Hovering on Death’s Door (Optional Rule)
+Unusual Combat Situations
+Siege Damage
+Mounted Combat
+Aerial Combat (Tournament Rule)
+Aireal Combat (Optional Rule)
+Underwater Combat
+Chapter 10: Treasure and Magical Items
+Who Needs Money?
+Forms of Treasure
+Placement of Treasure
+Who’s Got the Treasure
+Planned and Random Encounter Treasure
+Treasure Tables
+Maintaining Balance
+Too Little Treasure
+Monty Haul Campaigns
+Magical Items
+Creatures and Magical Items
+Buying Magical Items
+Magic—Rare or Common
+Researching Magical Items
+The Nature of Magical items
+Scrolls and Potions
+Scrolls
+Potions
+Creating Other Magical Items
+Recharging Magical Items
+Destroying Magical Items
+Artifact and Relics (Optional Rule)
+Design  an Artifact or Relics
+Sample Artifacts and Relics
+Chapter 11: Encounters
+What is an Encounter?
+Planned Encounters
+Keys
+Triggers
+Combining Keys and Triggers
+Random Encounters
+Should You Use Random Encounters?
+Characteristics of Random Encounters
+Creating Encounter Tables
+The 2-20 Table
+The Percentile Table
+Dungeon Encounter Tables
+Wilderness Encounter Tables
+Special Encounter Tables
+Spicing Up Encounter Tables
+DMing Encounters
+Encounter Checks
+Is This Encounter Necessary?
+Encounter Size
+Surprise
+Encounter Distance
+Encounter Reactions
+Fixing Things in Play
+The Enounter is Too Difficult
+The Encounter Gave Away Too Much Treasure
+The Encounter Was Too Easy
+Chapter 12: NPCs
+Hirelings
+Medieval Occupations
+The Assassin, the Spy, and the Sage
+Assassins
+spies
+Sages
+Soldiers
+Description of Troop Types
+Employing Hirelings
+Who Might be Offended
+Depopulate at Your Own Risk
+Securing Permissions
+Finding the Right People
+The Weekly Wage
+Henchmen
+An NPC Becomes a Henchman
+The Player Takes Over
+Role-Playing Henchmen
+Henchmen Bookkeeping
+Officials anmd Social Rank
+Titles, Offices, and Positions
+Spellcasters
+Finding a Spellcaster
+Convincing an NPC to Help
+NPC Magical Items
+Personality
+Walk-On NPCs
+Significant NPCs
+Other NPC Characteristics
+Loyalty
+Morale
+Quick NPCs
+Chapter 13: Vision and Light
+Effects of Light Sources
+Being Seen
+Creatures and Light Sources
+Light Tricks and Traps
+Infravision
+Standard Infravision
+Infravision (Optional Rule)
+Other Forms Of sight
+Darkness
+Invisibility
+Detecting Invisible Creatures
+Chapter 14: Time and Movement
+Detailed Timekeeping
+Preparing a Calendar
+Time as a Game-Balancer
+Movement
+Mounted Overland Movement
+Care of Animals
+Vehicles
+Terrain Effect on Movement (Optional Rule)
+Darkness and Ice
+Terrain Modifiers in Overland Movement
+Road and Trails
+Terrain Obstacles and Hindrances
+Movement on Water
+Ocean Voyaging
+Weather and Ship Travel
+Aerial Movement
+Getting Lost
+Chapter 15: A DM’s Miscellany
+Listening
+Doors
+Concealed and Secret Doors
+Lycanthropy
+Other Magical Diseases
+The Planes
+The Prime Material Planes
+The Ethereal Planes
+The Inner Planes
+The Astral Planes
+The Outer Planes
+Appendix 1: Treasure Tables
+Coins
+Gems
+Objects of Art
+Appendix 2: Magical Item Tables
+Magical Items
+Armor and Shields
+Magical Weapons
+Appendix 3: Magical Item descriptions
+Potions
+Identifying Potions
+Combining Potions
+Potion Duration
+List of Potions
+Scrolls
+Spell Level of Scroll Spells
+Magical Spell Failure
+Use of Scroll Spells
+Casting Scroll Effects
+Protection Scroll Effects
+Who Can Use Scroll Spells?
+Spell Level Range
+Cursed Scrolls
+Maps
+List of Protection Scrolls
+Rings
+List of Rings
+Rods
+Command Words (Optional Rule)
+List of Rods
+Staves
+Command Words (Optional Rule)
+List of Staves
+Wands
+Command Words (Optional Rule)
+List of Wands
+Miscellaneous Magic
+Categories of Magical Items
+Armor and Shields
+Magical Weapons
+Light Generation
+Unknown or Unusual Qualities
+Magical Weapon List
+Intelligent Weapons
+Intelligent Weapon Alignment
+Weapon Abilities
+Weapon Ego
+Weapons Versus Characters
+Index
+*Tables
+Table 1: METHOD I CHARACTERS
+Table 2: METHOD II CHARACTERS
+Table 3: METHOD III CHARACTERS
+Table 4: METHOD IV CHARACTERS
+Table 5: METHOD V CHARACTERS
+Table 6: METHOD VI CHARACTERS
+Table 7: RACIAL CLASS AND LEVEL LIMITS
+Table 8: PRIME REQUISITE BONUSES
+Table 9: MAXIMUM LEVELS FOR VARIANT RACES
+Table 10: 0-LEVEL HIT POINTS BY TITLE
+Table 11: RACE
+Table 12: COMBAT VALUE USED
+Table 13: SAVING THROW TABLE USED
+Table 14: HIT DICE PER LEVEL
+Table 15: ARMOR ALLOWED
+Table 16: WEAPONS ALLOWED
+Table 17: HIT POINTS PER LEVEL BEING 9TH
+Table 18: OPTIONAL ABILITIES
+Table 19: THIEF AVERAGE ABILITY TABLE
+Table 20: RESTRICTIONS
+Table 21: BASE EXPERIENCE POINTS
+Table 22: PLAYER CHARACTER LIVING EXPENSES
+Table 23: EQUIPMENT BY TIME PERIOD
+Table 24: LOCK QUALITY
+Table 25: HORSE QUALITY
+Table 26: HORSE TRAITS
+Table 27: UNUSUAL METAL ARMORS
+Table 28: HIT POINTS OF ITEMS
+Table 29: ITEM SAVING THROWS
+Table 30: SPELL BOOK CAPACITIES
+Table 31: CREATURE EXPERIENCE POINTS VALUES
+Table 32: HIT DICE VALUE MODIFIERS
+Table 33: COMMON INDIVIDUAL AWARD
+Table 44: INDIVIDUAL CLASS AWARDS
+Table 35: COMBAT MODIFIERS
+Table 36: WEAPON TYPE VS, ARMOR MODIFIERS
+Table 37: THACO ADVANCEMENT
+Table 38: CALCULATED THAC0
+Table 39: CREATURE THAC0
+Table 40: STANDARD MODIFIERS TO INITIATIVE
+Table 41: OPTIONAL MODIFIERS TO INITIATIVE
+Table 42: ARMOR MODIFIERS FOR WRESTLING
+Table 43: PUNCHING AND WRESTLING RESULTS
+Table 44: COVER AND CONCEALMENT MODIFIERS
+Table 45: GRENADE-LIKE MISSILE EFFECTS
+Table 46: CHARACTER SAVING THROWS
+Table 47: TURNING UNDEAD
+Table 48: HIT DICE VS. IMMUNITY
+Table 49: MORALE RATINGS
+Table 50: SITUATIONAL MODIFIERS
+Table 51: POISON STRENGTH
+Table 52: STRUCTURAL SAVING THROWS
+Table 53: MOUNTED MISSILE FIRE
+Table 54: 2-20 ENCOUNTER TABLE
+Table 55: DUNGEON LEVEL
+Table 56: FREQUENCY & CHANCE OF WILDERNESS ENCOUNTERS
+Table 57: SURPRISE MODIFIERS
+Table 58: ENCOUNTER DISTANCE
+Table 59: ENCOUNTER REACTIONS
+Table 60: NPC PROFESSIONS
+Table 61: FIELDS OF STUDY
+Table 62: SAGE MODIFIERS
+Table 63: RESEARCH TIMES
+Table 64: MILITARY OCCUPATIONS
+Table 65: COMMON WAGES
+Table 66: EUROPEAN TITLES
+Table 67: ORIENTAL TITLES
+Table 68: RELIGIOUS TITLES
+Table 69: NPC SPELL COSTS
+Table 70: GENERAL TRAITS
+Table 71: PERMANENT MORALE MODIFIERS
+Table 72: OPTIONAL DEGREES OF DARKNESS
+Table 73: TERRAIN EFFECTS ON MOWEMENT
+Table 74: TERRAIN COSTS FOR OVERLAND MOVEMENT
+Table 75: TERRAIN MODIFIERS
+Table 76: BOAT MOVEMENT
+Table 77: SHIP TYPES
+Table 78: SAILING MOVEMENT MODIFIERS
+Table 79: WEATHER CONDITIONS
+Table 80: AERIAL MOVEMENT MODIFIERS
+Table 81: CHANCE OF GETTING HOPELESSLY LOST
+Table 82: LOST MODIFIERS
+Table 83: CHANCE TO HEAR NOISE BY RACE
+Table 84: TREASURE TYPES
+Table 85: GEM TABLE
+Table 86: GEM VARIATIONS
+Table 87: OBJECTS OF ART
+Table 88: MAGICAL ITEMS
+Table 89: POTIONS AND OILS
+Table 90: SCROLLS
+Table 91: RINGS
+Table 92: RODS
+Table 93: STAVES
+Table 94: WANDS
+Table 95: MISC. MAGIC (BOOKS, LIBRAMS, MANUALS, TOMES)
+Table 96: MISC. MAGIC (JEWELS, JEWELRY, PHYLACTERIES)
+Table 97: MISC. MAGIC (CLOAKS AND ROBES)
+Table 98: MISC, MAGIC (BOOTS, BRACERS, GLOVES)
+Table 99: MISC. MAGIC (GIRDLES, HATS, HELMS)
+Table 100: MISC, MAGIC (BAGS, BOTTLES, POUCHES, CONTAINERS)
+Table 101: MISC, MAGIC (CANDLES, DUSTS, OINTMENTS, INCENSE, STONES)
+Table 102: MISC, MAGIC (HOUSEHOLD ITEMS AND TOOLS)
+Table 103: MISC. MAGIC (MUSICAL INSTRUMENTS)
+Table 104: MISC, MAGIC (THE WEIRD STUPFF)
+Table 105: ARMOR TYPE
+Table 106: ARMOR CLASS ADJUSTMENT
+Table 107: SPECIAL ARMORS
+Table 108: WEAPON TYPE
+Table 109: ATTACK ROLL ADJUSTMENT
+Table 110: SPECIAL WEAPONS
+Table 111: POTION COMPATIBILITY
+Table 112: SPELL FAILURE
+Table 113: WEAPON INTELLIGENCE AND CAPABILITIES
+Table 114: WEAPON ALIGNMENT
+Table 115: WEAPON PRIMARY ABILITIES
+Table 116: WEAPON EXTRAORDINARY
+Table 117: SPECIAL PURPOSE WEAPONS
+Table 118: LANGUAGES SPOKEN BY WEAPON
+Table 119: WEAPON EGO

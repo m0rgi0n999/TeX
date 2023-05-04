@@ -1,0 +1,2311 @@
+= Appendix 2: Magical Item Tables =
+When possible, the DM should select the magical items he gives out in his campaign. Sometimes, however, the DM has more pressing game matters on his mind, To determine randomly what magical item has been found, roll on Table 88, This table directs you to one of the specific categories in Tables 89 - 108.
+
+Items followed by a group name are usable only by characters of that group.
+
+Note: XP Value is the number of experience points a character gets for making an item.
+{| class="wikitable"
+	|+Table 88: MAGICAL ITEMS
+	! D20 Roll
+	! Category
+	|-
+	| 01-20
+	| Potions and Oils
+	|-
+	| 21-35
+	| Scrolls
+	|-
+	| 36-40
+	| Rings
+	|-
+	| 41
+	| Rods
+	|-
+	| 42
+	| Staves
+	|-
+	| 43-45
+	| Wands
+	|-
+	| 46
+	| Miscellaneous Magic: Books and Tomes
+	|-
+	| 47-48
+	| Miscellaneous Magic: Jewels and Jewelry
+	|-
+	| 49-50
+	| Miscellaneous Magic: Cloaks and Robes
+	|-
+	| 51-52
+	| Miscellaneous Magic: Boots and Gloves
+	|-
+	| 53
+	| Miscellaneous Magic: Girdles and Helms
+	|-
+	| 54-55
+	| Miscellaneous Magic; Bags and Bottles
+	|-
+	| 56
+	| Miscellaneous Magic: Dusts and Stones
+	|-
+	| 57
+	| Miscellaneous Magic: Household Items and Tools
+	|-
+	| 58
+	| Miscellaneous Magic: Musical Instruments
+	|-
+	| 59-60
+	| Miscellaneous Magic: The Weird Stuff
+	|-
+	| 61-75
+	| Armor and Shields
+	|-
+	| 76-100
+	| Weapons
+|}
+Once the general category is determined, the DM can choose a specific item from the tables below. (Each item on the tables is given a die roll number so that the DM can select items randomly, if he chooses.) Some tables have several subtables. Each subtable has a range of numbers in parentheses at the top. To select the appropriate subtable, check the die listed after the table’s title. Roll the listed die and find the result in the number range at the top of one of the subtables. This is the subtable you read to determine which item in the list has been found. For example, the Potions and Oils table has “(d6)” after the title. That means you roll a 6-sided die to determine which Subtable (A, B, or C) to read, If you roll a 2, for example, you check subtable A (which has “1-2”
+at the top); if you roll a 6, you read subtable C (which has “5-6” at the top). Roll 1d20 on the appropriate subtable to determine the specific item found, Then turn to the descriptions following the tables to find out what each item does.
+{| class="wikitable"
+	|+Table 89: POTIONS AND OILS (D6)
+	! colspan="3"|Subtable A (1-2)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Animal Control*
+	| 250
+	|-
+	| 2
+	| Clairaudience
+	| 250
+	|-
+	|-
+	| 3
+	| Clairvoyance
+	| 300
+	|-
+	| 4
+	| Climbing
+	| 300
+	|-
+	| 5-6
+	| Delusion**
+	| —
+	|-
+	| 7
+	| Diminution
+	| 300
+	|-
+	| 8
+	| Dragon Control*
+	| 700
+	|-
+	| 9
+	| Elixir of Health
+	| 350
+	|-
+	| 10-11
+	| Elixir of Madness**
+	| —
+	|-
+	| 12
+	| Elixir of Youth
+	| 500
+	|-
+	| 13
+	| ESP
+	| 500
+	|-
+	| 14-15
+	| Extra-healing
+	| 400
+	|-
+	| 16
+	| Fire Breath
+	| 400
+	|-
+	| 17
+	| Fire Resistance
+	| 250
+	|-
+	| 18
+	| Flying
+	| 500
+	|-
+	| 19
+	| Gaseous Form
+	| 300
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	! colspan="3"| Subtable B (3-4)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Giant Control*
+	| 600
+	|-
+	| 2
+	| Giant Strength* (Warrior)
+	| 550
+	|-
+	| 3
+	| Growth
+	| 250
+	|-
+	| 4-5
+	| Healing
+	| 200
+	|-
+	| 6
+	| Heroism (Warrior)
+	| 300
+	|-
+	| 7
+	| Human Control*
+	| 500
+	|-
+	| 8
+	| Invisibility
+	| 250
+	|-
+	| 9
+	| Invulnerability (Warrior)
+	| 350
+	|-
+	| 10
+	| Levitation
+	| 250
+	|-
+	| 11
+	| Longevity
+	| 500
+	|-
+	| 12
+	| Oil of Acid Resistance
+	| 500
+	|-
+	| 13
+	| Oil of Disenchantment
+	| 750
+	|-
+	| 14
+	| Oil of Elemental Invulnerability*
+	| 500
+	|-
+	| 15
+	| Oil of Etherealness
+	| 600
+	|-
+	| 16
+	| Oil of Fiery Burning
+	| 500
+	|-
+	| 17
+	| Oil of Fumbling**
+	| —
+	|-
+	| 18
+	| Oil of Impact
+	| 750
+	|-
+	| 19
+	| Oil of Slipperiness
+	| 400
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	! colspan="3"| Subtable C (5-6)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Oil of Timelessness
+	| 500
+	|-
+	| 2
+	| Philter of Glibness
+	| 500
+	|-
+	| 3
+	| Philter of Love
+	| 200
+	|-
+	| 4
+	| Philter of Persuasiveness
+	| 400
+	|-
+	| 5
+	| Philter of Stammering and Stuttering**
+	| —
+	|-
+	| 6
+	| Plant Control
+	| 250
+	|-
+	| 7-8
+	| Poison**
+	| —
+	|-
+	| 9
+	| Polymorph Self
+	| 200
+	|-
+	| 10
+	| Rainbow Hues
+	| 200
+	|-
+	| 11
+	| Speed
+	| 200
+	|-
+	| 12-13
+	| Super-heroism (Warrior)
+	| 450
+	|-
+	| 14
+	| Sweet Water
+	| 200
+	|-
+	| 15
+	| Treasure Finding
+	| 600
+	|-
+	| 16
+	| Undead Control*
+	| 700
+	|-
+	| 17
+	| Ventriloquism
+	| 200
+	|-
+	| 18
+	| Vitality
+	| 300
+	|-
+	| 19
+	| Water Breathing
+	| 400
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; The type of creature affected can be determined by die roll (see the specific item description for more information).<br/>
+&#42;&#42; The DM shouldn’t reveal the exact nature of the potion.
+{| class="wikitable"
+	|+Table 90: SCROLLS (D6)
+	! colspan="3"| Subtable A (1-4)
+	|-
+	! D20 Roll
+	! Item*
+	! Level Range
+	|-
+	| 1-3
+	| 1 spell
+	| 1-4
+	|-
+	| 4-5
+	| 1 spell
+	| 1-6
+	|-
+	| 6
+	| 1 spell
+	| 2-9 (2-7**)
+	|-
+	| 7
+	| 2 spells
+	| 1-4
+	|-
+	| 8
+	| 2 spells
+	| 2-9 (2-7**)
+	|-
+	| 9
+	| 3 spells
+	| 1-4
+	|-
+	| 10
+	| 3 spells
+	| 2-9 (2-7**)
+	|-
+	| 11
+	| 4 spells
+	| 1-6
+	|-
+	| 12
+	| 4 spells
+	| 1-8 (1-6**)
+	|-
+	| 13
+	| 5 spells
+	| 1-6
+	|-
+	| 14
+	| 5 spells
+	| 1-8 (1-6**)
+	|-
+	| 15
+	| 6 spells
+	| 1-6
+	|-
+	| 16
+	| 6 spells
+	| 3-8 (3-6**)
+	|-
+	| 17
+	| 7 spells
+	| 1-8
+	|-
+	| 18
+	| 7 spells
+	| 2-9 (2-7**)
+	|-
+	| 19
+	| 7 spells
+	| 4-9 (4-7**)
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	| colspan="3"|&#42; See page 146 to determine whether a priest scroll or a wizard scroll is found.
+	|-
+	| colspan="3"|&#42;&#42; Level Range lists the range of spell levels on the scroll. Ranges marked with double asterisks (**) are used to determine priest spells.
+	|-
+	! colspan="3"| Subtable B (5-6)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Map
+	| —
+	|-
+	| 2
+	| Protection—Acid
+	| 2,500
+	|-
+	| 3
+	| Protection—Cold
+	| 2,000
+	|-
+	| 4
+	| Protection— Dragon Breath
+	| 2,000
+	|-
+	| 5
+	| Protection—Electricity
+	| 1,500
+	|-
+	| 6-7
+	| Protection—Elementals
+	| 1,500
+	|-
+	| 8
+	| Protection—Fire
+	| 2,000
+	|-
+	| 9
+	| Protection—Gas
+	| 2,000
+	|-
+	| 10-11
+	| Protection—Lycanthropes
+	| 1,000
+	|-
+	| 12
+	| Protection — Magic
+	| 1,500
+	|-
+	| 13
+	| Protection —Petrification
+	| 2,000
+	|-
+	| 14
+	| Protection — Plants
+	| 1,000
+	|-
+	| 15
+	| Protection—Poison
+	| 1,000
+	|-
+	| 16
+	| Protection— Possession
+	| 2,000
+	|-
+	| 17
+	| Protection— Undead
+	| 1,500
+	|-
+	| 18
+	| Protection—Water
+	| 1,500
+	|-
+	| 19
+	| Cursed
+	| —
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+The XP Value (experience point value) for spell scrolls is equal to the total spell levels contained on the scroll x 100.
+{| class="wikitable"
+	|+Table 91: RINGS (D6)
+	! colspan="3"| Subtable A (1-4)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Animal Friendship
+	| 1,000
+	|-
+	| 2
+	| Blinking
+	| 1,000
+	|-
+	| 3
+	| Chameleon Power
+	| 1,000
+	|-
+	| 4
+	| Clumsiness
+	| —
+	|-
+	| 5
+	| Contrariness
+	| —
+	|-
+	| 6-7
+	| Delusion
+	| —
+	|-
+	| 8
+	| Djinni Summoning*
+	| 3,000
+	|-
+	| 9
+	| Elemental Command
+	| 5,000
+	|-
+	| 10
+	| Feather Falling
+	| 1,000
+	|-
+	| 11
+	| Fire Resistance
+	| 1,000
+	|-
+	| 12
+	| Free Action
+	| 1,000
+	|-
+	| 13
+	| Human Influence
+	| 2,000
+	|-
+	| 14
+	| Invisibility
+	| 1,500
+	|-
+	| 15-16
+	| Jumping
+	| 1,000
+	|-
+	| 17
+	| Mammal Control*
+	| 1,000
+	|-
+	| 18
+	| Mind Shielding
+	| 500
+	|-
+	| 19
+	| Protection
+	| 1,000**
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	! colspan="3"| Subtable B (5-6)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1-2
+	| Protection
+	| 1,000**
+	|-
+	| 3
+	| Ram, Ring of the*
+	| 750
+	|-
+	| 4
+	| Regeneration
+	| 5,000
+	|-
+	| 5
+	| Shocking Grasp
+	| 1,000
+	|-
+	| 6
+	| Shooting Stars
+	| 3,000
+	|-
+	| 7
+	| Spell Storing
+	| 2,500
+	|-
+	| 8
+	| Spell Turning
+	| 2,000
+	|-
+	| 9
+	| Sustenance
+	| 500
+	|-
+	| 10
+	| Swimming
+	| 1,000
+	|-
+	| 11
+	| Telekinesis*
+	| 2,000
+	|-
+	| 12
+	| Truth
+	| 1,000
+	|-
+	| 13
+	| Warmth
+	| 1,000
+	|-
+	| 14
+	| Water Walking
+	| 1,000
+	|-
+	| 15
+	| Weakness
+	| —
+	|-
+	| 16
+	| Wishes, Multiple*
+	| 5,000
+	|-
+	| 17
+	| Wishes, Three*
+	| 3,000
+	|-
+	| 18
+	| Wizardry* (Wizard)
+	| 4,000
+	|-
+	| 19
+	| X-Ray Vision
+	| 4,000
+	|-
+	| 20
+	| DM‘’s Choice
+	| —
+|}
+&#42; The power of these rings is limited by the number of charges.<br/>
+&#42;&#42; per +1 of protection
+
+{| class="wikitable"
+	|+Table 92: RODS
+	! D20 Roll
+	! item
+	! XP Value
+	|-
+	| 1-2
+	| Absorption (Priest, Wizard)
+	| 7,500
+	|-
+	| 4
+	| Alertness
+	| 7,000
+	|-
+	| 5
+	| Beguiling (Priest, Wizard, Rogue)
+	| 5,000
+	|-
+	| 6-7
+	| Cancellation
+	| 10,000
+	|-
+	| 8
+	| Flailing
+	| 2,000
+	|-
+	| 9
+	| Lordly Might (Warrior)
+	| 6,000
+	|-
+	| 10
+	| Passage
+	| 5,000
+	|-
+	| 11
+	| Resurrection (Priest)
+	| 10,000
+	|-
+	| 12
+	| Rulership
+	| 8,000
+	|-
+	| 13-14
+	| Security
+	| 3,000
+	|-
+	| 15-16
+	| Smiting (Priest, Wizard)
+	| 4,000
+	|-
+	| 17
+	| Splendor
+	| 2,500
+	|-
+	| 18-19
+	| Terror
+	| 3,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+{| class="wikitable"
+	|+Table 93: STAVES
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1-2
+	| Mace
+	| 1,500
+	|-
+	| 3
+	| Command (Priest, Wizard)
+	| 5,000
+	|-
+	| 4-5
+	| Curing (Priest)
+	| 6,000
+	|-
+	| 6
+	| Magi (Wizard)
+	| 15,000
+	|-
+	| 7
+	| Power (Wizard)
+	| 12,000
+	|-
+	| 8
+	| Serpent (Priest)
+	| 7,000
+	|-
+	| 9-10
+	| Slinging (Priest)
+	| 2.000
+	|-
+	| 11-12
+	| Spear
+	| 1,000*
+	|-
+	| 13-14
+	| Striking (Priest, Wizard)
+	| 6,000
+	|-
+	| 15
+	| Swarming Insects (Priest, Wizard)
+	| 100**
+	|-
+	| 16
+	| Thunder & Lightning
+	| 8,000
+	|-
+	| 17-18
+	| Withering
+	| 8,000
+	|-
+	| 19
+	| Woodlands (Druid)
+	| 8,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; per +1 of power<br/>
+&#42;&#42; per charge
+{| class="wikitable"
+	|+Table 94: WANDS
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Conjuration (Wizard)
+	| 7,000
+	|-
+	| 2
+	| Earth and Stone
+	| 1,000
+	|-
+	| 3
+	| Enemy Detection
+	| 2,000
+	|-
+	| 4
+	| Fear (Priest, Wizard)
+	| 3,000
+	|-
+	| 5
+	| Fire (Wizard)
+	| 4,500
+	|-
+	| 6
+	| Flame Extinguishing
+	| 1,500
+	|-
+	| 7
+	| Frost (Wizard)
+	| 6,000
+	|-
+	| 8
+	| Uhumination
+	| 2,000
+	|-
+	| 9
+	| Illusion (Wizard)
+	| 3,000
+	|-
+	| 10
+	| Lightning (Wizard)
+	| 4,000
+	|-
+	| 11
+	| Magic Detection
+	| 2,500
+	|-
+	| 12
+	| Magic Missiles
+	| 4,000
+	|-
+	| 13
+	| Metal and Mineral Detection
+	| 1,500
+	|-
+	| 14
+	| Negation
+	| 3,500
+	|-
+	| 15
+	| Paralyzation (Wizard)
+	| 3,500
+	|-
+	| 16
+	| Polymorphing (Wizard)
+	| 3,500
+	|-
+	| 17
+	| Secret Door and Trap Location
+	| 5,000
+	|-
+	| 18
+	| Size Alteration
+	| 3,000
+	|-
+	| 19
+	| Wonder
+	| 6,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+{| class="wikitable"
+	|+Table 95: MISCELLANEOUS MAGIC: Books, Librams, Manuals, Tomes
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1-3
+	| Boccob’s Blessed Book (Wizard)
+	| 4,500
+	|-
+	| 4
+	| Book of Exalted Deeds (Priest)
+	| 8,000
+	|-
+	| 5
+	| Book of Infinite Spells
+	| 9,000
+	|-
+	| 6
+	| Book of Vile Darkness (Priest)
+	| 8,000
+	|-
+	| 7
+	| Libram of Gainful Conjuration (Wizard)
+	| 8,000
+	|-
+	| 8
+	| Libram of Ineffable Damnation (Wizard)
+	| 8,000
+	|-
+	| 9
+	| Libram of Silver Magic (Wizard)
+	| 8,000
+	|-
+	| 10
+	| Manual of Bodily Health
+	| 5,000
+	|-
+	| 11
+	| Manual of Gainful Exercise
+	| 5,000
+	|-
+	| 12
+	| Manual of Golems (Priest, Wizard)
+	| 3,000
+	|-
+	| 13
+	| Manual of Puissant Skill at Arms (Warrior)
+	| 8,000
+	|-
+	| 14
+	| Manual of Quickness in Action
+	| 5,000
+	|-
+	| 15
+	| Manual of Stealthy Pilfering (Rogue)
+	| 8,000
+	|-
+	| 16
+	| Tome of Clear Thought
+	| 8,000
+	|-
+	| 17
+	| Tome of Leadership and Influence
+	| 7,500
+	|-
+	| 18
+	| Tome of Understanding
+	| 8,000
+	|-
+	| 19
+	| Vacuous Grimoire
+	| —
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+{| class="wikitable"
+	|+Table 96: MISCELLANEOUS MAGIC: Jewels, Jewelry, Phylacteries (D6)
+	! colspan="3"| Subtable A (1-3)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Amulet of Inescapable Location
+	| —
+	|-
+	| 2
+	| Amulet of Life Protection
+	| 5,000
+	|-
+	| 3
+	| Amulet of the Planes
+	| 6,000
+	|-
+	| 4
+	| Amulet of Proof Against Detection and Location
+	| 4,000
+	|-
+	| 5
+	| Amulet Versus Undead
+	| 200*
+	|-
+	| 6
+	| Beads of Force
+	| 200 ea.
+	|-
+	| 7
+	| Brooch of Shielding
+	| 1,000
+	|-
+	| 8
+	| Gem of Brightness
+	| 2,000
+	|-
+	| 9
+	| Gem of Insight
+	| 3,000
+	|-
+	| 10
+	| Gem of Seeing
+	| 2,000
+	|-
+	| 11
+	| Jewel of Attack
+	| —
+	|-
+	| 12
+	| Jewel of Flawlessness
+	| —
+	|-
+	| 13
+	| Medallion of ESP
+	| 2,000
+	|-
+	| 14
+	| Medallion of Thought Projection
+	| —
+	|-
+	| 15
+	| Necklace of Adaptation
+	| 1,000
+	|-
+	| 16-17
+	| Necklace of Missiles
+	| 100**
+	|-
+	| 18
+	| Necklace of Prayer Beads (Priest)
+	| 500***
+	|-
+	| 19
+	| Necklace of Strangulation
+	| —
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	! colspan="3"| Subtable B (4-6)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Perl of Power (Wizards)
+	| 200*
+	|-
+	| 2
+	| Pearl of the Sirines
+	| 900
+	|-
+	| 3
+	| Pearl of Wisdom (Priest)
+	| 500
+	|-
+	| 4
+	| Periapt of Foul Rotting
+	| —
+	|-
+	| 5
+	| Periapt of Health
+	| 1,000
+	|-
+	| 6
+	| Periapt of Proof Against Poison
+	| 1,500
+	|-
+	| 7
+	| Periapt of Wound Closure
+	| 1,000
+	|-
+	| 8
+	| Phylactery of Faithfulness (Priest)
+	| 1,000
+	|-
+	| 9
+	| Phylactery of Long Years (Priest)
+	| 3,000
+	|-
+	| 10
+	| Phylactery of Monstrous Attention (Priest)
+	| —
+	|-
+	| 11
+	| Scarab of Death
+	| —
+	|-
+	| 12
+	| Scarab of Enraging Enemies
+	| 1,000
+	|-
+	| 13
+	| Scarab of Insanity
+	| 1,500
+	|-
+	| 14
+	| Scarab Versus Golems
+	| 2,500
+	|-
+	| 15
+	| Scarab of Protection
+	| ****
+	|-
+	| 16
+	| Talisman of Pure Good (Priest)
+	| 3,500
+	|-
+	| 17
+	| Talisman of the Sphere (Wizard)
+	| 100
+	|-
+	| 18
+	| Talisman of Ultimate Evil (Priest)
+	| 3,500
+	|-
+	| 19
+	| Talisman of Zagy
+	| 1,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Per level<br/>
+&#42;&#42; Per die of damage<br/>
+&#42;&#42;&#42; Per special bead<br/>
+&#42;&#42;&#42;&#42; See item description
+{| class="wikitable"
+	|+Table 97: MISCELLANEOUS MAGIC: Cloaks and Robes
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Cloak of Arachnida
+	| 3,000
+	|-
+	| 2
+	| Cloak of Displacement
+	| 3,000
+	|-
+	| 3-4
+	| Cloak of Elvenkind
+	| 1,000
+	|-
+	| 5
+	| Cloak of Poisonousness
+	| —
+	|-
+	| 6-8
+	| Cloak of Protection
+	| 1,000*
+	|-
+	| 9
+	| Cloak of the Bat
+	| 1,500
+	|-
+	| 10
+	| Cloak of the Manta Ray
+	| 2,000
+	|-
+	| 11
+	| Robe of the Archmagi (Wizard)
+	| 6,000
+	|-
+	| 12
+	| Robe of Blending
+	| 3,500
+	|-
+	| 13
+	| Robe of Eyes (Wizard)
+	| 4,500
+	|-
+	| 14
+	| Robe of Powerlessness (Wizard)
+	| —
+	|-
+	| 15
+	| Robe of Scintillating Colors (Priest, Wizard)
+	| 2,750
+	|-
+	| 16
+	| Robe of Stars (Wizard)
+	| 4,000
+	|-
+	| 17-18
+	| Robe of Useful Items (Wizard)
+	| 1,500
+	|-
+	| 19
+	| Robe of Vermin (Wizard)
+	| —
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Per plus
+{| class="wikitable"
+	|+Table 98: MISCELLANEOUS MAGIC: Boots, Bracers, Gloves
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Boots of Dancing
+	| —
+	|-
+	| 2
+	| Boots of Elvenkind
+	| 1,000
+	|-
+	| 3
+	| Boots of Levitation
+	| 2,000
+	|-
+	| 4
+	| Boots of Speed
+	| 2,500
+	|-
+	| 5
+	| Boots of Striding and Springing
+	| 2,500
+	|-
+	| 6
+	| Boots of the North
+	| 1,500
+	|-
+	| 7
+	| Boots of Varied Tracks
+	| 1,500
+	|-
+	| 8
+	| Boots, Winged
+	| 2,000
+	|-
+	| 9
+	| Bracers of Archery (Warrior)
+	| 1,000
+	|-
+	| 10
+	| Bracers of Brachiation
+	| 1,000
+	|-
+	| 11-12
+	| Bracers of Defense
+	| 500*
+	|-
+	| 13
+	| Bracers of Defenselessness
+	| —
+	|-
+	| 14
+	| Gauntlets of Dexterity
+	| 1,000
+	|-
+	| 15
+	| Gauntets of Fumbling
+	| —
+	|-
+	| 16
+	| Gauntlets of Ogre Power (Priest, Rogue, Warrior)
+	| 1,000
+	|-
+	| 17
+	| Gauntlets of Swimming and Climbing (Priest, Rogue, Warrior)
+	| 1,000
+	|-
+	| 18
+	| Gloves of Missile Snaring
+	| 1,500
+	|-
+	| 19
+	| Slippers of Spider Climbing
+	| 1,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Per AC of protection less than 10
+{| class="wikitable"
+	|+Table 99: MISCELLANEOUS MAGIC: Girdles, Hats, Helms
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1-3
+	| Girdle of Dwarvenkind
+	|-
+	| 3,500
+	| 4
+	| Girdle of Femininity/Masculinity (Priest, Rogue. Warrior)
+	|-
+	| —
+	| 5-6
+	| Girdle of Giant Strength (Priest, Rogue Warrior)
+	|-
+	| 2,000
+	| 7-9
+	| Girdle of Many Pouches
+	|-
+	| 1,000
+	| 10
+	| Hat of Disguise
+	|-
+	| 1,000
+	| 11
+	| Hat of Stupidity
+	|-
+	| —
+	| 12
+	| Helm of Brilliance
+	|-
+	| 2,500
+	| 13-14
+	| Helm of Comprehending Languages and Reading Magic
+	|-
+	| 1,000
+	| 15
+	| Helm of Opposite Alignment
+	|-
+	| —
+	| 16
+	| Helm of Telepathy
+	|-
+	| 3,000
+	| 17
+	| Helm of Teleportation
+	|-
+	| 2,500
+	| 18-19
+	| Helm of Underwater Action
+	| 1,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+{| class="wikitable"
+	|+Table 100; MISCELLANEOUS MAGIC: Bags, Bottles, Pouches, Containers
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Alchemy Jug
+	| 3,000
+	|-
+	| 2
+	| Bag of Beans
+	| 1,000
+	|-
+	| 3
+	| Bag of Devouring
+	| —
+	|-
+	| 4-7
+	| Bag of Holding
+	| 5,000
+	|-
+	| 8
+	| Bag of Transmuting
+	| —
+	|-
+	| 9
+	| Bag of Tricks
+	| 2,500
+	|-
+	| 10
+	| Beaker of Plentiful Potions
+	| 1,500
+	|-
+	| 11
+	| Bucknard’s Everfull Purse
+	| *
+	|-
+	| 12
+	| Decanter of Endless Water
+	| 1,000
+	|-
+	| 13
+	| Efreeti Bottle
+	| 9,000
+	|-
+	| 14
+	| Eversmoking Bottle
+	| 500
+	|-
+	| 15
+	| Flask of Curses
+	| —
+	|-
+	| 16
+	| Heward’s Handy Haversack
+	| 3,000
+	|-
+	| 17
+	| Iron Flask
+	| —
+	|-
+	| 18
+	| Portable Hole
+	| 5,000
+	|-
+	| 19
+	| Pouch of Accessibility
+	| 1,500
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; See item description
+{| class="wikitable"
+	|+Table 101: MISCELLANEOUS MAGIC: Candles, Dusts, Ointments, Incense, and Stones
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Candle of Invocation (Priest)
+	| 1,000
+	|-
+	| 2
+	| Dust of Appearance
+	| 1,000
+	|-
+	| 3
+	| Dust of Disappearance
+	| 2,000
+	|-
+	| 4
+	| Dust of Dryness
+	| 1,000
+	|-
+	| 5
+	| Dust of Illusion
+	| 1,000
+	|-
+	| 6
+	| Dust of Tracelessness
+	| 500
+	|-
+	| 7
+	| Dust of Sneezing and Choking
+	| —
+	|-
+	| 8
+	| Incense of Meditation (Priest)
+	| 500
+	|-
+	| 9
+	| Incense of Obsession (Priest)
+	| —
+	|-
+	| 10
+	| Ioun Stones
+	| 300*
+	|-
+	| 11
+	| Keoghtom’s Ointment
+	| 500
+	|-
+	| 12
+	| Nolzur’s Marvelous Pigments
+	| 500*
+	|-
+	| 13
+	| Philosopher’s Stone
+	| 1,000
+	|-
+	| 14
+	| Smoke Powder**
+	| —
+	|-
+	| 15
+	| Sovereign Glue
+	| 1,000
+	|-
+	| 16
+	| Stone of Controlling Earth Elementals
+	| 1,500
+	|-
+	| 17
+	| Stone of Good Luck (Luckstone)
+	| 3,000
+	|-
+	| 18
+	| Stone of Weight (Loadstone)
+	| —
+	|-
+	| 19
+	| Universal Solvent
+	| 1,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Per stone or pot of pigment<br/>
+&#42;&#42; This item is optional and should not be given unless the arquebus is allowed in the campaign
+{| class="wikitable"
+	|+Table 102: MISCELLANEOUS MAGIC: Household Items and Tools
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Brazier Commanding Fire Elementals (Wizard)
+	| 4,000
+	|-
+	| 2
+	| Brazier of Sleep Smoke (Wizard)
+	| —
+	|-
+	| 3
+	| Broom of Animated Attack
+	| —
+	|-
+	| 4
+	| Broom of Flying
+	| 2,000
+	|-
+	| 5
+	| Carpet of Flying
+	| 7,500
+	|-
+	| 6
+	| Mattock of the Titans (Warrior)
+	| 3,500
+	|-
+	| 7
+	| Maul of the Titans (Warrior)
+	| 4,000
+	|-
+	| 8
+	| Mirror of Life Trapping (Wizard)
+	| 2,500
+	|-
+	| 9
+	| Mirror of Mental Prowess
+	| 5,000
+	|-
+	| 10
+	| Mirror of Opposition
+	| —
+	|-
+	| 11
+	| Murlynd’s Spoon
+	| 750
+	|-
+	| 12-13
+	| Rope of Climbing
+	| 1,000
+	|-
+	| 14
+	| Rope of Constriction
+	| —
+	|-
+	| 15
+	| Rope of Entanglement
+	| 1,500
+	|-
+	| 16
+	| Rug of Smothering
+	| —
+	|-
+	| 17
+	| Rug of Welcome (Wizard)
+	| 6,500
+	|-
+	| 18
+	| Saw of Mighty Cutting (Warrior)
+	| 2,000
+	|-
+	| 19
+	| Spade of Colossal
+	| 1,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+{| class="wikitable"
+	|+Table 103: MISCELLANEOUS MAGIC: Musical Instruments
+	! D20 Roll
+	! Item
+	! Value
+	|-
+	| 1
+	| Chime of Interruption
+	| 2,000
+	|-
+	| 2
+	| Chime of Opening
+	| 3,500
+	|-
+	| 3
+	| Chime of Hunger
+	| —
+	|-
+	| 4
+	| Drums of Deafening
+	| —
+	|-
+	| 5
+	| Drums of Panic
+	| 6,500
+	|-
+	| 6
+	| Harp of Charming
+	| 5,000
+	|-
+	| 7
+	| Harp of Discord
+	| —
+	|-
+	| 8
+	| Horn of Blasting
+	| 1,000
+	|-
+	| 9
+	| Horn of Bubbles
+	| —
+	|-
+	| 10
+	| Horn of Collapsing
+	| 1,500
+	|-
+	| 11
+	| Horn of Fog
+	| 400
+	|-
+	| 12
+	| Horn of Goodness (Evil)
+	| 750
+	|-
+	| 13
+	| Horn of the Tritons (Priest, Warrior)
+	| 2,000
+	|-
+	| 14
+	| Horn of Valhalla
+	| 1,000*
+	|-
+	| 15
+	| Lyre of Building
+	| 5,000
+	|-
+	| 16
+	| Pipes of Haunting
+	| 400
+	|-
+	| 17
+	| Pipes of Pain
+	| —
+	|-
+	| 18
+	| Pipes of Sounding
+	| 1,000
+	|-
+	| 19
+	| Pipes of the Sewers
+	| 2,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Only if used by character of appropriate class.
+{| class="wikitable"
+	|+Table 104: MISCELLANEOUS MAGIC: The Weird Stuff (D6)
+	!colspan="3"| Subtable A (1-3)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Apparatus of K
+	| 8,000
+	|-
+	| 2-3
+	| Boat, Folding:
+	| 10,000
+	|-
+	| 4
+	| Bow! Commanding Water Elementals (Wizard)
+	| 4,000
+	|-
+	| 5
+	| Bowl of Watery Death (Wizard)
+	| —
+	|-
+	| 6
+	| Censer Controlling Air Elementals (Wizard)
+	| 4,000
+	|-
+	| 7
+	| Censer of Summoning Hostile Air Elementals (Wizard)
+	| —
+	|-
+	| 8-9
+	| Crystal Ball (Wizard)
+	| 1,000
+	|-
+	| 10
+	| Crystal Hypnosis Ball (Wizard)
+	| —
+	|-
+	| 11
+	| Cube of Force
+	| 3,000
+	|-
+	| 12-13
+	| Cube of Frost Resistance
+	| 2,000
+	|-
+	| 14
+	| Cubic Gate
+	| 5,000
+	|-
+	| 15
+	| Daern’s Instant Fortress
+	| 7,000
+	|-
+	| 16
+	| Deck of Illusions
+	| 1,500
+	|-
+	| 17
+	| Deck of Many Things
+	| —
+	|-
+	| 18
+	| Eyes of Charming (Wizard)
+	| 4,000
+	|-
+	| 19
+	| Eyes of Minute Seeing
+	| 2,000
+	|-
+	| 20
+	| DM''s Choice
+	| —
+	|-
+	!colspan="3"| Subtable B 4-6
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Eyes of Petrification
+	| —
+	|-
+	| 2
+	| Eyes of the Eagle
+	| 3,500
+	|-
+	| 3-4
+	| Figurine of Wondrous Power
+	| 100*
+	|-
+	| 5
+	| Horseshoes of a Zephyr
+	| 1,500
+	|-
+	| 6-7
+	| Horseshoes of Speed
+	| 2,000
+	|-
+	| 8
+	| lron Bands of Bilarro
+	| 750
+	|-
+	| 9
+	| Lens of Detection
+	| 250
+	|-
+	| 10
+	| Quaal’s Feather Token
+	| 1,000
+	|-
+	| 11-12
+	| Quiver of Ehlonna
+	| 1,500
+	|-
+	| 13
+	| Sheet of Smallness
+	| 1,500
+	|-
+	| 14
+	| Sphere of Annihilation
+	| 4,000
+	|-
+	| 15
+	| Stone Horse
+	| 2,000
+	|-
+	| 16
+	| Well of Many Worlds
+	| 6,000
+	|-
+	| 17-18
+	| Wind Fan
+	| 500
+	|-
+	| 19
+	| Wings of Flying
+	| 750
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}
+&#42; Per Hit Die of the figurine.
+
+=== Armor and Shields ===
+To determine the magical item found, roll for the type of armor on Table 105 and then the magical adjustment on Table 106. If a Special armor is found, roll for the type on Table 107.
+{| class="wikitable"
+	|+Table 105: ARMOR TYPE
+	! D20 Roll
+	! Armor
+	|-
+	| 1
+	| Banded mail
+	|-
+	| 2
+	| Brigandine
+	|-
+	| 3-5
+	| Chain mail
+	|-
+	| 6
+	| Field plate
+	|-
+	| 7
+	| Full plate
+	|-
+	| 8
+	| Leather
+	|-
+	| 9-12
+	| Plate mail
+	|-
+	| 13
+	| Ring mail
+	|-
+	| 14
+	| Scale mail
+	|-
+	| 15-17
+	| Shield
+	|-
+	| 18
+	| Splint mail
+	|-
+	| 19
+	| Studded leather
+	|-
+	| 20
+	| Special
+|}
+{| class="wikitable"
+	|+Table 106: ARMOR CLASS ADJUSTMENT
+	! D20 Roll
+	! AC Adj.
+	! XP Value
+	|-
+	| 1-2
+	| -1
+	| —
+	|-
+	| 3-10
+	| +1
+	| 500
+	|-
+	| 11-14
+	| +2
+	| 1,000
+	|-
+	| 15-17
+	| +3
+	| 1,500
+	|-
+	| 18-19
+	| +4
+	| 2,000
+	|-
+	| 20
+	| +5
+	| 3,000
+|}
+{| class="wikitable"
+	|+Table 107; SPECIAL ARMORS
+	! D20 Roll
+	! Armor Type
+	! XP Value
+	|-
+	| 1-2
+	| Armor of Command
+	| +1,000
+	|-
+	| 3-4
+	| Armor of Blending
+	| +500
+	|-
+	| 5-6
+	| Armor of Missile Attraction
+	| —*
+	|-
+	| 7-8
+	| Armor of Rage
+	| —*
+	|-
+	| 9-10
+	| Elven Chain Mail
+	| +1,000
+	|-
+	| 11-12
+	| Plate Mail of Etherealness
+	| 5,000
+	|-
+	| 13-14
+	| Plate Mail of Fear
+	| 4,000
+	|-
+	| 15-16
+	| Plate Mail of Vulnerability
+	| —
+	|-
+	| 17-18
+	| Shield, Large, +1, +4 vs. Missiles
+	| 400
+	|-
+	| 19-20
+	| Shield —1, Missile Attractor
+	| —
+|}
+&#42; No experience points are gained, regardless of the amount of additional AC protection the item provides.
+
+=== Magical Weapons ===
+To determine the type of magical weapon found, roll once on Table 108 for a weapon type. Then roll on Table 109 to determine the plus (or minus) of the weapon. If a Special result is rolled, roll on Table 110 to determine the exact weapon found. A range of numbers in parentheses is the number of items found.
+{| class="wikitable"
+	|+Table 108: WEAPON TYPE
+	! colspan="2"| Subtable A (1-2)
+	! colspan="2"| Subtable B (3-6)
+	|-
+	! D20 Roll
+	! Weapon
+	! D20 Roll
+	! Weapon
+	|-
+	| 1
+	| Arrow (4d6)
+	| 1
+	| Military Pick
+	|-
+	| 2
+	| Arrow (3d6)
+	| 2
+	| Morning Star
+	|-
+	| 3
+	| Arrow (2d6)
+	| 3
+	| Pole Arm
+	|-
+	| 4-5
+	| Axe
+	| 4-5
+	| Scimitar
+	|-
+	| 6
+	| Battle axe
+	| 6-8
+	| Spear
+	|-
+	| 7
+	| Bolt (2d 10)
+	| 9-17
+	| Sword
+	|-
+	| 8
+	| Bolt (2d6)
+	| 18
+	| Trident
+	|-
+	| 9
+	| Bullet, Sling (3d4)
+	| 19
+	| Warhammer
+	|-
+	| 10-12
+	| Dagger
+	| 20
+	| Special (roll on Table 110#)
+	|-
+	| 13
+	| Dart (3d4)
+	|
+	|
+	|-
+	| 14
+	| Flail
+	|
+	|
+	|-
+	| 15
+	| Javelin (1d2)
+	|
+	|
+	|-
+	| 16
+	| Knife
+	|
+	|
+	|-
+	| 17
+	| Lance
+	|
+	|
+	|-
+	| 18-19
+	| Mace
+	|
+	|
+	|-
+	| 20
+	| Special (roll on Table 110)
+	|
+	|
+|}
+{| class="wikitable"
+	|+Table 109: ATTACK ROLL ADJUSTMENT
+	! D20 Roll
+	! Sword Adj.
+	! XP Value
+	! Other Wpn Adj.
+	! XP Value
+	|-
+	| 1-2
+	| -1
+	| —
+	| -1
+	| —
+	|-
+	| 3-10
+	| +1
+	| 400
+	| +1
+	| 500
+	|-
+	| 11-14
+	| +2
+	| 800
+	| +1
+	| 500
+	|-
+	| 15-17
+	| +3
+	| 1,400
+	| +2
+	| 1,000
+	|-
+	| 18-19
+	| +4
+	| 2,000
+	| +2
+	| 1,000
+	|-
+	| 20
+	| +5
+	| 3,000
+	| +3
+	| 2,000
+|}
+{| class="wikitable"
+	|+Table 110; SPECIAL WEAPONS (D10)
+	! colspan="3"| Subtable A (1-3)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Arrow of Direction
+	| 2,500
+	|-
+	| 2
+	| Arrow of Slaying
+	| 250
+	|-
+	| 3
+	| Axe +2, Throwing
+	| 750
+	|-
+	| 4
+	| Axe of Hurling
+	| *
+	|-
+	| 5-6
+	| Bow +1
+	| 500
+	|-
+	| 7
+	| Crossbow of Accuracy, +3
+	| 2,000
+	|-
+	| 8
+	| Crossbow of Distance
+	| 1,500
+	|-
+	| 9
+	| Crossbow of Speed
+	| 1,500
+	|-
+	| 10-11
+	| =Dagger +1, +2 vs. Tiny or Small creatures
+	| 300
+	|-
+	| 12-13
+	| Dagger +2, +3 vs. larger than man-sized
+	| 300
+	|-
+	| 14
+	| Dagger +2, Longtooth
+	| 300
+	|-
+	| 15
+	| Dagger of Throwing
+	| *
+	|-
+	| 16
+	| Dagger of Venom
+	| 350
+	|-
+	| 17
+	| Dart of Homing
+	| 450
+	|-
+	| 18
+	| Hammer +3, Dwarven Thrower
+	| 1,500
+	|-
+	| 19
+	| Hammer of Thunderbolts
+	| 2,500
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	|colspan="3"| *See item description
+	|-
+	!colspan="3"| Subtable B (4-6)
+	|-
+	! D20 Roll
+	! Item
+	! XP Value
+	|-
+	| 1
+	| Hornblade
+	| *
+	|-
+	| 2
+	| Javelin of Lightning
+	| 250
+	|-
+	| 3
+	| Javelin of Piercing
+	| 250
+	|-
+	| 4-5
+	| Knife, Buckle
+	| 150
+	|-
+	| 6-7
+	| Mace of Disruption
+	| 2,000
+	|-
+	| 8
+	| Net of Entrapment
+	| 1,000
+	|-
+	| 9
+	| Net of Snaring
+	| 1,000
+	|-
+	| 10-11
+	| Quarterstaff, Magical
+	| 500
+	|-
+	| 12
+	| Scimitar of Speed
+	| *
+	|-
+	| 13-14
+	| Sling of Seeking +2
+	| 700
+	|-
+	| 15
+	| Spear, Cursed Backbiter
+	| —
+	|-
+	| 16
+	| Trident of Fish Command
+	| 500
+	|-
+	| 17
+	| Trident of Submission
+	| 1,500
+	|-
+	| 18
+	| Trident of Warning
+	| 1,000
+	|-
+	| 19
+	| Trident of Yearning
+	| —
+	|-
+	| 20
+	| DM’s Choice
+	| —
+	|-
+	|colspan="3"|*See item description
+	|-
+	!colspan="3"| Subtable C (7-9)
+	|-
+	! D20 Roll
+	! Sword
+	! XP Value
+	|-
+	| 1
+	| Sun Blade
+	| 3,000
+	|-
+	| 2-7
+	| Sword +1, +2 vs. magic-using & enchanted creatures
+	| 600
+	|-
+	| 8-10
+	| Sword +1, +3 vs. lycanthropes & shape-changers
+	| 700
+	|-
+	| 11-12
+	| Sword +1, +3 vs. regenerating creatures
+	| 800
+	|-
+	| 13
+	| Sword +1, +4 vs. reptiles
+	| 800
+	|-
+	| 14-15
+	| Sword +1, Cursed
+	| —
+	|-
+	| 16
+	| Sword +1, Flame Tongue
+	| 900
+	|-
+	| 17
+	| Sword +1, Luck Blade
+	| 1,000
+	|-
+	| 18
+	| Sword +2, Dragon Slayer
+	| 900
+	|-
+	| 19
+	| Sword +2, Giant Slayer
+	| 900
+	|-
+	| 20
+	| DM‘s Choice
+	| —
+	|-
+	!colspan="3"| Subtable D (10)
+	|-
+	! D20 Roll
+	! Swords
+	! XP Value
+	|-
+	| 1
+	| Sword +2, Nine Lives Stealer
+	| 1,600
+	|-
+	| 2-3
+	| Sword +3, Frost Brand
+	| 1,600
+	|-
+	| 4
+	| Sword +4, Defender
+	| 3,000
+	|-
+	| 5
+	| Sword +5, Defender
+	| 3,600
+	|-
+	| 6
+	| Sword +5, Holy Avenger
+	| 4,000
+	|-
+	| 7-8
+	| Sword -2, Cursed
+	| —
+	|-
+	| 9
+	| Sword of Dancing
+	| 4,400
+	|-
+	| 10
+	| Sword of Life Stealing
+	| 5,000
+	|-
+	| 11
+	| Sword of Sharpness
+	| 7,000
+	|-
+	| 12
+	| Sword of the Planes
+	| 2,000
+	|-
+	| 13
+	| Sword of Wounding
+	| 4,400
+	|-
+	| 14-16
+	| Sword, Cursed Berserking
+	| —
+	|-
+	| 17-18
+	| Sword, Short, Quickness (+2)
+	| 1,000
+	|-
+	| 19
+	| Sword, Vorpal Weapon
+	| 10,000
+	|-
+	| 20
+	| DM’s Choice
+	| —
+|}

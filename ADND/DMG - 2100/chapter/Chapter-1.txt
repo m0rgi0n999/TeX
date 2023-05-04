@@ -1,0 +1,448 @@
+= Chapter 1: Player Character Ability Scores =
+Each player is responsible for creating his player character. As the DM, however, your decisions have a huge impact on the process. Furthermore, you have final approval over any player character that is created. This chapter outlines what you should consider about character creation and gives guidelines on how to deal with some of the common problems that arise during the character creation. 
+
+== Giving Players What They Want ==
+Players in most AD&D® games play the same character over many game sessions. Most players develop strong ties to their characters and get a huge thrill from watching them advance, grow, and become more successful and powerful. A lot of your game’s success depends on how much your players care about their characters. For these reasons, it is important to let each player create the type of character he really wants to play.
+
+At the same time, watch out for a tendency in some players to want the most powerful character possible. Powerful characters are fine if that’s the sort of campaign you want. A problem arises, however, if players are allowed to exploit the rules, or your good nature, to create a character who is much more powerful than everyone else’s character. At best, this leads to an unbalanced game, at worst, to bored players and hurt feelings.
+
+Therefore, before any player in your game creates his first character, decide which dice-rolling method to allow: will you use method |, any of the five alternate methods, or a seventh method of your own devising? Be prepared with an answer right away, because this is one of the first questions your players will ask!
+
+== Choosing a Character Creation Method ==
+Despite some similarities, the methods are different from one another. Some produce more powerful characters than others (although none produces extremely powerful characters). For this reason, every player in your game should start out using the same method.
+
+If, at some later point in your campaign, you want to change methods, simply announce this to your players. Try to avoid making the announcement just as a player starts rolling up a new character, lest the other players accuse you of favoritism. You know you aren’t playing favorites, but it doesn’t hurt to avoid the appearance.
+
+The advantages and disadvantages of each dice-rolling method are described below (also see page 13 of the Player’s Handbook). Five sample characters created with each method illustrate typical outcomes the different methods are likely to produce.
+
+=== Method I (3d6, in order): ===
+This is the fastest and most straightforward method. There are no decisions to make while rolling the dice, and dice rolling is kept to a minimum. Ability scores range from 3 to 18, but the majority fall in a range from 9 to 12.
+
+Typically, a character will have four scores in the average range, one belowaverage score, and one above-average score. A few lucky players will get several high scores and a few unlucky ones will get just the opposite.
+
+Very high scores are rare, so character classes that require high scores (paladin, ranger, illusionist, druid, bard) are correspondingly rare. This makes characters who qualify for those classes very special indeed. The majority of the player characters will be fighters, clerics, mages, and thieves. Characters with exceptional ability scores will tend to stand out from their comrades.
+
+===== Method I Disadvantages =====
+This method has two disadvantages. First, some players may consider their characters to be hopelessly average. Second, the players don’t get many choices.
+
+Using method I, only luck enables a player to get a character of a particular type, since he has no control over the dice. Most characters have little choice over which class they become: Only one or two options will be open to them. You may have to let players discard a character who is totally unsuitable and start over.
+{| class="wikitable"
+	|+Table 1: METHOD I CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 10
+	| 8
+	| 13
+	| 6
+	| 16
+	|-
+	| Dexterity
+	| 8
+	| 7
+	| 8
+	| 15
+	| 10
+	|-
+	| Constitution
+	| 12
+	| 8
+	| 9
+	| 10
+	| 14
+	|-
+	| Intelligence
+	| 13
+	| 8
+	| 14
+	| 9
+	| 12
+	|-
+	| Wisdom
+	| 12
+	| 10
+	| 11
+	| 9
+	| 13
+	|-
+	| Charisma
+	| 7
+	| 12
+	| 14
+	| 7
+	| 8
+	|-
+	| Suggested Class
+	| Ma
+	| Cl
+	| Ftr/Ma
+	| Th
+	| Ftr
+|}
+
+=== Method II (3d6 twice, keep desired score): ===
+This method gives players better scores without introducing serious ability inflation. It also gives them more control over their characters. The average ability is still in the 9 to 12 range, and players can manipulate their results to bring the characters they create closer to the ideal characters they imagine.
+
+Exceptional player characters are still rare, and unusual character Classes are still uncommon, but few characters will have below-average scores.
+
+===== Method II Disadvantages =====
+Creating the character takes slightly longer because there are more dice to roll. Despite the improved choices, a character may still not be eligible for the race or class the player wants.
+{| class="wikitable"
+	|+Table 2: METHOD Tl CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 12
+	| 11
+	| 9
+	| 9
+	| 15
+	|-
+	| Dexterity
+	| 10
+	| 15
+	| 12
+	| 13
+	| 14
+	|-
+	| Constitution
+	| 11
+	| 11
+	| 16
+	| 14
+	| 14
+	|-
+	| Intelligence
+	| 13
+	| 11
+	| 12
+	| 13
+	| 14
+	|-
+	| Wisdom
+	| 16
+	| 13
+	| 13
+	| 11
+	| 13
+	|-
+	| Charisma
+	| 10
+	| 11
+	| 14
+	| 9
+	| 12
+	|-
+	| Suggested Class
+	| Cl
+	| Th
+	| Cl
+	| Ma
+	| Ftr
+|}
+
+=== Method Ill (3d6, arranged to taste): ===
+This method gives the player more choice when creating his character yet still ensures that, overall, ability scores are not excessive. Bad characters are still possible, especially if a player has several poor rolls. The majority of characters have average abilities.
+
+Since players can arrange their scores however they want, it is easier to meet the requirements for an unusual class. Classes with exceptionally strict standards (the paladin in particular) are still uncommon.
+
+===== Method III Disadvantages =====
+This method is more time-consuming than | or II, especially it players try to “min/max” their choice of race and class. (To min/max, or minimize/maximize, is to examine every possibility for the greatest advantage.) Players may need to be encouraged to create the character they see in their imaginations, not the one that gains the most pluses on dice rolls.
+
+The example below shows fighters created using this method.
+{| class="wikitable"
+	|+Table 3: METHOD III CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 15
+	| 13
+	| 14
+	| 15
+	| 14
+	|-
+	| Dexterity
+	| 11
+	| 12
+	| 9
+	| 10
+	| 12
+	|-
+	| Constitution
+	| 15
+	| 13
+	| 13
+	| 12
+	| 14
+	|-
+	| Intelligence
+	| 7
+	| 8
+	| 8
+	| 9
+	| 11
+	|-
+	| Wisdom
+	| 8
+	| 7
+	| 7
+	| 6
+	| 9
+	|-
+	| Charisma
+	| 7
+	| 12
+	| 7
+	| 7
+	| 11
+|}
+
+=== Method IV (3d6 twice, arranged to taste): ===
+This method has all the benefits of methods II and III. Few, if any, characters are likely to have poor scores, Most scores are above average. The individual score ranges are still not excessively high, so truly exceptional characters are still very rare. However, the majority of characters are significantly above the norm.
+
+===== Method IV Disadvantages =====
+This method tends to be quite slow. Players spend a lot of time comparing different number combinations with the requirements of different races and classes, New players can easily be overwhelmed by the large number of choices during this process. Again, the examples below are arranged for fighters.
+
+
+{| class="wikitable"
+	|+Table 4: METHOD IV CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 15
+	| 14
+	| 15
+	| 16
+	| 15
+	|-
+	| Dexterity
+	| 13
+	| 10
+	| 13
+	| 15
+	| 13
+	|-
+	| Constitution
+	| 13
+	| 12
+	| 15
+	| 15
+	| 15
+	|-
+	| Intelligence
+	| 13
+	| 9
+	| 13
+	| 12
+	| 13
+	|-
+	| Wisdom
+	| 13
+	| 9
+	| 11
+	| 13
+	| 12
+	|-
+	| Charisma
+	| 10
+	| 9
+	| 11
+	| 13
+	| 12
+|}
+
+=== Method V (4d6, drop lowest, arrange as desired): ===
+Before choosing to use this method, think about how adventurers fit into the population as a whole. There are two schools of thought on this issue. One school of thought holds that adventurers are no different from everyone else (except for being a little more foolhardy, headstrong, or restless), The man or woman down the street could be an adventurer—all that’s required is the desire to go out and be one. Therefore, adventurers should get no special bonuses on their ability rolls. The other school holds that adventurers are special people, a cut above the common crowd. If they weren’t exceptional, they would be laborers and businessmen like everyone else. Player characters are heroes, so they should get bonuses on their ability rolls to lift them above the rabble. If you choose method V for creating player characters, then you agree with this second view and believe that adventurers should be better than everyone else. This method creates above-average characters. They won’t be perfect, but the odds are that even their worst ability scores will be average or better. More scores push into the exceptional range (15 and greater). It is easy for a player to create a character of any class and race.
+
+===== Method V Disadvantages =====
+Like other methods that allow deliberate arrangement of ability scores, this one takes some time. It also createsa tendency toward “super” characters without getting out of hand. This can be a problem if your campaign isn’t geared toward that sort of thing. Unless you have a considerable amount of experience as a DM, however, beware of extremely powerful characters. They are much more difficult to challenge and control than characters of moderate power. On the plus side, their chance of survival at lower levels is better than “ordinary” characters. (See “Super Characters,” below, for more on this subject.)
+One last point about method V: High ability scores are less exciting under this method, since they are much more common, as the fighter characters below indicate:
+
+{| class="wikitable"
+	|+Table 5: METHOD V CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 17
+	| 15
+	| 18/37
+	| 16
+	| 14
+	|-
+	| Dexterity
+	| 14
+	| 14
+	| 13
+	| 15
+	| 12
+	|-
+	| Constitution
+	| 15
+	| 14
+	| 14
+	| 15
+	| 17
+	|-
+	| Intelligence
+	| 13
+	| 11
+	| 10
+	| 14
+	| 8
+	|-
+	| Wisdom
+	| 13
+	| 10
+	| 11
+	| 15
+	| 8
+	|-
+	| Charisma
+	| 9
+	| 13
+	| 8
+	| 7
+	| 9
+|}
+
+=== Method VI (points plus dice): ===
+This gives players more control over their characters than any of the other methods. A points system makes it quite likely that a player can get the character he wants—or at least the class and race. However, in doing so, the player must make some serious compromises. It is unlikely that his dice are going to be good enough to make every score as high as he would like. In all likelihood, only one or two ability scores will be exceptional, and miserable dice rolling could lower this even further. The player must carefully weigh the pros and cons of his choices when creating the character.
+
+===== Method VI Disadvantages =====
+This method works best for experienced players, Players who are not familiar with the different character classes and races have a hard time making the necessary (and difficult) decisions. Table 6 shows fighters constructed using this method.
+
+{| class="wikitable"
+	|+Table 6: METHOD VI CHARACTERS
+	!
+	! #1
+	! #2
+	! #3
+	! #4
+	! #5
+	|-
+	| Strength
+	| 18/15
+	| 15
+	| 16
+	| 18/71
+	| 17
+	|-
+	| Dexterity
+	| 12
+	| 11
+	| 11
+	| 13
+	| 12
+	|-
+	| Constitution
+	| 12
+	| 9
+	| 12
+	| 18
+	| 14
+	|-
+	| Intelligence
+	| 11
+	| 9
+	| 10
+	| 11
+	| 11
+	|-
+	| Wisdom
+	| 9
+	| 9
+	| 10
+	| 8
+	| 10
+	|-
+	| Charisma
+	| 8
+	| 8
+	| 9
+	| 9
+	| 13
+|}
+
+== Super Characters ==
+One of the great temptations for players is to create super characters. While this is not true of every player, all the time, the desire for power above everything else afflicts most players at one time or another. Many players see their characters as nothing more than a collection of numbers that attects game systems. They don’t think of their characters as personalities to be developed. Players like this want to “win” the game, somehow, These players are missing out on a Jot of fun. If players are creating new characters for your campaign, you probably won’t have to deal with such super characters. Players can start with ability scores greater than 18 only if the race grants a bonus, but this is extremely rare. Later in the campaign, magic may raise ability scores higher. The greatest difficulty occurs when a player asks to bring in a character from another campaign where characters are more powerful, Unless you are prepared to handle them, super characters can seriously disrupt a campaign: Players with average characters gradually become bored and irritated as the powerful characters dominate the game: players with powerful characters feel held back by their weaker companions. None of this contributes to harmony and cooperation among the characters or the players. Cooperation is a key element of role-playing. In any group of player characters, everyone has strengths to contribute and weaknesses to overcome. This is the basis for the adventuring party—even a small group with sufficiently diverse talents can accomplish deeds far greater than its size would indicate. Now, throw in a character who is an army by himself. He doesn’t need the other characters, except perhaps as cannon fodder or bearers. He doesn’t need allies. His presence alone destroys one of the most fundamental aspects of the game-—cooperation.
+
+=== Identifying Too-Powerful Characters ===
+There are no absolute rules to define a too-powerful character, since the definition will vary from campaign to campaign. Characters who are average in your game may be weaklings in your friend’s campaign. His characters, in turn, could be frail compared to some other groups. Some experience is required to strike the right balance of power, but characters created using the same method should, at least, be comparable. When someone brings a character from a different campaign and wants to use him in your game, compare the proposed character to those already in the game. You don’t want him to be too strong or too weak, Certainly you should be wary of a character whose ability scores are all 18s!
+
+=== Dealing with Too-Powerful Characters ===
+If you decide a character is too powerful, the player has two choices. First, he can agree to weaken the character in some fashion (subject to your approval). This may be as simple as excluding a few magical items (“No, you can’t bring that holy avenger sword +5 that shoots 30-dice fireballs into my campaign!”). Second, the player can agree not to use some special ability (“I don’t care if your previous DM gave your character the Evil Eye, you can’t jinx my dice rolls!*). If this sort of change seems too drastic or requires altering ability scores or levels, a better option is simply to have the player create a mew character. The old character can be used, without tinkering, in the campaign for which he was created, The new character, more appropriate to your campaign, can develop in your game. Always remember that just because another DM allowed something is no reason you have to do the same!
+
+== Hopeless Characters ==
+At the other extreme from the super character is the character who appears hopeless. The player is convineed his new character has a fatal flaw that guarantees a quick and ugly death under the claws of some imaginary foe. Discouraged, he asks to scrap the character and create another. In reality, few, if any, characters are truly hopeless. Certainly, ability scores have an effect on the game, but they are not the overwhelming factor in a character’s success or failure—tar more important is the cleverness and ingenuity the player brings to playing the character. When a player bemoans his bad luck and “hopeless” character, he may just be upset because the character is not exactly what he wanted. Some players write off any character who has only one above-average ability score. Some complain if a new character does not qualify for a favorite class or race. Others complain if even one ability score is below average. Some players become stuck in super-character mode. Some want a character with no penalties. Some always want to play a particular character class and feel cheated if their scores won’t allow it. Some players cite numerical formulas as proof of a character’s hopelessness (“A character needs at least 75 ability points to survive” or “A character without two scores of 15 or more is a waste of time"). In reality, there is no such hard and fast formula. There are, in fact, few really hopeless characters at all.
+
+=== Dealing with Hopeless Characters ===
+Before you agree that a character is hopeless, consider the player’s motives. Try to be firm and encourage players to give “bad” characters a try. They might actually enjoy playing something different for a change. A character with one or more very low scores (6 or less) may seem likea loser, like it would be no fun to play. Quite simply, this isn’t true! Just as exceptionally high scores make a character unique, so do very low scores. In the hands of good role-players, such characters are tremendous fun. Encourage the player to be daring and creative. Some of the most memorable characters from history and literature rose to greatness despite their flaws. In many ways, the completely average character is the worst of all. Exceptionally good or exceptionally bad ability scores give a player something to base his role-playing on—whether nimble as a cat or dumb as a box of rocks, at least the character provides something exciting to role-play. Average characters don’t have these simple focal points. The unique, special something that makes a character stand out in a crowd must be provided by the player, and this is not always easy. Too many players fall into the “he’s just your basic fighter” syndrome. In truth, however, even an average character is okay. The only really hopeless character is the rare one that cannot qualify for any character class. The playability of all other characters is up to you.
+
+=== Dealing with Dissatisfied Players ===
+All of the above notwithstanding, you don’t want to force a player to accept a character he really doesn’t like. All you will do is lose a player. If someone really is dissatisfied, either make some adjustments to the character or let him roll up a new one. When adjusting ability scores, follow these guidelines:
+@ Don’t adjust an ability score above the minimum required to qualify for a particular class or race. You are being kind enough already without giving away 10 percent experience bonuses.
+@ Don’t adjust an ability score above 15. Only two classes have ability minimums higher than 15: paladin and illusionist. Only very special characters can become paladins and illusionists. If you give these classes away, they lose their charm.
+@ Don’t adjust an ability score that isn’t required for the race or class the player wants his character to be.
+@ Think twice before raising an ability score to let a character into an optional character class if he already qualifies for the standard class in that group. For example, if Kirizov has the scores he needs to be a half-elf fighter, does he really need to be a half-elf ranger? Encourage the player to develop a character who always wanted to be a ranger but just never got the chance, or who fancies himself a ranger but is allergic to trees. Encourage role-playing!
+
+== Wishes and Ability Scores ==
+Sooner or later player characters are going to gain ''wishes''. Wishes are wonderful things that allow creative players to break the rules in marvelous ways. Inevitably, some player is going to use a ''wish'' to raise his character’s ability scores. This is fine. Player characters should have the chance to raise their ability scores, It can’t be too easy, however, or soon every character in your campaign will have 18s in every ability!
+When a ''wish'' is used to increase a score that is 15 or lower, each wish raises the ability one point. A character with a Dexterity of 15, for example, can use a ''wish'' to raise his Dexterity to 16. If the ability score is between 16 and 20, each wish increases the ability score by only one-tenth of a point, The character must use 10 ''wishes'' to raise his Dexterity score from 16 to 17. The player can record this on his character sheet as 16,1, 16.2, etc. Fractions of a point have no effect until all 10 ''wishes'' have been made. If a character of the warrior group has Strength 18, each wish increases the percentile score by 10 percent. Thus, 11 ''wishes'' are needed to reach Strength 19. When an ability score is greater than 20, each ''wish'' raises it only one-twentieth of a point. This rule applies only to ''wishes'' and ''wish''-like powers. Other magical items (manuals, books, etc.) and the intervention of greater powers can automatically increase an ability score by one point, regardless of its current value.
+
+== Players with Multiple Characters ==
+Each player usually controls one character, but sometimes players may want or need more. Multiple player characters are fine in the right situation. Once your campaign is underway and players learn more about the game world, they may want to have characters in several widely scattered areas throughout that world. Having multiple characters who live and adventure in different regions allows a lot of variety in the game. The characters usually are spread far enough apart that events in one region don’t affect the other. Sometimes players want to try a different class or race of character but do not want to abandon their older, more experienced characters. Again, spreading these characters out across the world is an effective means of keeping them separate and unique. Whenever possible, avoid letting players have more than one character in the same area. If, for some reason, players must have more than one character in an area, make sure that they are of significantly different experience levels. Even this difference should keep them from crossing paths very often. If multiple player characters are allowed, each character should be distinct and different. It is perfectly fair to rule that multiple characters controlled by one person must be different classes—perhaps even different races. This helps the player keep them separate in his imagination. If a player has more than one character available, ask him to choose which character he wants to use for the adventure before he knows what the adventure is about. If a single adventure stretches across several playing sessions, the same character should be used throughout. All of the player’s other characters are busy with something else during this adventure. Avoid letting players take more than one player character along on a single adventure. This usually comes up when the group of characters assembled for the planned adventure is too small to undertake it safely. The best solution to this problem is to adjust the adventure, use a different adventure entirely, or supplement the party with NPC hirelings.
+
+=== Multiple Character Problems ===
+Playing the role of a single character in depth is more than enough work for one person. Adding a second character usually means that both become lists of numbers rather than personalities.
+
+===== Shared Items =====
+One single player/multiple character problem that needs to be nipped in the bud is that of shared equipment, Some players will trade magical items, treasure, maps, and gear back and forth among their characters. For example, when Phaedre goes adventuring she takes along Bertramn’s ''ring of invisibility''. Bertramn, in exchange, gets the use of Phaedre’s ''boots of speed''. In short, each character has the accumulated treasure of two adventurers to draw on. Do not allow this! Even though one player controls both characters, they are not clones. Their equipment and treasure is extremely valuable. Would Phaedre loan her boots to a character controlled by another player? How about an NPC? Probably not, on both counts. Unless the character is (foolishly) generous in all aspects of his personality, you have every right (some might call it a duty) to disallow this sort of behavior.
+
+===== Shared Information =====
+Information is a much more difficult problem. Your players must understand the distinction between what they know as players and what their characters know. Your players have read the rules and shared stories about each other’s games. They’ve torn out their hair as the entire party of adventurers was turned into lawn ornaments by the medusa who lives beyond the black gateway. That is all player information. No other characters know what happened to that group, except this: they went through the black gateway and never returned. The problem of player knowledge/ character knowledge is always present, but it is much worse when players control more then one character in the same region. It takes good players to ignore information their characters have no way of knowing, especially if it concerns something dangerous. The best solution is to avoid the situation, If it comes up and players seem to be taking advantage of knowledge they shouldn’t have, you can discourage them by changing things a bit. Still, prevention is the best cure. And remember, when problems arise (which they will), don’t give up or give in. Instead, look for ways to turn the problem into an adventure.
+
+== Character Background ==
+When you look at a completed character, you will notice there are still many unanswered questions: Who were the character’s parents? Are they still alive? Does the character have brothers and sisters? Where was he born? Does he have any notable friends or enemies? Are his parents wealthy or are they poor? Does he have a family home? Is he an outcast? Is he civilized and cultured, or barbaric and primitive? In short, just how does this character fit into the campaign world?
+There are no rules to answer these questions. The ''Player’s Handbook'' and ''Dungeon Masters Guide'' are designed to help you unlock your imagination. The AD&D® rules do not presume to tell you exactly what your campaign world will be like. These decisions are left to you. Consider what would happen if the rules did dictate answers to the questions above. For example, suppose the rules said that 50% of all characters come from primitive, barbaric backgrounds...and you’re running a campaign set in a huge, sophisticated city (the New Rome of your world). Even more ridiculous would be the reverse, where the rules say 50% of the characters are city dwellers and your campaign is set in a barbaric wilderness, Or how would you explain things if 20% of all characters were seafarers and you had set your adventures in the heart of a desert larger than the Sahara?
+This book provides guidelines and advice about how to create a campaign, but there is nothing that says exactly where this campaign must be set or what it must be like. This does not mean that a character’s background shouldn’t be developed—such background adds a lot to the depth and role-playing of your players and their characters. However, it is up to you to tailor character backgrounds to the needs of your campaign.
+
+=== Letting Players Do the Work ===
+Of course, you don’t have to do all the work. Your players can provide most of the energy, enthusiasm, and ideas needed. Your task is to provide direction and control. Allow players to decide what kind of people their characters are—one may be a rough nomad, another an over-civilized fop, others, homespun farmboys or salty seadogs. Let the players decide, and then tell them if, and how, that character fits into your campaign world. When a player says, "My dwarf’s a rude and tough little guy who doesn’t like humans or elves,” you can respond with “Fine, he’s probably one of the Thangor Clan from the deep mountain regions.” This type of cooperation spurs your creativity, and involves the players in your world right from the start. You have to think of answers to their questions and ways to make their desires work in the campaign; they are rewarded with the feeling of getting the characters they want. A carefully worked out character background can do more than just provide emotional satisfaction. It can also provide motivation for the player characters to undertake specific adventures:
+Just what is a dwarf of the Thangor Clan doing outside his clan’s mountainous homeland? Is he an outcast looking for some way to redeem himself? Maybe he’s a restless soul eager to see the bright lights of the big city and the world. A character can have parents to avenge, long-lost siblings to track down, a name to clear, or even a lost love to recapture. Background can be used to build sub-plots within the overall framework of the campaign, enriching character descriptions and interactions. Background should not be forced: Do not insist that a player take upon his character a crippled grandmother, three sisters stolen by gypsies, a black-hearted rival, and a stain on the family name. Instead, see if the player has any ideas about his character. Not every player will, but the AD&D® game depends as much on the players’ fantasies as it does on yours. Characters that players are happy with and feel comfortable about will create their own special excitement and interest. Players who are interested in their characters’ backgrounds can be a source of creative energy, a they offer you a constant stream of new ideas.
+
+=== Problem Backgrounds ===
+Certain points of background can and do create problems in campaigns, however. First and foremost of these is nobility, followed closely by great wealth.
+
+===== Problems of Nobility =====
+Some players like the idea of their character being Prince So-and-So or the son of Duke Dunderhead. All too often this leads to an abuse of power. The player assumes, somewhat rightfully and somewhat not, that the title endows his character with special privileges—the right to instant income, the right to flaunt the law, the right to endless NPCs, information, and resources, or, worst of all, the right to use clout to push the other members of the party around. This kind of character quickly becomes tiresome to the other players and will constantly find ways to upset carefully planned adventures. Titles can be allowed, but the DM will have to put some controls on noble characters. The easiest and most effective method is to strip the title of all benefits that, by rights, should go with it. The noble character could be the son of a penurious duke. The son may be next in line to inherit the title when his father dies, but he’s also in line to inherit his father’s debts! Instead of seeking to impress others in public, the poor son might be quite happy to keep a low profile so as not to attract his father’s creditors. After all, it’s hard to amass a fortune through adventuring when the bill collectors are always on hand to take it away. Likewise, a princely character could be the son of an unpopular and despotic or incompetent king—perhaps even one who was overthrown for his abuses. Such a son might not want his lineage well-known, since most of the peasants would have less than happy recollections of his father’s rule. Of course, these kinds of manipulations on your part soon become tiresome, both to yourself and the players. Not every duke can be impoverished, nor every throne usurped. Going too far with this strategy will only destroy the validity of nobility and titles in your game. In the long run, it is better for your player characters to begin untitled, with one of their goals being the possibility of earning the right to place a “Sir” or “Lady” before their names. Imagine their pride as you confer this title on their character (and imagine the trials they must have gone through to earn this right!).
+
+===== Problems of Wealth =====
+Another problem you may have to deal with is characters from wealthy, upper-class families. (This is often associated with the problem of titles since the nobility normally is the upper class.) Such characters, being wealthy, lack one of the basic reasons to go adventuring—the desire to make a fortune. Indeed they see their own money as a way to buy solutions to their problems. Often they will propose eminently reasonable (and, to the DM’s carefully planned adventures, quite disastrous) schernes to make their adventuring life easier. It is, of course, possible to hire a wizard to construct magical items, and a wealthy Ist-level character could buy a vast army, but this sort of thing will have undesirable effects on your campaign. There are ways to control these problems while still allowing players the character backgrounds they desire. Think of the real world and how difficult it is to convince family and friends to give you money, especially sizeable amounts of cash. You may have a loving family and generous friends, but there is a limit. In your campaign, parents may grow tired of supporting their children. Brothers may grow upset at how the character is cheating them out of their share of an inheritance. Sisters may take exception to the squandering of their dowries. Standard medieval custom called for inheritances—land and chattels—to be divided equally among all of a man’s sons. (This is one reason Charlemagne’s empire crumbled after his death.) You can use this custom to whittle a wealthy character’s purse down to size. Further, families are not immune to the effects of greed and covetousness—many a tale revolves around the treachery one brother has wrought upon another. A rich character could awaken to discover that his family has been swindled of all it owns.
+
+=== Background as Background ===
+A character’s background is a role-playing tool. It provides the player with more information about his character, more beginning personality on which to build. It should complement your campaign and spur it forward. Background details should stay there—in the background. What your characters are doing now and will do in the future is more important than what they were and what they once did!

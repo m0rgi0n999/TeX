@@ -1,0 +1,36 @@
+Introduction
+You are one of a very special group of people: AD&D\textregistered game Dungeon Masters. Your job is not easy. It requires wit, imagination, and the ability to think and act extemporaneously. A really good Dungeon Master is essential to a good game.
+
+The DUNGEON MASTER\texttrademark Guide is reserved for Dungeon Masters. Discourage players from reading this book and certainly don’t let players consult it during the game, for two reasons.
+
+First, as long as players don’t know exactly what’s in the DUNGEON MASTER\texttrademark Guide, they’ll always wonder what you know that they don’t know, It doesn’t matter whether you have secret information; even if you don’t, as long as the players think you do, their sense of mystery and uncertainty is maintained.
+
+Second, this book does contain essential rules that are not discussed in the Player’s Handbook. Some of these the players will learn quickly during play: special combat situations, the costs of hiring NPCs, etc. Others, however, cover more esoteric or mysterious situations: the nature of artifacts and other magical items, for example. This information is in the DUNGEON MASTER\texttrademark Guide so the DM can control the players’ (and hence the characters’) access to it. In a fantasy world, as in this world, information is power. What the characters don’t know can hurt them (or lead them on a merry chase to nowhere). While the players aren’t your enemies, they aren’t your allies, either, and you aren’t obligated to give anything away for nothing. If characters go hunting wererats without doing any research beforehand, feel free to throw lots of curves their way. Reward those characters who take the time to do some checking beforehand.
+
+Besides rules, you’ll find that a large portion of this book is devoted to discussions of the thinking and the principles behind the rules. Along with this are examinations of the pros and cons of changing the rules to fit your campaign. The purpose of this book, after all, is to better prepare you for your role as game moderator and referee. The better you understand the game, the better equipped you’ll be to handle unforeseen developments and unusual circumstances.
+
+One of the principles guiding this project from the very beginning, and which is expressed throughout this book, is this: The DM has primary responsibility for the success of his campaign and he must take an active hand in guiding it. That is an important concept. If you are skimming through this introduction, slow down and read it again. It’s crucial that you understand what you are getting into.
+
+The DM’s “active hand” extends even to the rules. Many decisions about your campaign can be made by only one person: you. Each DM must tailor his campaign to fit his own style and the style of his players.
+
+You won’t find pat answers to all your questions in this book. Certainly you will find a lot of information, but it doesn’t include solutions to all your game problems. Sometimes, a single answer just isn’t appropriate. In those cases, what you will find instead is a discussion of the problem and numerous triggers intended to guide you through a thoughtful analysis of the situation as it pertains to your campaign.
+
+The rules to the AD&D 2nd Edition game are balanced and easy to use. No role-playing game we know of has ever been playtested more heavily than this one. But that doesn’t mean it’s perfect. What we consider to be right may be unbalanced or anachronistic in your campaign. The only thing that can make the AD&D game “right” for all players is the intelligent application of DM discretion.
+
+A perfect example of this is the limit placed on experience levels for demihumans. A lot of people complained that these limits were too low. We agreed, and we raised the limits. The new limits were tested, examined, and adjusted until we decided they were right. But you may be one of the few people who prefer the older, lower limits. Or you may think there should be no limits at all. In the chapter on character classes, you’ll find a discussion of this topic that considers the pros and cons of level limits. We don’t ask you to blindly accept every limit we’ve established. But we do ask that, before you make any changes, you read this chapter and carefully consider what you are about to do. If, after weighing the evidence, you decide that a change is justified in your game, by all means make the change.
+
+In short, follow the rules as they are written if doing so improves your game, But by the same token, break the rules only if doing so improves your game.
+
+A Word About Organization
+Everything in this book is based on the assumption that you own and are familiar with the ''Player’s Handbook''. To make your job easier, the ''Player’s Handbook'' and DUNGEON MASTER\texttrademark Guide have parallel organization, Chapters appear in the same order in both books. That means that if you know where to find something in the Player’s Handbook, you also know where to find it in the DUNGEON MASTER\texttrademark Guide.
+
+Also, the index in this book covers both the DMG and the Player’s Handbook. You can find all the references to any specific topic by checking this index.
+
+The Fine Art of Being a DM\texttrademark
+Being a good Dungeon Master involves a lot more than knowing the rules. It calls for quick wit, theatrical flair, and a good sense of dramatic timing, among other things. Most of us can claim these attributes to some degree, but there’s always room for improvement.
+
+Fortunately, skills like these can be learned and improved with practice. There are hundreds of tricks, shortcuts, and simple principles that can make you a better, more dramatic, and more creative game master.
+
+But you won’t find them in the DUNGEON MASTER\texttrademark Guide. This is a reference book for running the AD&D game, We tried to minimize material that doesn’t pertain to the immediate conduct of the game. If you are interested in reading more about this aspect of refereeing, we refer you to DRAGON® magazine, published monthly by TSR, Inc. DRAGON magazine is devoted to role-playing in general and the AD&D game in particular. For over 10 years, DRAGON magazine has published articles on every facet of role-playing. It is invaluable for DMs and players alike.
+
+If you have never played a role-playing game before but are eager to learn, our advice from the Player’s Handbook is still the best: Find a group of people who already play the game and join them for a few sessions, If that is impractical for some reason, the best alternative is to get a copy of the DUNGEONS & DRAGONS® Basic Game. The DUNGEONS & DRAGONS game is a less detailed role-playing game. The D&D® Basic set includes an introductory role-playing adventure that you can play by yourself, This will show you what goes on during the game and give you step-by-step instructions on how to set up and run a game with your friends.

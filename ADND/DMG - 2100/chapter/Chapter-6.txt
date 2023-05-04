@@ -1,0 +1,880 @@
+= Chapter 6: Money and Equipment =
+== Contolling the Money Supply ==
+Controlling the flow of money is an important way of balancing your campaign. Too much—or too littlhe—money can ruin the fun of your game. Give your characters mountains of gold and the game is spoiled. Suddenly wealthy, they no longer have the urgent need to adventure that impending poverty can provide. Too often they can buy their way out of difficult situations through bribery or “throwing money at the problem.”
+
+Worse still, they attempt to apply modern, capitalist ideas to a quasi-medieval world. They may try to hire an enormous staff of wizards to mass produce potions and scrolls. They may set up shops to make assembly-line armor. Advances in organization and production like these come slowly over time, not all at once. You may have to remind your players to limit themselves to the knowledge and attitudes of the times.
+
+It is equally bad to keep your characters too poor. You are creating a game world for a fantasy role-playing game. If the characters are so poor that they must count every penny they spend, they are leading squalid and unhappy lives. Reward them when they accomplish things. You shouldn’t always frustrate their desire to get rich. It’s just that wealth should come slowly, matched to the level of the character.
+
+== Monetary Systems ==
+Even before you play the first session in your campaign, you can use money as a tool in creating your game world. The form and shape money takes is by no means standardized, The simple monetary system given in the ''Player’s Handbook'' is just that—a simplified system for coinage. It is not absolutely true to the real, historical world and is not even an accurate reflection of most fantasy worlds you find in books. It’s just one way to approach money.
+
+== A Short History of Commerce ==
+Monetary systems aren’t always based on coins. Many different forms of exchange can be in use simultaneously. Take, for example, the real world around the year 1200. Currency included the regulated gold and silver coins of Byzantium and the Middle East, the licensed mints of England, the paper currency of China, the cowrie shells of Oceania, and the carved stones of Aztec lands. These were only a few of the forms money could take.
+
+=== Goods ===
+Vigorous trade was done in goods—grain, cattle, sheep, wool, jewelry, foodstuffs, and cloth were all items of value. A canny Venetian merchant would sail from Venice to England with a load of silks, trading it there for good English wool (making sure he made a profit!), and return to Venice to sell the wool for another load of goods for England.
+
+=== Letters of Credit ===
+Eventually letters of credit and contracts grew. Now the Venetian merchant could sai) to England to collect wool gathered by contract from a monastery. In return for their wool shearing for 5 years, he would guarantee them set payments in ducats or florins, although he normally brought them goods they ordered trom Venetian merchants—silks, spices, glassware, or wine. Thus he made a profit from the wool back in Venice and a profit from buying goods for the English monastery, On his return to Venice, the enterprising merchant would sell his cargo to the wool merchant in return for a note, and then take this note to a glassmaker and sell it for a load of valuable Venetian glass.
+
+In time, the notes led to the rise of banking houses, though much different from the banks we know today. Intended mainly to finance large deals and serve the wealthy merchants, there were few controls on these banks. They were definitely not for the common man. They were not places you stored your money for a rainy day, but houses that guaranteed the value of a merchant’s note or contract, all for a fee.
+
+=== Barter ===
+Other economies, especially those of primitive lands, worked entirely on a barter system. What a man could produce became his money. The farmer paid the miller in bushels of grain. The miller paid his lord in ground flour. When the flour was baked into bread, the baker was paid in loaves of bread. These he could sell for the few coins, fresh eggs, or whatever luxuries might be available.
+
+During the Dark Ages even a man’s life could be measured in cows, horses, or sheep. Kill a serf and you had to pay, perhaps, five sheep, some to his lord and some to his family. The cost for a freedman would be even higher. Rents, taxes, and fines could be assessed in gold or grain. Eventually objects were assigned specific values. In parts of medieval Russia, furs were used almost like coins. Squirrel, ermine, and martin pelts all had values and were treated just as we treat money today.
+
+As barter systems became more sophisticated, they included more and more things. Obligations and duties became part of the formula. A knight received land from his lord, but part of his “rent” was the obligation to make himself and a set number of mounted soldiers available to serve in his lord’s armies for 40 days each year, The serf was obligated to work his lord’s land and live in the same village all his life. You might adopt an economy like this in your campaign world—one based on obligations.
+
+For the most part, the economies of the medieval period were based on a combination of coins, goods, and services. The knight could escape military service by paying a special tax to his lord. The King could insist that foreign merchants acquire goods only through barter. The baker could be paid a small wage for his services. Generally, changes occurred slowly as medieval man moved from a barter system to a coinbased economy. Thus, many different methods existed side-by-side.
+
+== Coins ==
+Generally, lands near each other, sharing a common group of people or a common language have very similar economies, The countries of medieval Europe traded with each other regularly and so developed very similar coins and values, Kingdoms also tend to imitate the economy of the most powerful country in the region. The Byzantine Empire had a stable gold currency, and its coins were the model for rulers from Baghdad to Denmark.
+
+The value of a foreign coin was based on the weight of the coin, but also on the power of the issuer. The Byzantine besant was not only imitated by other lands, but it was highly valued in trade. An English merchant would accept these coins from a Venetian trader because he knew their value. His price might increase if the trader paid him in Persian dinars. To the merchant, the dinar was simply not as valuable as the besant.
+
+You can add color to your campaign by choosing to have different systems of trade in different lands. By creating different currencies and ways of trading, you make your players aware of the different kingdoms in your fantasy campaign. This makes them pay attention and learn about your world. A traveling merchant who trades in besants becomes a wealthy trader from the rich lands of Byzantium, while one who deals in hacksilver is a northerner from the cold shores of Scandinavia. These names and places create images, images more compelling and exciting than those created by the plain words “merchant” or “trader.”
+
+=== Types of Coins ===
+The terms “gold piece” (gp). “silver piece” (sp), and “copper piece” (cp) are clear and they are used throughout these game rules, but you can spice them up a bit. People give coins names, whether as plain as “dime” or lively as “gold double-eagle.” The imaginary population of a fantasy world should be no different. Medieval history is filled with different types of coinage, all of which can add local color to your campaign.
+
+Take, for example, the situation of a mercenary captain in Aquitaine. Through wages, booty, and trading he has assembled quite a few coins, Foremost of his horde are the gold and silver coins of Byzantium—the besant, hyperpyron, or nomisma as they were known at different times. An Italian general paid him in coins almost equally valuable, the gold florin and ducat, Mixed in with these were other coins of the Italian states—silver grossi and ecu. From the French he collected gros tournois, Rouen pennies, and louis. A Moorish hostage bought his freedom with silver drachmas and a German merchant of the Hanse paid the heavy toll of a gold mark. Part of the spoils of war include solidus aureus and denarii of Ancient Rome, though these coins are so badly worn their value has dropped greatly. One of his men even came across a horde of hacksilver bracelets! Finally, from his English employers he received pounds, shillings, and pence. Clearly the captain is faced with a problem when he tries to figure out just how much money he has. What do all these coins add up to?
+
+The besant, hyperpyron, and nomisma were the standard coins of the Byzantine Empire. They were of a regular size and the precious metal was not debased with lead or copper. Backed by the power of the Emperor, each coin had a steady value. In your game, you could establish their value at one or two gold pieces each.
+
+The florin and the ducat were the coins of different Italian states. These lands, rising in trading power, needed a steady economy. Thus their coins were almost the equal of the besant and were used for trade throughout Europe. Each florin might be equal to a gold piece. The gross was a silver penny and, nermally, 12 equalled 1 florin.
+
+The coins of France were much like those of Italy and could be valued the same way. The louis and the sous were the equal of the florin while the gros tournis and the denarius were silver pennies. However, the Rouen penny was specially minted and not considered as valuable by most traders.
+
+The Middle Eastern drachma was modeled on the besant. Normally 12 to 20 were equal to a single besant (6-10 would equal a gp) but in Aquitaine they were often valued just like other silver pennies. The gold mark wasn’t so much a coin as a measure. It was normally figured to be worth six English pounds. There were also silver marks worth about 13 shillings, and Scandinavian ora worth 16 pence. But the true value of these coins was what you could get for them.
+
+The English coins included the rarely seen pound, equal perhaps to one gp. More common were silver shillings, officially figured at 20 to a pound (or ?/a asp). Below the shilling was the pence, 12 to a shilling, and below the pence was the farthing, four to a pence. Meanwhile, the lowly Rouen penny was figured to be equal to half a pence.
+
+Of the ancient coins, the Roman solidus aureus was the model for the besant and thus nearly all other coins. It in turn was divided into silver denarii with 12 to 40 equaling a single solidus. However, age and counterfeiters reduced the value of these coins so much that their only true worth could be found in what they weighed, During the same time, Scandinavians used hacksilver—silver jewelry. When they needed to pay, they could cut off a chunk from an armband or bracelet and weigh it, thus the name hacksilver. They literally wore their money!
+
+Clearly, money is no simple, universal thing. Each nation and each time has its own coins with its own values. Your player characters may travel through many different lands and find long-lost treasures. It will be much more exciting for your characters to find 600 ancient tremissa from the rule of Emperor Otto 400 years before than to find yet another 600 silver pieces. With a little imagination and research at your local library, you can find many different examples to add to your campaign.
+
+== Expeses ==
+As exciting and important as money is for player characters, tracing day-to-day expenses just isn’t very interesting. Forcing players to record every purchase their characters make is timeconsuming and, plainly put, not very heroic. It’s better simply to charge player characters a monthly living expense.
+
+This living expense covers all normal room and board charges whenever a character is operating out of his home base. Separate charges for meals and beds need be made only when the character is traveling away from home.
+
+Players describe how well (or poorly) they want their characters to live. From this the DM decides if they are living in squalid, poor, middle-class, or wealthy surroundings. The Player Character Living Expenses table, below, gives estimated base costs for each category.
+
+Squalid and poor living conditions cost the same for all characters regardless of race or level. However, as a character increases in level, his needs increase according to (or beyond) his means. Characters living middle-class or wealthy lifestyles multiply the base living expense by their level to determine their cost. Characters of races other than the predominant one of the area (e.g., dwarves in a human city or humans in an elven village) pay double the normal rate. This is due to suspicion and a scarcity of goods the character is accustomed to.
+
+The only direct game effect of living conditions is the expense involved, but living conditions can also determine some role-playing events and conditions in your game. Your player characters’ lifestyles can even be used as a starting point for many different types of adventure.
+
+=== Squalid Conditions ===
+Dirty straw in leaky stables, muck-floored huts outside the wall of town, contempt, and random violence—these typify squalid living conditions. Characters living like this aren’t likely to be robbed (since no one thinks they have any money), but they may be tormented or attacked just for the fun of it. Their legal protections will be few indeed.
+
+=== Poor Conditions ===
+In poor conditions, characters benefit from some legal protection, although there may be general indifference to their troubles. They must also cope with a high level of violence, periodic robberies, and random fights.
+
+=== Middle-Class Conditions ===
+Middle-class life tends to be safe and somewhat boring. Characters receive adequate protection and will not be the main target of most burglers. Thieves are generally attracted to the homes of the wealthy.
+
+=== Wealthy Conditions ===
+Wealthy people receive the greatest benefits, but they must also deal with the highest level of deceit, trickery, and treachery. Nearly all with wealth are drawn into dangerous political maneuverings, mainly to protect their own privileges.
+
+Upon building or claiming his own stronghold, a player character suddenly acquires a whole new set of expenses. The character no longer pays living expenses but must pay for the maintenance of his property.
+
+{| class="wikitable"
+	|+Table 22: PLAYER CHARACTER LIVING EXPENSES
+	! Lifestyle
+	! Cost/Month
+	|-
+	| Squalid
+	| 3 gp
+	|-
+	| Poor
+	| 5 gp
+	|-
+	| Middle-Class
+	| 50 gp per level
+	|-
+	| Wealthy
+	| 200 gp per level
+|}
+== Draining the Coffers ==
+Sometimes you discover you have given the player characters too much money. While living expenses will take a little of that (especially if the characters live big), it doesn’t come close to solving the problem. Fortunately, there are other ways you can get money out of their hands.
+
+A wide variety of taxes was applied during the Middle Ages. Some caused minimal hardship while others were quite expensive. Characters could be forced to pay a weregeld, a fine paid to the victims of someone they have slain. The king could demand scutage, a fee to avoid military service. Special assessments could be made to repair roads or rebuild bridges. There could be minor taxes to enter towns on market days or wander through the streets as a strolling minstrel. Taxes could be charged according to the size of the person’s household.
+
+In addition to taxes, there might be other unexpected costs. A fire could sweep through the character’s manor, requiring a costly repair program. Termites could wreak havoc with the character’s fleet. The local lord could assess his vassals a share of the tribute he must pay the enemy. Magical mysteries and daring thefts can also lower a character’s financial position.
+
+Always find a different, totally unexpected approach to taking excess cash from player characters. Let them defeat some of your attempts to drain their coffers. Set up some of your money-removing attempts to fail from the start—if the player characters take some action, Turn your attempts into adventures: If a thief robs the player character’s castle, be ready with an adventure where the character can try to track him down. In fact, he may even catch the thief, but only after the scoundrel has squandered the character’s fortune!
+
+== Expanding the Equipment Lists ==
+The items listed in the ''Player’s Handbook'' are by no means the only things ever made in the world—or even in a medieval fantasy world! They are listed because they are the most likely things the characters will need. However, you can certainly add missing or player-requested items to this list.
+
+When you go to add an item to the lists, first consider the reasonableness of its presence. Given the setting of the AD&D® game, adding an M4 Sherman tank as a regular item of equipment is just not a logical, sensible, or wise thing to do.
+
+Once you decide that a new item is reasonable, you must assign it a cost. Use your own judgment on this: Consider the intricacy of the item, the craftsmanship required to make it, and the cost of similar items already on the lists. From these, you should be able to assign an appropriate price.
+
+If, later on, you discover you made the item too cheap and all the characters are buying one, raise the price and say suppliers can’t keep up with the demand. If an item is too expensive, you can lower the price and no one will complain.
+
+== Altering Prices ==
+Remember that the prices listed in the ''Player’s Handbook'' are not absolutes! There is no reason you can’t raise or lower the price of any iter on the equipment lists. Demand can increase or decrease a price. Different lands in your campaign may be known for specific goods, allowing them to charge more.
+
+Even in the Middle Ages, Spain and the Middle East were known for steel, Germany for beer, France for wine, the English for wool, and the Italians for armor. These reputations allowed higher prices to be charged for these goods, especially finished items.
+
+Greed can also raise prices. Merchants live to make money, so they will normally charge what they can get away with. There were very few price controls or regulating agencies during these times.
+
+Finally, adventurers tend to disrupt local economies, suddenly bringing in large amounts of cash. Merchants raise prices to match. Situations not unlike the Klondike gold rush develop, in which even the simplest items cost outrageous amounts. In short, don’t be afraid to charge characters as much as you think you can get away with. If they don’t like the prices, they’ll find some way to let the merchant know of their dissatisfaction!
+
+== Equipment by Time Period ==
+The equipment lists given in the ''Player’s Handbook'' assume your campaign is set in a generic medieval fantasy world. In practical terms, this means you haven’t tied your campaign to any particular date in history. All this is perfectly fine and is commonly done in fantasy stories and fantasy campaigns—you are dealing with fantasy, after all.
+
+However, it is also possible to create exciting and interesting campaigns that are tied to specific time periods, but this will work only if you know something about the time period. This is important! A lot of people assume things about the past without knowing the facts. The truth of the matter may be far different. Go to the library and do your homework before you begin designing a time-specific campaign. Even if you don’t do such a campaign, it’s useful to learn a little more about medieval history. It will only improve your own fantasy world.
+
+It is not necessary to pick a precise date to model, such as 1237 A.D., although again there is nothing wrong with this. History and historians tend to divide the past into different ages and you can do the same. Four different ages are covered here—the Ancient World, the Dark Ages, the Middle Ages, and the Renaissance. Each has its peculiarities and difterences, some of which are described below.
+
+=== The Ancient World ===
+This covers a period of great empires spreading from the Mediterranean, Some weapons and armor were made of bronze, others of iron, and a few were made of steel. Most household iterns were pottery, wood, stone, and wicker, Bronze were easily dulled and, in game terms, break or bend when a 1 is rolled on the attack roll. Stirrups hadn’t been invented, so characters can’t use heavy lances, and charge attacks can’t be made with normal lances.
+
+=== The Dark Ages ===
+This was the period after the collapse of the Roman Empire, from 450 A.D. to about 1100 A.D. While much of the learning and culture of the ancient world was lost, it was not as bleak and ignorant a period as some believe. Still, in many ways, it was a step backward from the previous age. However, during this time the stirrup was introduced, allowing riders to gain full use of the lance.
+
+=== The Middle Ages ===
+The Middle Ages (roughly from 1100 to 1450) is the period in which most fantasy campaigns are set, lt was the period most people associate with knighthood and chivalry. The knights went off on the Crusades. Great stone castles were built. The role of traders and merchants began to grow. Virtually all the items on the equipment list were available in this time period.
+
+=== The Renaissance ===
+The latest time period that should be considered as a setting for a normal AD&D® campaign, the Renaissance was a time of great change. The collapse of the feudal system had begun throughout much of Europe. There was great growth in literature, art, and science, The power of the old nobility began to decline while the influence and wealth of merchants and businessmen continued to grow. Gunpowder and simple guns revolutionized the face of warfare. Foot soldiers became more important than cavalry, and armor was not nearly as useful as it once had been.
+
+{| class="wikitable"
+	|+Table 23: EQUIPMENT BY TIME PERIOD
+	! 
+	! colspan="4"|----Status----
+	|-
+	! Item
+	! Ancient
+	! Dark Ages
+	! Middle Ages
+	! Renaissance
+	|-
+	| Arquebus
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Awl pike
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Bastard sword
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Block and tackle
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Bolt case
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Brigandine
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Bronze plate mail
+	| AV
+	| NA
+	|
+	|
+	|-
+	| Carriage (any)
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Chain mail
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Composite long bow
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Crossbow (any)
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Field plate
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Flail (any)
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Full plate
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Full plate barding
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Glaive
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Glass
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Glass bottle
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Great helm
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Greek fire
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Heavy horse lance
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Heavy war horse
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Horse yoke
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Hose
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Jousting lance
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Kopesh sword
+	| AV
+	| NA
+	|
+	|
+	|-
+	| Lantern (any)
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Lock (any)
+	| NA
+	| Poor
+	| Average
+	| Good
+	|-
+	| Long bow
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Magnifying glass
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Mancatcher
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Morning star
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Paper
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Papyrus
+	| AV
+	| NA
+	|
+	|
+	|-
+	| Plate mail
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Pole arms (but pike)
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Pony cart
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Ring mail
+	| NA
+	| AV
+	|
+	| NA
+	|-
+	| Sailing ship (non-oared)
+	| NA
+	|
+	| AV
+	|
+	|-
+	| Scimitar
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Silk clothes
+	| NA
+	| Very rare
+	|
+	|
+	|-
+	| Silk rope
+	| NA
+	| Very rare
+	|
+	|
+	|-
+	| Spyglass
+	| NA
+	|
+	|
+	| AV
+	|-
+	| Two-handed sword
+	| NA
+	| AV
+	|
+	|
+	|-
+	| Voulge
+	| NA
+	| AV
+	|
+	|
+	|-
+	|
+	| colspan="4"| NA-Not Available; AV-Available
+|}
+
+=== Adjusting Equipment Lists ===
+When you set your campaign in a specific time period, you may want to adjust the equipment lists to reflect changes in availability and price. Some suggested changes are given on the previous page. Like the capsule descriptions, the table is not 100% accurate. Instead, it reflects whether items were commonly used in the time period. For example, flails (as an agricultural instrument) have existed for time immemorial. However, they were not commonly used as weapons in most time periods, except in cases of emergency. By doing further research, you can refine and expand this list.
+
+== Quality of Equipment ==
+Most of the equipment a character buys is assumed to be of average quality—neither too cheaply made nor too elaborate. Thus, weapons are serviceable with stout hafts and sturdy blades. The metal is not so poorly tempered as to make the blade hopelessly brittle. The blade is not elaborately etched and the hilt is not encrusted with gold, Other items are of everyday make, usefulness and function superseding artistic needs.
+
+However, quality can vary from item to item. For some items it is important to know the quality, since this affects a game ability. The three items where quality is most significant are locks, horses, and weapons. In other instances, quality becomes important only if you or one of your players wants an item of exceptional beauty or (more perversely) exceptionally shoddy construction.
+
+=== Lock Quality ===
+The quality of a lock can increase, decrease, or leave unchanged a thief’s chance of picking that lock. The higher the quality of the lock, the harder it is for the thief to pick. Table 24 lists the different lock qualities and the amount they add or subtract from a thief’s percentage chance to open it. Unless otherwise noted, assume that all locks are of good quality.
+
+{| class="wikitable"
+	|+Table 24: LOCK QUALITY
+	! Quality
+	! % Modification
+	|-
+	| Wretched
+	| +30
+	|-
+	| Poor
+	| +15
+	|-
+	| Good
+	| 0
+	|-
+	| Excelent
+	| -20
+	|-
+	| Superior
+	| -40
+	|-
+	| Masterful
+	| -60
+|}
+The quality of a lock cannot be discerned just by looking at it. Indeed, one of the tricks of the master craftsman is to disguise the difficulty of the lock by housing it in a cheap-looking case. A thief can learn the quality of a lock by attempting to pick it. This attempt need not be successful (“Gee, this lock must be a really superior job. It’s a lot harder than it looks.”)
+
+=== Horse Quality ===
+Another matter where quality is important is in horseflesh. There is a world of difference between a high-spirited stallion and a broken-down nag, and it is not always apparent to the eye, although it is usually pretty easy to tell a scrawny, sway-backed old mare from a fiery stallion. The buying of a horse is something the player characters should always approach with care lest some unscrupulous horse merchant pull a fast one on them.
+
+Furthermore, horses often have irritating traits that can make them less than pleasant to be around. Table 25 lists the different qualities of horses and the effects of each. Note that not all horses need to be assigned a quality. For simplicity, ou can assume all horses are of average quality.
+
+{| class="wikitable"
+	|+Table 25: HORSE QUALITY
+	! Quality
+	! Movement Rate Modifier
+	! Carrying Cap. Mod.
+	! Cost Mod.
+	|-
+	| Nag
+	| 50%
+	| 25%
+	| —
+	|-
+	| Broken-down
+	| 75%
+	| 50%
+	| —
+	|-
+	| Average
+	| —
+	| —
+	| —
+	|-
+	| High-spirited
+	| 133%
+	| 125%
+	| x2
+	|-
+	| Charger
+	| 150%
+	| 133%
+	| x4
+|}
+The ''movement rate modifier'' is the adjustment applied to the base movement rate for that type of horse. A broken-down light war horse would have a movement rate of 18, 75% of the normal 24. A high-spirited light war horse would have a movement rate of 32, one-third more than normal. Fractions should be rounded down.
+
+The ''carrying capacity modifier'' is the percentage of the base weight the horse can carry. A nag can only carry 50% as much as a normal horse of the same type, while a charger can carry one-third more than normal. Again, fractions should be rounded down.
+
+The ''cost modifier'' gives a general idea of the markup that should be applied to the horse. Poor quality horses do not have negative modifiers since merchants will always try to get at least the average price for a horse. In this case, it is the job of the player to talk the price down.
+
+=== Horse Traits (Optional Rule) ===
+Each horse has 1d3-1 traits that define its “personality.” In poor quality horses, these traits are generally undesirable, but even good horses cvan have unpleasant quirks. For each horse, determine the traits on Table 26, using the column appropriate to the quality of the horse. It is strongly recomended that you select the trait rather than rolling randomly, since these traits can really enhance the humor and color of your campaign.
+
+Biters tend take nips at their riders or those leading them, an uncomfortable but not dangerous habit. Kickers never seem to lash out on command, but only when a character doesn''t want it to happen. The best idea is not to follow a kicker too closely. Fence-chewers are similar to biters except that they seem to have a taste for wood instead of their rider. While fence-chewing may be caused by a bad diet, it’s a hard habit to break.
+
+Some horses have a malicious tendency to step on feet as are being saddled and groomed—and then refuse to move. Some refuse to gallop unless forced. Some stubborn horses jsut stop in the middle of a march and almost have to be dragged forward. Others take an almost human pleasure in rubbing against fences, walls, and trees trying to scrape their rider off. Bucking horses are always unpleasent, though at least the rider can usually feel the horse tense up just before it happens.
+
+Untrained horses, even those broken for riding, haven’t learned the basic commands of horsemanship—left, right, speed up, or slow down. They do what they think they are supposed to, but that isn’t always right.
+
+Some, while trained, are just plain headstrong and, figuring they know more than their riders, try to do what they want. Single-rider horses have been trained too well, recognizing only a single master. With time they can be ridden by a new owner, but they will not respond well to others, even friends of the owner. On rare occasions a horse may actually know a minor trick, usually learned without special training. These tricks are very simple—to come when whistled for, to rear on a tug of the reins, or to turn when the rider presses with his knees.
+
+Particularly lively horses have their own special quirks. Some just cannot seem to move at a slow steady pacec. Every step is a jolting, bouncing bonejarring ride. Others are born leapers, making corrals and fences only an occasional barrier. An ill-tempered few will rear suddenly at the most surprising moments, especially in the midst of combat. When the horse does this, it is not attacking so much as reaacting in fear and surprise. Many a rider has been dumped by this sudden move.
+
+{| class="wikitable
+	|+Table 26: HORSE TRAITS"
+	! D10 Roll
+	! Nag, broken-down, & average
+	! High-spirited & charger
+	|-
+	| 1
+	| Biter
+	| Bucks
+	|-
+	| 2
+	| Kicks
+	| Bone-jarring
+	|-
+	| 3
+	| Steps on feet
+	| Bites
+	|-
+	| 4
+	| Won’t gallop
+	| Single rider
+	|-
+	| 5
+	| Chews fences
+	| Rears
+	|-
+	| 6
+	| Stops occasionally
+	| Headstrong
+	|-
+	| 7
+	| Rubs against fences
+	| Kicks
+	|-
+	| 8
+	| Bucks
+	| Leaper
+	|-
+	| 9
+	| Untrained
+	| Knows trick
+	|-
+	| 10
+	| Use High-spirited column
+	| Use NAge column or DM’s choice*
+|}
+&#42; Other possibilities could include robust, fleet, fearless, skittish, strong, stable, gentle, sure-footed, etc.
+
+=== Risks of Horse Buying ===
+Beyond just the quality and quirks of horses, there are other reasons to be careful when buying a horse. Horse theft has always been a popular pastime, and punishments are often equally severe for both the thief and the buyer—assuming, of course, that the buyer isn’t mistaken for the thief. Unscrupulous merchants often try to pass horses off as what they are not (“Yeah, this is a heavy war horse, really it is.”), Horses may or may not be trained, although merchants always claim they are, While it is easy to spot a horse not broken to the saddle, it’s not so simple to tell if a horse has been trained for war.
+
+Characters with the riding proficiency can avoid many of the hazards of horsebuying on a successful proficiency check. The character must choose to use the proficiency (but considering the investment he would be foolish not to), A successful roll will reveal a horse’s true quality and perhaps some of its obvious quirks. Naturally, there is no way to ascertain the origin of the mount, unless you decide the horse has been branded or marked in some way. Even this may not be foolproof, since clever thieves can find ways to alter virtually any markIng.
+
+=== Weapon Quality ===
+Quality weapons are those of exceptionally fine craftsmanship. The blade may be forged from the finest steel for flexibility and sharpness. The swordsmith may have carefully folded, hammered, and tempered the steel to a superb edge. The whole sword may be perfectly balanced, light in the hand, but heavy in the blow. There are many reasons why a sword or other weapon may be above average.
+
+Careful craftsmanship and high quality give a weapon a bonus on the chance to hit or a bonus to damage. The bonus should never be more than +1. The bonus on the chance to hit is for those weapons that are exceptionally well-balanced, light, or quick. Weapons of perfectly tempered steel or carefully hammered blades gain the bonus to damage. The metal retains its razor sharpness, cleaving through armor like a hot needle through wax. Because they rely on mass and impact, bludgeoning weapons rarely gain a bonus to damage. Those that do get a bonus get it for their carefully shaped and balanced heads.
+
+The quality of a weapon is not immediately apparent to the average person, While anyone using the weapon gets the quality bonus (even if they don’t realize it), only those proficient in that weapon-type or proficient in weaponsmithing can immediately recognize the true craftsmanship that went into the making of the weapon. Even then, the character must handle the weapon to appreciate its true value, For some reason, however, merchants almost always seem to know the value of their goods (at least the successful merchants do!). Thus weapons of quality cost from 5 to 20 times more than normal.
+
+In your campaign, you may want to create NPCs or regions known for their fine quality weapons, Just as Damascus steel was valued in the real world for its fine strength and flexibility, a given kingdom, city, or village may be noted for the production of swords or other weapons. The mark of a specific swordsmith and his apprentices can be a sure sign of quality. Again, by introducing one or two of these (remote and difficult to reach) areas into your campaign, you increase the depth and detail of your world.
+
+=== Ornamentation ===
+While ornamentation has no effect on the function of an item, it does increase the cost. Ornamented items can also enhance the status of the owner as a man of wealth and influence. Of course, it also marks the character as a target for thieves and robbers.
+
+Among the more popular types of ornamentation are jeweled mountings, engraving, embossing, inlaying, painting, plating, chiseling, chasing, etching, enameling, lacquering, carving, and gilding. Common items can also be made from rare and fantastic materials—perhaps as simple as silk or the wonderfully rare and incredibly supple hides of baby dragons. The cost of such items depends on the difficulty and skill of the work. It is best for you to decide a price (highly inflated over the original), although ten times the normal cost can be used as a starting figure.
+
+=== Armor Made of Unusual Metals (Optional Rule) ===
+With the exception of bronze plate mail, it is assumed that all metal armors are made from a fairly common yet sturdy form of steel. However, this need not always be the case.
+
+Since this is a fantasy campaign, there is nothing to prevent armors being made from rare and fantastic metals. Different metals have different properties which must be taken into account when such armors are used. Table 27 lists several different types of metals and the effects they have on Armor Class, encumberance, and cost.
+
+{| class="wikitable"
+	|Table 27: UNUSUAL METAL ARMORS
+	! Metal
+	! AC Adj.
+	! Weight adj.
+	! Cost Mult.
+	|-
+	| Adamantite
+	| +1
+	| -25%
+	| x500
+	|-
+	| Bronze
+	| -1
+	| 0
+	| x⅔
+	|-
+	| Elven steel
+	| 0
+	| -50%
+	| **
+	|-
+	| Fine steel
+	| 0
+	| -10%
+	| x2
+	|-
+	| Gold
+	| -4
+	| +100%
+	| Weight + x3*
+	|-
+	| Iron
+	| 0
+	| +25%
+	| 0
+	|-
+	| Silver
+	| -2
+	| 0
+	| Weight + x2*
+|}
+The ''AC adjustment'' in no way implies that the armor has magical properties, only that the material is better or worse than normal. Thus, no bonuses are gained for saving throws, etc.
+&#42; Weight + x# means the character must provide the ammount of metal needed to make the suit (determined by the weight). In addition, the character must multiply the normal cost of the armor by the multiplier listed and pay this as fabrication cost.
+
+&#42;&#42; Elven armors can’t normally be purchased, being given as gifts to those the elves deem worthy.}}
+
+== Damaging Equipment ==
+For the most part, specific damage isn’t applied to equipment under the AD&D® rules. This doesn’t mean that equipment is never damaged or broken. Instead, it is assumed that whatever normal wear and tear an item may suffer (such as dents in a suit of plate mail) are repaired during moments (or days, or months) of inactivity,
+
+The fighter spends time in camp sharpening his weapons, patching the rips in his chain mail, and hammering out the dents in his breastplate. The thief repairs the padding that muffles the clinks of his metal buckles, The mage sews patches onto his clothes. All characters have ample time to make repairs. It’s not very interesting to role-play, so it is assumed all characters maintain their equipment.
+
+However, there are times when the player characters or your NPCs will want to cut a rope, snap a pole, or slash out the bottom of a backpack. Specific damage is done to achieve a specific effect. There are two ways such an attack can be made. The first is to attack a specific point or area with a weapon—slashing the rope that holds the heavy curtain up. The second is an attack that strikes everything in a given area with considerable force—a boulder landing on a character’s backpack. The first attack uses Armor Class and hit points of damage. The second attack uses a saving throw.
+
+When a character tries to damage a specific part of an item, use common sense to determine the effect a particular weapon will have against certain materials. Trying to cut open a sack with a mace is futile. Trying to chop down a door with a dagger is equally futile (unless the character has a lot of time). Be sure you consider the hardness of the item and the amount of time the character has, A mace can be used to batter down a wooden door, but an ax will be faster. A mace won’t do much of anything to a stone wall.
+
+If the character does have an appropriate weapon, determine the Armor Class of the item. This may be as as broad as “can’t miss” or as precise as a specific Armor Class value.
+
+Players don’t even have to roll to see if they hit some items. Can’‘t-miss items include large non-moving objects that characters attack with melee weapons—doors, barrels, and backpacks laying on the floor, for example. Other can’t-miss situations include missile weapon attacks against huge objects (those big enough to fill a character’s field of vision, like the proverbial broad side of a barn.
+
+Some attacks require an attack roll (throwing a mug at a full-length mirror, for example). In cases like this, assign an Armor Class to the target, taking into consideration the size, movement, and hardness of the object. A wooden pole has a minimum AC of 7. A metal rod of about the same thickness has an AC of 0. A rope actually has an AC of 6, better than a wooden pole because the rope is more resilient and less brittle. If the object is small or moving, the AC should be better. A flailing rope becomes AC 3 or 4. Smashing a small vial as it rolls across the floor could be AC 2 or 1.
+
+Finally, when attempting to hit a very specific spot, the additional penalty for a called shot must be applied. Shooting at the bullseye of a target or slitting the backpack of an enemy in combat are difficult feats because of the precision needed.
+
+You must also decide how much damage the item can take before it is broken. Table 28 gives the standard range for some common items and materials. The final column on the table lists the types of attack most likely to cause damage to the item, although other types may also be effective. Using these as guidelines, you can decide the number of hit points to assign to most materials.
+
+{| class="wikitable"
+	|+Table 28: HIT POINTS OF ITEMS
+	! Item
+	! Hit Point Range
+	! Attack Modes*
+	|-
+	| Chair
+	| 2-9
+	| Bludgeon, slash
+	|-
+	| Common leather
+	| 2-8
+	| Slash, pierce
+	|-
+	| Glass bottle
+	| 1-2
+	| Bludgeon
+	|-
+	| Glass pane or mirror
+	| 1
+	| All
+	|-
+	| Rope
+	| 2-5
+	| Slash
+	|-
+	| Wooden Door
+	| 30-50
+	| Slash
+	|-
+	| Wooden pole
+	| 2-12
+	| Slash
+|}
+&#42; The three attack modes are bludgeon, slash, and pierce. Each weapon is classified by one or more of these attack modes.
+
+=== Item Saving Throws ===
+When weapons are subjected to a general danger—the flames of a fireball, the icy chill of a cold ray, or the smashing blow of a giant’s boulder—the roll to hit and hit points do not apply. Instead, the following Item Saving Throw table is used. This saving throw represents an item’s general ability to withstand the effects of the attack. It is rolled just like a norma) saving throw (see “Combat,” page 64).
+
+The item saving throw should be used only when the item is not being carried by a character or when a character fails his saving throw against the same attack. A character who successfully saves against the blast of a fireball need not make separate saving throws for his potions. The character who failed the same save failed to protect himself adequately and must therefore check for his potions (and probably his scrolls, too). Not all items need make a save in every instance. It is perfectly reasonable to ignore the save for a character’s sword and armor in the same fireball situation described above, since there is so little chance that these will be affected.
+
+Furthermore, magical items are more resistant to damage, gaining bonuses to the saving throw. Items with a plus (a ''sword +1'', for example) gain that plus as a bonus to the die roll. If the item possesses additional special abilities, it should have an extra plus for each of these. Magical items with no stated pluses should gain a bonus relative to their power. A potion would have a +1 while a miscellaneous magical item could have a +5 or +6. Furthermore, if the saving throw is versus an attack the device was designed to counter (e.g., extreme cold vs. a ''ring of warmth''), an additional bonus of +2 is allowed.
+
+{| class="wikitable"
+	|Table 29: ITEM SAVING THROW
+	! Item
+	! Acid
+	! Cr. Blow
+	! Dis.
+	! Fall
+	! Mag. Fire
+	! Nor. Fire
+	! Cold
+	! Light.
+	! Elec.
+	|-
+	| Bone or ivory
+	| 11
+	| 16
+	| 19
+	| 6
+	| 9
+	| 3
+	| 2
+	| 8
+	| 2
+	|-
+	| Cloth
+	| 12
+	| —
+	| 19
+	| —
+	| 16
+	| 13
+	| 2
+	| 18
+	| 2
+	|-
+	| Glass
+	| 5
+	| 20
+	| 19
+	| 14
+	| 7
+	| 4
+	| 6
+	| 17
+	| 2
+	|-
+	| Leather
+	| 10
+	| 3
+	| 19
+	| 2
+	| 6
+	| 4
+	| 3
+	| 13
+	| 2
+	|-
+	| Metal
+	| 13
+	| 7
+	| 17
+	| 3
+	| 6
+	| 2
+	| 2
+	| 12
+	| 2
+	|-
+	| Oils*
+	| 16**
+	| —
+	| 19
+	| —
+	| 19
+	| 17
+	| 5
+	| 19
+	| 16
+	|-
+	| Paper, etc.
+	| 16
+	| 7
+	| 19
+	| —
+	| 19
+	| 19
+	| 2
+	| 19
+	| 2
+	|-
+	| Potions*
+	| 15**
+	| —
+	| 19
+	| —
+	| 17
+	| 14
+	| 13
+	| 18
+	| 15
+	|-
+	| Pottery
+	| 4
+	| 18
+	| 19
+	| 11
+	| 3
+	| 2
+	| 4
+	| 2
+	| 2
+	|-
+	| Rock, crystal
+	| 3
+	| 17
+	| 18
+	| 8
+	| 3
+	| 2
+	| 2
+	| 14
+	| 2
+	|-
+	| Rope
+	| 12
+	| 2
+	| 19
+	| —
+	| 10
+	| 6
+	| 2
+	| 9
+	| 2
+	|-
+	| Wood, thick
+	| 8
+	| 10
+	| 19
+	| 2
+	| 7
+	| 5
+	| 2
+	| 12
+	| 2
+	|-
+	| Wood, thin
+	| 9
+	| 13
+	| 19
+	| 2
+	| 11
+	| 9
+	| 2
+	| 10
+	| 2
+|}
+&#42; This save does not include the container, only yhe liquid contents.<br/>
+&#42;&#42; Of course, even though the save is made, the item is probably hopelessly mixed with the acid.
+
+=== Attack Forms ===
+'''Acid attacks’'' (Acid) assume there is either a sizeable quantity of acid or that contact with the acid is prolonged.
+
+'''Crushing Blows’'' (Cr. Blow) include strikes by the clubs of creatures of giant size or greater. Blows by normal people on small, fragile objects also fall into this category. A normal human could not do a crushing blow on a rope, which isn’t very fragile, but could certainly do so against a potion flask. Breakable items hurled against hard surfaces—bottles thrown against walls, for example—also use the crushing blow column.
+
+'''Disintegration’'' (Dis.) applies only to the magical effects of the spell or spell-like ability.
+
+'''Falls’'' (Fall) must be greater than five feet. If the surface is hard, the listed saving throw is used. If the surface is soft, give a +5 bonus to the saving throw. For every five feet fallen beyond the first, apply a —1 penalty to the saving throw.
+
+'''Magical fires’'' (Mag. Fire) include fireballs, dragon-breath, and any sizeable body of flame created by a spell or spell-like effect. Extraordinarily hot normal fires, such as the lava from a volcano, should also use this saving throw.
+
+'''Normal fires’'' (Nor, Fire) include campfires, candle flames, and bonfires, Obviously the item must be in the flame for a sufficient time to be affected.
+
+'''Cold’'' (Cold) covers any intense, abnormal, or magical cold. If the temperature change is gradual, a +2 bonus is applied to the saving throw.
+
+'''Lightning bolt’'' (Light.) applies to attacks by the spell or spell-like power of the same name.
+
+'''Electrical’'' (Elec.) is for those electrical attacks that do not carry the wallop of the lightning bolt. Electric eels and magical traps fall into this category.

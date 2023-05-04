@@ -1,0 +1,80 @@
+%!TeX program = xelatex
+\documentclass[letterpaper,twoside]{book}
+\usepackage{geometry}
+\geometry{letterpaper, portrait, textwidth=504pt, textheight=650pt, top=72pt, inner=10pt, outer=18pt, twoside, paperheight=770.4pt, paperwidth=576pt, headheight=36pt, headsep=24pt, footskip=18pt}
+\usepackage{lipsum}
+\usepackage[svgnames,table,xcdraw]{xcolor} % Enabling colors by their 'svgnames'
+\usepackage{fontspec}
+\usepackage{sectsty} % Enables custom section titles
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{atbegshi}
+\usepackage{changepage}
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{framed}
+\usepackage{tabularx}
+\usepackage{setspace}
+\usepackage{subfiles}
+
+\graphicspath{{images/}{../images/}}
+
+%\AddToShipoutPictureBG{%
+%  \checkoddpage
+%  \ifoddpage
+%  \put(0,0){\includegraphics{2101-left.jpg}}
+%  \else
+%  \put(0,0){\includegraphics{2101-right.jpg}}
+%  \fi
+%}
+
+%\newcommand{\sectionindent}{%
+%  \setlength{\parindent}{20em}
+%}
+
+\newcommand{\changefont}{%
+  \fontsize{18}{22}\selectfont
+}
+\setromanfont{Zapf Calligraphic 801 SWA}
+\pagestyle{fancy}
+\fancyfoot{}
+\setmainfont{Zapf Calligraphic 801 SWA}
+\setsansfont{Friz Quadrata}
+\setlist{noitemsep}                         % Remove space between list items.
+\setlist[description]{font=\fontseries{ub}} % Make description list title item bolder.
+\setlength{\columnsep}{18pt}                 % Add space between columns.
+\setlength{\textheight}{23cm}               % Make text fit tighter in page.
+\setlength{\columnwidth}{245pt}
+\definecolor{dndblue}{HTML}{4169e1}         % Colorpicked from PHB 3.5e.
+\setlength{\parindent}{8pt}
+
+\begin{document}
+
+	%\tableofcontents
+
+	\subfile{chapter/introduction}
+	\subfile{chapter/Chapter-1}
+	%\subfile{chapter/Chapter-2}
+	%\subfile{chapter/Chapter-3}
+	%\subfile{chapter/Chapter-4}
+	%\subfile{chapter/Chapter-5}
+	%\subfile{chapter/Chapter-6}
+	%\subfile{chapter/Chapter-7}
+	%\subfile{chapter/Chapter-8}
+	%\subfile{chapter/Chapter-9}
+	%\subfile{chapter/Chapter-10}
+	%\subfile{chapter/Chapter-11}
+	%\subfile{chapter/Chapter-12}
+	%\subfile{chapter/Chapter-13}
+	%\subfile{chapter/Chapter-14}
+	%\subfile{chapter/Chapter-15}
+	%\subfile{chapter/Appendix-1}
+	%\subfile{chapter/Appendix-2}
+	%\subfile{chapter/Appendix-3}
+
+
+\end{document}

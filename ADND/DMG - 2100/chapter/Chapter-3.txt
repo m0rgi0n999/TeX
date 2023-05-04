@@ -1,0 +1,689 @@
+= Chapter 3: Player Character Classes =
+The ''Player’s Handbook'' covers the nuts and bolts of character classes, explaining the mechanics of how they work and what they can do, but there is more to being a DM than just knowing the hard and fast rules. Character classes form the heart of the AD&D*® game, so it is useful to understand some of the concepts and relationships that define classes and how they function.
+
+== Class, Level, and the Common Man ==
+Character class and level are useful game measures of a character’s talents and abilities. Every class outlines a basic role for the character, a position and career in life. Each level defines additional power and provides a system whereby you can quantify and balance encounters.
+
+With only a little practice you learn that characters of X classes and levels can easily defeat monster Y but that monster Z will give them serious problems. This helps you create exciting, balanced adventures for your players.
+
+Yet, at the same time, you know that the concept of classes and levels doesn’t really apply to the real world. The teamster driving the wagon that passes the characters isn’t a 1st-, 5th-, or 100th-level teamster. He is a man, a man whose job it is to drive wagons and haul goods, The chambermaid is not a special class, nor are her abilities defined by levels.
+
+The teamster or chambermaid may be exceptionally skilled and competent, but for them this is not measured in character classes. There is no such thing as a teamster or chambermaid class, any more than there are merchant, sailor, prince, blacksmith, hermit, navigator, tinker, beggar, gypsy, or clerk classes. These are the things people do, not all-encompassing descriptions.
+
+Nor are all the people in your campaign world fighters, mages, thieves, or whatever. The situation would be utterly ridiculous if every NPC had a character class. You would have fighter chambermaids, mage teamsters, thief merchants, and ranger children. The whole thing defies logic and boggles the mind. Most non-player characters are people, just people, and nothing more.
+
+Only a few people actually attain any character level, no matter how low. Not every soldier who fights in a war becomesa fighter. Not every urchin who steals an apple from the marketplace becomes a thief character. The characters that have classes and levels have them because they are in some way special.
+
+This specialness has nothing to do with ability scores, class abilities, or levels. Such characters are special by definition. The fact that player characters are controlled by players renders them special. Perhaps these special characters are more driven or have some unknown inner spark or just the right combination of talents and desires. That’s up to the players. Similarly, non-player characters with classes are special because the the DM says so. Plain and simple. There is no secret reason for this—it just is.
+
+== 0-Level Characters ==
+The great mass of humanity, elf-kind, the dwarven clans, and halflings are “O-level” (zero-level) characters. They can gain in wisdom and skill, but they do not earn experience points for their activities. These common folk form the backbone of every fantasy world, doing the labor, making goods, selling cargos, sailing oceans, building ships, cutting trees, hauling lumber, tending horses, raising crops and more, Many are quite talented in the various arts and crafts. Some are even more proficient than player characters with the same training. After all, 0-level characters earn their livings doing this kind of work; for player characters such proficiencies are almost more of a hobby.
+
+For the vast majority of O-level NPCs you create and use in your game, all you need to know is a name, a personality, and an occupation. When the characters deal with the blacksmith or the innkeeper, there’s no need to create ability scores, THAC0, to-hit adjustments, Armor Class, and the like. This does assume, of course, that your player characters don’t go attacking every blacksmith and innkeeper in sight. If they do, you need to know a little more about 0-level characters:
+
+'''Ability Scores:''' These range from 3-18. For simplicity, don’t worry about racial modifiers for the demihuman races. Racial modifiers to combat, Armor Class, hit points, etc., do apply.
+
+'''Proficiencies:''' At best, a 0-level character will have one weapon proficiency, if that character’s profession reasonably allows for it. For example, a blacksmith could be proficient with a warhammer and an j might be allowed skill with a club (the axe handle under the bar...), but there’s little chancea clerk is going to be skilled with any type of weapon.
+
+In nonweapon proficiencies, 0-level characters have as many as are needed (and reasonable) given their profession and age. Thus, a blacksmith might be quite accomplished at the forge, having spent several profticiencies on the slot. Novices and incompetent craftsmen have the bare minimum training and skill. Typical journeymen spend two or three slots on their main skill. Experts and brilliant artists usually devote all their ability to a single proficiency. Masters, who watch over the work of journeymen and apprentices, are normally no more accomplished than journeymen but have additional proficiencies in other business areas.
+
+'''Hit Points:''' The majority of people have from 1-6 hit points. Dwarves and gnomes average from 1-8 hit points. Adjustments can be made for occupation or condition as indicated on Table 10, below.
+
+{| class="wikitable"
+	|+Table 10: 0-LEVEL HIT POINTS BY TITLE
+	! Profession
+	! Die Range
+	|-
+	| Manual Laborer
+	| 1d8
+	|-
+	| Soldier
+	| 1d8+1
+	|-
+	| Craftsman
+	| 1d6
+	|-
+	| Scholar
+	| 1d3
+	|-
+	| Invalid
+	| 1d4
+	|-
+	| Child
+	| 1d2
+	|-
+	| Youth
+	| 1d6
+|}
+
+Some players think it is unrealistic that a typical peasant can be killed by a single sword blow, a fall from a horse, or a thrown rock. In the real world, people can and do die from these causes. At the same time, however, others survive incredible injuries and wounds.
+
+When it is necessary to the success of an adventure (and only on extremely rare occasions), you can give O-level characters more hit points. The situation could have come about for any number of reasons: magic, blessings from on high, some particularly twisted curse (the peasant who could not die!)—you name it.
+
+It is also useful to make important NPCs, such as O-level kings or princes, tougher than the average person. This is particularly important in the case of rulers, otherwise some crazed player character is going to overthrow your campaign kingdom with a single swipe of his sword. This is normally not a desirable result.
+
+== Adventurers and Society ==
+If most people do not fall into a particular character class, how common are those with character classes and how do they fit into the society around them?
+
+This is an important question, one you will answer as you create your campaign. You don’t have to sit down and think out an exact answer ("2% of the population are adventurers”), although you can get that precise if you want. More likely, the answer will form over time as you populate villages, create encounters, and DM game sessions—you will unconsciously make your choices about frequency and character role. There are however, differences in how frequently the different classes will logically show up.
+
+=== Fighters ===
+Fighters are by far the most common character types in normal campaigns. They must meet the least stringent class requirements and are drawn from the biggest pool of talent—soldiers of innumerable armies, mercenary companies, militias, palace guards, temple hosts, and sheriff’s men. In these and other forces, the potential fighter learns his trade. He is taught how to handle weapons and care for them. He picks up some basic tactics and earns acceptance as a fighting man.
+
+From these ranks some go on to become 1st-level fighters. Such men are often given rank in recognition of their talents. Thus, a 1st-level fighter may become a corporal or a sergeant. As the ranks become greater and more influential, the tendency is to award these to higher level fighters. However, this trend is not absolute and often breaks down at the highest levels. The Captain of the Company may be a 12th-level fighter, but he would still take orders from a 0-level prince!
+
+Level is no guarantee of rank, nor is rank fixed to level. Some people don’t want responsibility and all that comes with it. They would rather let other people tell them what to do. Such characters may become accomplished fighters but never advance beyond the rank of common soldier. Political maneuvering and favoritism can raise even the lowest level character to the highest positions of authority.
+
+Since fighters tend to rise above the level of the common soldier, few armies are composed of high- or even low-level fighters. While there is little difference in ability between the typical foot soldier and a Istlevel fighter, it is just not possible to find an army of 20,000 4th-level fighters. It’s rare enough to find 1,000 or so 2nd-level fighters in a single unit. Such units are elite, superbly trained and outfitted, and are normally held in reserve for special tasks. They may be the shock troops of an assault, a special bodyguard, or the reserve of an army held back for pursuit.
+
+Adventurer fighters (whether player characters or NPCs) are those who have struck out on their own. Not every man is content to take orders or give orders, and fame seldom comes to the common foot soldier. Some men are willing to try to rise through the ranks, but it is by no means an easy or speedy process, There aren’t many openings, nor is it a path where skill at arms guarantees success.
+
+Given all this, it’s not surprising that most fighters opt for the more direct method of adventuring. In the course of adventuring, though, many fighters tind themselves becoming leaders and commanders, assembling men around them as they carve their own place in the world.
+
+=== Paladins ===
+Paladins are rare, in part because of the statistics of dice rolling and in part because paladinhood is an exacting road for characters to follow. It is easy to err and fall from the special state of grace required, Not every character is up to these demands, but those few that are can be truly special. You will not find units with thousands, hundreds, or even tens of paladins. At best, they form small groups (such as the Twelve Peers of Charlemagne or some of the Knights of the Round Table).
+
+Often, because of the sterling example they set, paladins lead others in battle. But, at the same time, they tend to be ill-suited to the task of ruling, which too often requires compromise of one’s principles. It is common to find the paladin working in association with the clergy of his religion, but lone paladins, carrying their faith into the wilderness, also appear in the tales of bards.
+
+=== Rangers ===
+Rangers tend to be loners, uncomfortable in the company of “civilized” men. They are also uncommon, again due to the demanding ability requirements of the class. These two factors make armies or companies of rangers most unlikely, only marginally less common than hordes of paladins.
+
+Although loners, they do not mind the company of other rangers, those who understand the ways of the wilderness and the need for space. Small groups of rangers will sometimes join an army as its scouts, especially if the need is pressing. They will occasionally be found in forest villages or near untracked wildernesses, Here, guides, scouts, woodsmen, trappers, pioneers, and stalkers form the pool from which the ranger ranks are filled. Few can be found in civilized lands—rangers in cities are truly oddities.
+
+=== Wizards ===
+Wizards are the most iconoclastic and self-important of all the character classes, for they are unique among all character classes. The peasant can pick up a sword and fight; a pious man can hope to serve his faith; a local wag can spin a good tale; and an unprincipled cad can rob the local merchants; but no one other than a wizard can cast magical spells. The need for highly specialized training truly sets them apart, and they know it.
+
+When mages gather, they tend to form societies or associations, organizations for men who speak of things not understood by the common folk (much like scientists today). But wizards are too fractious and independent a lot to organize themselves into proper unions—they can barely manage to form moderately organized guilds.
+
+Generally, their groups exist for such high-minded reasons as to “facilitate the exchange of knowledge” or “advance the state of the science of magic.” Some prepare texts or papers to share with fellow mages, detailing their latest experiments and discoveries or outlining some new theory. They enjoy the recognition of their peers as much as anyone.
+
+To outsiders, wizards seem aloof and daunting. Like craftsmen, they are most comfortable in the company of their fellows, speaking a language they all understand, The untrained, even apprentices, are intruders upon this fellowship and are apt to receive an icy and rude reception.
+
+Wizards are an eccentric, even perverse, lot. They’re likely to be found just about anywhere. Nonetheless, they have an affinity for civilization, ranging from small villages to vast cities. Only a few mages actually care to adventure since it is an extremely dangerous undertaking to which they are ill-trained and ill-suited, The vast majority spend their time experimenting in seclusion or working in the service of others, preferably well paid.
+
+Many mages, especially those of lesser ability, turn their art to practical ends— almost every village has a fellow who can whip up a few useful spells to help with the lambing or simplify the construction of a house, In larger cities, these mages become more specialized, such that one might lend his talents to construction, another to the finding of Jost things, and a third to aiding the local jewelers in their craft.
+
+Nearly all major families, merchant princes, and nobles have a mage or two in their employ. A few attempt (generally without success) to have these wizards mass-produce magical items. The problem is that wizards are as difficult to manage as rangers or paladins. They do not care for others bossing them around or encroaching upon their perceived privileges and rights, especially since they have the magical resources to make their displeasure known. Also, they are usually kept busy finding ways to strike at their employer’s rivals (or thwarting such attempts against their own lord). Foolish is the king who does not have a personal wizard and lamentable is the ruler who trusts the wrong mage.
+
+Not all wizards spend their time in the service of others. Some seek naught but knowledge. These scholar-mages tend to be viewed much like great university professors today—noble and distant, pursuing truth for its own sake. While not directly in the service of others, they can sometimes be commissioned to perform some duty or answer some question.
+
+The wealthy often provide endowments for such men, not to buy their services (which aren’t for sale) but to curry their favor in hopes that they will provide honor, glory, and just perhaps something useful. This situation is not unlike that of the great artists of the Renaissance who were supported by princes hoping to impress and outdo their rivals.
+
+There are wizards who spend all their time shut away from humanity in dark, forbidding towers or gloomy, bat-infested caves. Here they may live in rooms where opulent splendor mingles with damp foulness. Perhaps the strains and demands of their art have driven them mad. Perhaps they live as they do because they see and know more than other men. Who knows? They are, after all, eccentric in the extreme.
+
+=== Priests ===
+Priest characters are (obviously) not required to take up arms and set out on adventures to smite evil, No, their hierarchies require administrators, clerks, and devout workers of all types. Thus, although there may be many clergymen and women at a temple or monastery, only a few will have a character class and levels.
+
+Not all monks at a monastery are Istlevel (or higher) clerics. Most are monks or nuns, devout men and women working to serve their faith. Non-adventuring clergy are no less devout than their adventuring brethren, nor do they receive any less respect. Thus, it is possible to have leaders within a religious hierarchy who show no signs of special clerical ability, only proper faith and piety.
+
+Even more so than with military men, though, level is not a determiner of rank. Wisdom and its use, not the application of firepower or the number of foemen smitten, are the true pearls of the clergy. Indeed the goal of some beliefs is to demonstrate the greatest wisdom by divesting oneself of all earthly bonds—power, wealth, pride, and even level abilities—in an attempt to attain pertect harmony with everything.
+
+In the end, adventuring priests tend to form a small nucleus of crusaders for the faith. They are the ones who demonstrate their faith by braving the dangers that threaten their beliefs, the ones who set examples through trials and hardships. From these, others may spiritually profit.
+
+=== Thieves ===
+Thieves are often people who don’t fit in elsewhere, Unlike other classes, nearly all thieves are adventurers, often by necessity, True, many settle permanently in a single area and live off the local population, but when your life tends to be in defiance of the local law, you have to be ready to leave at a moment’s notice! Each job is an adventure involving great risks (including, possibly, death), and there are precious few opportunities to relax and let your guard down.
+
+Thieves occasionally form guilds, especially in major cities and places with a strong sense of law and order. In many cases, they are forced to cooperate merely to survive. Influential thieves see guilds as a way to increase their own profits and grant them the image of respectability. They become dons and crimelords, directing operations without ever having to dirty their hands.
+
+At the same time, the membership of a thieves’ guild is by definition composed of liars, cheats, swindlers, and dangerously violent men and women. Thus, such guilds are hotbeds of deceit, treachery, and backstabbing (literally). Only the most cunning and powerful rise to the top. Sometimes this rise is associated with level ability, but more often it is a measure of the don’s judge of character and political adeptness.
+
+Curiously, thieves who are masters of their craft tend not to advance too high in the organization. Their talents in the field are too valuable to lose, and their effort is expended on their art, not on maneuvering and toadying. There is, in fact, no rule that says the leader of the thieves’ guild has to be a thief! The leader’s job involves charisma, character appraisals, and politicking—the powerful crimelord could turn out to be a crafty merchant, a well-educated nobleman, or even an insidious mind flayer.
+
+=== Bards ===
+Bards are rare and, like thieves, tend to be adventurers, but for somewhat different reasons. They do occasionally violate the law and find it necessary to move on to the next town—and the next adventure—but more often they are driven by curiosity and wanderlust. Although some bards settle down in a town or city, most travel from place to place. Even “tamed” bards (as the settled ones are sometimes called) feel the urge to go out and explore, gather a few more tales, and come home with a new set of songs. After all, the entertainment business demands variety.
+
+There are generally no bard guilds or schools, no colleges, societies, or clubs. Instead, bards sometimes band in secret societies, loose affiliations that allow them to improve their art while maintaining an aura of mystery.
+
+Most frequently, however, bards rely on the informal hospitality of their kind. Should one bard arrive in the town of another, he can reasonably expect to stay with his fellow fora little while, provided he shares some of his lore and doesn’t cut into his host’s business, After a time, during which both bards learn a few of the other’s tales and songs, the visitor is expected to pack his bags and move on. Even among bards it is possible to overstay one’s welcome.
+
+Of course, there are times when a bard decides not to leave but to set up shop and stay. If the population is big enough to support both bards, they may get along. If it isn’t, there will almost certainly be bad blood between the two. Fortunately though, one or the other can usually be counted on to get wanderlust and set out on some great, new adventure. Bards do tend to be incurable romantics, after all.
+
+=== Character Classes in Your Campaign ===
+While the character discussion above provides a structure for adventurers in the game, your own campaign might be quite different. For example, there is no rule that says mages can’t form strong guilds. Such a group would have a profound impact on the campaign world, however. With their magical might, they could control virtually any facet of life they chose—politics, trade, class structure, even private behavior. Such a group would alter the amount of magic in your campaign and who possessed it, Organized mages might even attempt to limit the activities of those who present a threat to their power—such as adventurers. Whenever you alter the balance of the character classes, be sure you consider what the changes could do to your campaign.
+
+== High-Level Characters ==
+Along with character classes and levels comes the natural tendency to classify campaigns according to the level of the characters, Experienced players speak of “low-level” or “high-level” games in different terms and, indeed, such games are different from one another. Also differing from game to game, however, is the definition of high level.
+
+=== Defining “High Level” ===
+What constitutes a low- or high-level game is a matter of taste. Generally, DMs and players find a range of character levels that is comfortable for their style of play. Campaigns that commonly have 4th- to 8th-level characters consider 12th level or more to be high level, while those with 12th-level characters set the limit closer to 18th or 20th level. While there is no set break-point for high level, character duties and responsibilities begin to change around between 9th and 12th level.
+
+Generally, players find battling monsters and discovering treasure to be less and Jess satisfying as time goes on. Their characters’ abilities are such that monsters need to be almost ridiculously powerful to threaten them. Treasures must be vast to make an impression, While incredible foes and huge treasures are good once in a while, the thrill quickly wears thin.
+
+=== Changing Campaign Styles ===
+When players begin to get jaded, consider changing the style of the campaign. Higher level characters have great power—they should have adventures where that power influences and involves them in the campaign world. As leaders, rulers, and wise men, their actions affect more than just themselves, spreading outward in ripples over those they rule and those they seek to conquer. Political machinations, spying, backroom deals, treachery, and fraud become more pronounced. While these elements can play a part in a low-level campaign, at higher levels, the stakes are much higher.
+
+Added intrigue can be introduced into a campaign gradually. For example, Varrack, a mid-level fighter, is appointed sheriff of a local village as a reward for his sterling deeds, He can still adventure as he has been accustomed to, but now he must also watch over the villagers. The DM has the local bandits raid the trade road. As sheriff, Varrack must stop them. He goes, as he is accustomed to, with a small group, only to discover a camp of 500 outlaws. Realizing he’s badly outnumbered, he beats a hasty retreat, raises a small militia, and clears the countryside of the enemy.
+
+With this he goes up in level. In addition, his lord is pleased and grants Varrack stewardship of several villages, with sheriffs under his command. The neighboring baron (who organized and sent the bandits) notes Varrack’s success with mild displeasure, planting the seed of a festering hate. More immediately, the craven and vengeful sheriff of the next village on the road (whose incompetence allowed the bandits to flourish) suddenly finds himself out of favor. He blames Varrack and searches for a way to bring the new steward down.
+
+As the campaign progresses, the DM can slowly spin a web of intrigue around Varrack as enemies, open and hidden, seek to block his progress or use him to topple his own lord. Against these odds, Varrack may find himself destined to become the King’s champion, gaining new titles, responsibilities, friends, and enemies along the way.
+
+=== Above 20th Level ===
+Theoretically, there is no upper limit to character class levels (although there are racial limitations). The material presented here takes characters only to 20th level—experience has shown that player characters are most enjoyable when played within the 1-20 range. Above 20th level, characters gain few additional powers and face even fewer truly daunting adventures.
+
+Consummate skill and creativity are required to construct adventures for extremely powerful characters (at least adventures that consist of more than just throwing bigger and bigger monsters at the nearly unbeatable party). Very high level player characters have so few limitations that every threat must be directed against the same weaknesses. And there are only so many times a DM can kidnap friends and family, steal spell books, or exile powerful lords before it becomes old hat.
+
+'''Retirement:''' When characters reach the level where adventures are no longer a challenge, players should be encouraged to retire them. Retired characters enter a “serni-NPC” state. The character sheets and all information are entrusted to the DM’s care.
+
+A retired character still lives in the carnpaign world, usually settled in one spot, and normally has duties that prevent him fromOF a eae em eo adventuring. While in the DM’s care, he does not gain experience, use his magic items, or spend his treasure. It is assumed that he has income to meet his normal expenses.
+
+The retired character can be used to provide players with information, advice, and some material assistance (if this is not abused). However, his or her overall actions are controlled by the DM, not the player who originally created the character.
+
+If at all possible, player characters should be encouraged to retire as a group. This way al) players can create and play new characters of approximately the same level. If only one player retires his character to start a new 1st-level one while all the others continue with 20th-level characters, the poor newcomer isn’t really going to be able to adventure with them. (If he does, the player won’t get to do much or the character will have a very short life expectancy!)
+
+Some players may be reluctant to retire a favorite character. Explain to these players that retirement doesn’t mean the character can never be used again! Be sure to create special adventures that require those highlevel types to come out and do battle.
+
+Every once in a while the old adventuring group may have to reassemble to deal with some threat to the kingdom or the world. It’s the chance to show those upstart new characters just what a really powerful group can do! It also gives the players the opportunity to role-play some of their old favorites.
+
+If the players see the opportunity to use their powertul characters, even infrequently, they will be less reluctant to spend most of their playing time with new, lower-level characters.
+
+== Beginning Character Levels ==
+If at all possible, start characters at Ist level. The lowest character levels are like the early years of childhood. What happens to a character during these first adventures will do much to determine how that character will be role-played. Did Rath the Dwarf save the day by fool-hardily charging into battle when he was a mere Ist level? If he did, the odds are good the player will try it again and will begin to play Rath as a bold and reckless fellow.
+
+On the other hand, if Rath was clobbered the first few times he rushed in, the player would begin to play Rath as a cautious, prudent fellow. Even the smallest events can have a great effect on low-level characters, so these events sharply etch the behavior of the character. Deny the player these beginning levels and you are stripping him of the opportunity to develop his character’s personality.
+
+=== Mixing New and Old Characters ===
+Letting players begin at the beginning is fine when you first begin a campaign, and all player characters can begin at the same level. As sessions are played, however, a disparity in character levels will develop. New players will join the game and old players will create new characters. Eventually, you’ll reach a point where the original group of players has characters many levels higher than when they began. How, then, do you introduce new players and new player characters into your game?
+
+There are times when you should allow a character to start above Ist level. A newly created character should begin a campaign no higher than 4th level unless the group is very powerful. If this is the case, he should begin no higher than the lowest level character in the party (and it may be better to start a level or two lower).
+
+The new character should have equipment similar to that of his adventuring companions: If they have horses, he should have a horse, too. Do not give him free magica] items! These he must earn, He should start with a small amount of cash.
+
+Sometimes a player can replace a fallen player character by promoting an NPC henchman to player character status. This is a good method because the player is already familiar with the NPC and may have already created a personality for the character. When this happens, the player is given the NPC character sheet and allowed to take full control of it.
+
+=== Pre-Rolled Characters ===
+It is useful to have a few pre-rolled characters on hand. These should be of several different levels and classes, with equipment and personality quirks noted, These “instant” player characters can be used by guest players (those only able to play in a few sessions) and by regular players whose characters have died during the course of a session.
+
+When the latter occurs, introduce the new character at an appropriate point and then allow the player to control it for the rest of the evening. This keeps that player from being bored throughout the rest of the session. If the player enjoys the character (and you are pleased with the arrangement), you can allow him to continue playing that character in future sessions.
+
+== Creating a New Character Class (Optional Rule) ==
+The character classes listed in the rules are not the only ones that can exist in the AD&D® game, Many other character classes, either general or highly specialized, could also exist. Indeed, a common reaction of players to the character classes is to question why their characters can’t have the powers or skills of another class. Using the system below, this is possible. You can even create entirely new classes or combinations of existing character abilities.
+
+''Creating a new character class is not recommended for novice DMs or players!'' Before attempting this, be sure that you are familiar and comfortable with the AD&D® rules. Furthermore, it is not a good idea to use this system in a brandnew campaign which has no background for players to base actions and decisions on.
+
+The class-creation system here requires you to use your judgment—it isn’t fool-proof. Without careful thought, you may find you’ve created an overly powerful combination of powers or a bizarre, unplayable character class. As with new character races, start with a single test case before you approve the class for all players.
+
+Naturally, the DM must approve a class before a player can even begin using it. The DM also has the right to make any he sees fit, even after the character has been played for some time!
+
+You are advised not to try to create a super class—a class that allows players to do everything. Consider what is lost: A super character would require an immense amount of experience just to reach 2nd level. Normal characters would reach much higher levels, much sooner, and may even surpass the super character in ability. A super character also destroys party cooperation and play. If you havea character who can ad ganythita- wen dan naeil other characters (and hence other players). Furthermore, a whole group of super characters is nothing more than a group of one-class characters, You lose as much variety, as much color, as if you had a group consisting only of fighters. And a group of fighters (or any other single class), no matter what their abilities, is boring—there is nothing to distinguish Joe Fighter from Fred Fighter in ability.
+
+Another factor to consider when creating new character classes is whether a new class is really needed. Some players want to create a character class for every profession or ability—jesters, witches, vampire hunters, vikings, mountaineers, etc. They forget that these are really roles, not classes.
+
+What is a viking but a fighter with a certain outlook on life and warfare? A witch is really nothing but a female wizard. A vampire hunter is only a title assumed by a character of any class who is dedicated to the destruction and elimination of those loathsome creatures.
+
+The same is true of assassin—killing for profit requires no special powers, only a specific reprehensible outlook is needed. Choosing the title does not imply any special powers or abilities; the character just uses his current skills to fulfill a specific, personal set of goals.
+
+Before creating a character class, stop and ask yourself, “Is there already a character class that can fill the niche?” Think of ways an existing class could fulfill the desired goal through role-playing and careful choice of proficiencies. A mountaineer could easily be a fighter or ranger, born and bred in the mountains, with a love of the rugged peaks and proficiencies in climbing, mountaineering, and the like. Clearly, there is no need for a mountaineer class.
+
+Also consider how much fun the character is going to be to play. This is partictrue when you plan to create classes with highly specialized abilities. True, there may be a place for wise old sages or an alchemist, but would they be fun to play? Consider that all the sage does is research and answer questions and find forgotten facts. An important task, perhaps, but boring when compared to fighters, mages, and the like. Clearly there is no great demand for the sage as a player character, so, clearly, there is no need for the character class.
+
+Finally, remember that there is no such thing as an exclusively NPC character class. What is the logic of saying a nonplayer character can be such-and-such but that a player character cannot? None. This is a false restriction. Every character class you create should be open to player characters and non-player characters alike.
+
+With all these considerations in mind, you can use the system described elow to create new character classes. You are encouraged to modify the system or create one of your own, The method used here will give you a good starting place,
+
+To use this method, choose different abilities you want the class to have. You must include some abilities, such as fighting, but other abilities, such as spelcasting are optional. Each ability you choose has a multiple attached to it. As you select the abilities for your class, add the multiples together. After you have chosen all the abilities, multiply the base experience value (see Table 21) by this total. The result is the number of experience points your newclass must earn to go up in levels.
+
+'''Required Abilities:''' For each of the categories, choose one of the  options listed. Be sure to note this choice along with the multiple cost.
+
+{| class="wikitable"
+	|+Table 11: RACE
+	! Race
+	! Multiple
+	|-
+	| Human
+	| 0
+	|-
+	| Other
+	| 1
+|}
+
+{| class="wikitable"
+	|+Table 12: COMBAT VALUE USED
+	! Level
+	! Multiple
+	|-
+	| 0-level Human*
+	| -2
+	|-
+	| Monster
+	| +3
+	|-
+	| Priest
+	| 0
+	|-
+	| Warrior
+	| +2
+	|-
+	| Wizard
+	| -1
+	|-
+	| Rogue
+	| -1
+|}
+ * 0-level humans never improve in combat ability, regardless of level.
+
+{| class="wikitable"
+	|+Table 13: SAVING THROW TABLE USED
+	! Level
+	! Multiple
+	|-
+	| 0-level Human Saving Throws*
+	| -2
+	|-
+	| Any other saving throw table
+	| 0
+|}
+ * 0-level humans never improve in saving throws, regardless of level.
+
+{| class="wikitable"
+	|+Table 14: HIT DICE PER LEVEL
+	! Level
+	! Multiple
+	|-
+	| 1d3
+	| 0
+	|-
+	| 1d4
+	| +0.5
+	|-
+	| 1d6
+	| +0.75
+	|-
+	| 1d8
+	| +1
+	|-
+	| 1d10
+	| +25
+	|-
+	| 1d12
+	| +4
+|}
+{| class="wikitable"
+	|+Table 15: ARMOR ALLOWED
+	! Level
+	! Multiple
+	|-
+	| None|
+	| -1
+	|-
+	| Limited AC*
+	| -0.5
+	|-
+	| All
+	| 0
+|}
+ * Limited AC means the character can only use armor of AC 5 or worse.
+
+{| class="wikitable"
+	|+Table 16: WEAPONS ALLOWED
+	! Level
+	! Multiple
+	|-
+	| Limited*
+	| -1.5
+	|-
+	| One class**
+	| -1
+	|-
+	| All
+	| 0
+|}
+ * The class is limited to a maximum of 4 different weapons, none of which can do more than 1-6 points of damage.
+ ** The class is limited to one weapon category (slashing, piercing, or bludgeoning).
+
+{| class="wikitable"
+	|+Table 17: HIT POINTS PER LEVEL BEYOND 9TH
+	! Degree
+	! Multiple
+	|-
+	| +1
+	| +0.5
+	|-
+	| +2
+	| +1
+	|-
+	| +3
+	| +2
+|}
+'''Optional Abilities:''' In addition to the required abilities listed above, you can choose any of the optional abilities below. Again, these abilities will increase your base multiplier, making it more difficult to increase in levels.
+{| class="wikitable"
+	|+Table 18: OPTIONAL ABILITIES
+	! Ability
+	! Multiple
+	|-
+	| Allowed fighter Constitution bonus
+	| +1
+	|-
+	| Allowed fighter Strength bonus
+	| +1
+	|-
+	| Animal empathy
+	| +1.5
+	|-
+	| Bonus +1 to hit a creature*
+	| +1
+	|-
+	| Per initial proficiency slot (if used)
+	| +0.25
+	|-
+	| Read languages
+	| +0.5
+	|-
+	| Aura of protection as paladin
+	| +2
+	|-
+	| Backstab
+	| +1
+	|-
+	| Cast any spell as Priest
+	| +8
+	|-
+	| Cast single spere of priest spells
+	| +2
+	|-
+	| Climb walls**
+	| +1
+	|-
+	| Find/Remove traps**
+	| +1
+	|-
+	| Healing as paladin
+	| +2
+	|-
+	| Hear noise**
+	| +0.5
+	|-
+	| Hide in shadows**
+	| +1
+	|-
+	| Learn and cast any school of magic
+	| +16
+	|-
+	| Learn and cast one school of magic
+	| +3
+	|-
+	| Move silently**
+	| +1
+	|-
+	| Open locks**
+	| +1
+	|-
+	| Pick pockets**
+	| +1
+	|-
+	| Granted power (turn undead, druid shapechange)
+	| +3
+	|-
+	| Use magical items allowed to an existing class
+	| +1
+	|-
+	| Other
+	| +3
+|}
+ * This applies only to a single type of creatures (orcs, etc.). More than one creature can be chosen, so long as the multiplier is increased for each choice.
+ ** The character uses Table 19.
+
+{| class="wikitable" 
+	|- style="text-align:center;"
+	|+Table 19: THIEF AVERAGE ABILITY TABLE
+	! colspan="9" | --------Base Chance to---------
+	|-
+	| Level<br />of the<br />Thief
+	| <br />Pick<br />Pockets
+	| <br />Open<br />Locks
+	| Find/<br />Remove<br />Traps
+	| <br />Move<br />Silently
+	| <br />Hide In<br />Shadows
+	| <br />Hear<br />Noise
+	| <br />Climb<br />Walls
+	| <br />Read<br />Languages
+	|-
+	| 1
+	| 30%
+	| 25%
+	| 20%
+	| 15%
+	| 10%
+	| 10%
+	| 85%
+	| —
+	|-
+	| 2
+	| 35%
+	| 29%
+	| 25%
+	| 21%
+	| 15%
+	| 10%
+	| 86%
+	| —
+	|-
+	| 3
+	| 40%
+	| 33%
+	| 30%
+	| 27%
+	| 20%
+	| 15%
+	| 87%
+	| —
+	|-
+	| 4
+	| 45%
+	| 37%
+	| 35%
+	| 33%
+	| 25%
+	| 15%
+	| 88%
+	| 20%
+	|-
+	| 5
+	| 50%
+	| 42%
+	| 40%
+	| 40%
+	| 31%
+	| 20%
+	| 90%
+	| 25%
+	|-
+	| 6
+	| 55%
+	| 47%
+	| 45%
+	| 47%
+	| 37%
+	| 20%
+	| 92%
+	| 30%
+	|-
+	| 7
+	| 60%
+	| 52%
+	| 50%
+	| 55%
+	| 43%
+	| 25%
+	| 94%
+	| 35%
+	|-
+	| 8
+	| 65%
+	| 57%
+	| 55%
+	| 62%
+	| 49%
+	| 25%
+	| 96%
+	| 40%
+	|-
+	| 9
+	| 70%
+	| 62%
+	| 60%
+	| 70%
+	| 56%
+	| 30%
+	| 98%
+	| 45%
+	|-
+	| 10
+	| 80%
+	| 67%
+	| 65%
+	| 78%
+	| 63%
+	| 30%
+	| 99%
+	| 50%
+	|-
+	| 11
+	| 905
+	| 72%
+	| 70%
+	| 86%
+	| 70%
+	| 35%
+	| 99%
+	| 55%
+	|-
+	| 12
+	| 95%
+	| 77%
+	| 75%
+	| 94%
+	| 77%
+	| 35%
+	| 99%
+	| 60%
+	|-
+	| 13
+	| 99%
+	| 82%
+	| 80%
+	| 99%
+	| 85%
+	| 40%
+	| 99%
+	| 65%
+	|-
+	| 14
+	| 99%
+	| 87%
+	| 85%
+	| 99%
+	| 93%
+	| 40%
+	| 99%
+	| 70%
+	|-
+	| 15
+	| 99%
+	| 92%
+	| 90%
+	| 99%
+	| 99%
+	| 50%
+	| 99%
+	| 75%
+	|-
+	| 16
+	| 99%
+	| 97%
+	| 95%
+	| 99%
+	| 99%
+	| 50%
+	| 99%
+	| 80%
+	|-
+	| 17
+	| 99%
+	| 99%
+	| 99%
+	| 99%
+	| 99%
+	| 55%
+	| 99%
+	| 80%
+|}
+'''Restrictions:''' In order to lower the overal multiple of the class, restrictions can also ve chosen that will affect the behavior and abilities of the class. These multiples are substracted from the current total. Characters must honor the restrictions of their class.
+{| class="wikitable"
+	|+Table 20: RESTRICTIONS
+	! Restrictions
+	! Multiplier
+	|-
+	| Must be lawful
+	| -1
+	|-
+	| Must be neutral
+	| -1
+	|-
+	| Must be good
+	| -1
+	|-
+	| Cannot keep more treasure than can carry
+	| -0.5
+	|-
+	| Must donate 10% of all treasure
+	| -0.5
+	|-
+	| Non-human level limit of 9*
+	| -1
+	|-
+	| Non-human level limit 0f 12*
+	| -0.5
+	|-
+	| Has particular ethos that must be obeyed
+	| -1
+	|-
+	| Cannot own more than 10 magical items
+	| -0.5
+	|-
+	| Cannot own more than 6 magical items
+	| -1
+	|-
+	| Cannot associate with one class or alignment
+	| -1
+	|-
+	| Ability use delayed or higher level**
+	| -0.5
+|}
+ * If the character is non-human.
+ ** Delayed ability use prevents the character from having the power until he reaches the stated level. No more than two abilities can be delayed. The DM determines the level at which abilities become available for use.
+
+'''Base Experience:''' After all multiples have been calculated, you must determine the experience points required per level. Take your multiple number and multiply it by the base experience value for each level as given in Table 21. When you are finished, you will have a complete Experience Point Table for your new character class.
+{| class="wikitable"
+	|+Table 21: BASE EXPERIENCCE POINTS
+	! Level
+	! Base Experience
+	|-
+	| 2
+	| 200
+	|-
+	| 3
+	| 400
+	|-
+	| 4
+	| 800
+	|-
+	| 5
+	| 2,000
+	|-
+	| 6
+	| 4,000
+	|-
+	| 7
+	| 8,000
+	|-
+	| 8
+	| 15,000
+	|-
+	| 9
+	| 28,000
+	|-
+	| 10+
+	| 30,000/additional level
+|}
+Note that you can’t construct the existing character classes by using this method! The standard classes give players advantages over some custom=designed classes. Standard class characters advance in levels more quickly and, generally, have better abilities than custom-designed characters.
